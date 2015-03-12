@@ -1,8 +1,8 @@
 Title: Bus OC Transpo Ottawa - MonTr…
 ----------
 Short description:
-Autobus OC Transpo d'Ottawa pour MonTransit BETA.
-Horaire. Statu et nouvelle en temps réel.
+Autobus OC Transpo d'Ottawa pour MonTransit BETA
+Horaire. Mise à jour en direct
 ----------
 What's new in this version?:
 Horaires du 2 Mars 2015 au 18 Avril 2015.
