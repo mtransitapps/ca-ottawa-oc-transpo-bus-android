@@ -503,7 +503,7 @@
 1073,'1073','Manotick Station / Herberts Corners',45.20594,-75.594788
 1074,'1074','Donald / Frances',45.428356,-75.646973
 1075,'1075','Longfields / Mountshannon',45.288345,-75.73484
-1076,'1076','Ernst & Young',45.331303,-75.657463
+1076,'1076','Ey Centre',45.331303,-75.657463
 1077,'1077','Uplands / Breadner',45.334843,-75.660065
 1078,'1078','Piperville / Carlsbad Springs Community Centre',45.36644,-75.463409
 1079,'1079','Piperville / Carlsbad Springs Community Centre',45.366394,-75.463158
@@ -2930,7 +2930,7 @@
 4913,'4913','Dovercourt / Wavell',45.379585,-75.764549
 4914,'4914','Dovercourt / Redwood',45.378819,-75.767525
 4915,'4915','Saville Row / Lockhart',45.374031,-75.77034
-4916,'4916','Saville Row / Woodroffe',45.373451,-75.772018
+4916,'4916','Saville Row / Woodroffe',45.373524,-75.772064
 4917,'4917','Saville Row / Woodroffe',45.373379,-75.771935
 4918,'4918','Saville Row / Neepawa',45.37495,-75.769012
 4919,'4919','Sherbourne / Dovercourt',45.378532,-75.767471
@@ -3529,8 +3529,8 @@
 6181,'6181','Mccurdy / Young',45.299103,-75.897034
 6182,'6182','Mccurdy / Maple Grove',45.300358,-75.90168
 6183,'6183','Mccurdy / Dorey',45.303116,-75.90387
-6184,'6184','2nd Castlefrank / Mccurdy',45.30756,-75.897255
-6185,'6185','1st Castlefrank / Mccurdy',45.306904,-75.896828
+6184,'6184','Castlefrank / Mccurdy',45.30756,-75.897255
+6185,'6185','Castlefrank / Mccurdy',45.306904,-75.896828
 6186,'6186','Mccurdy / Thiessen',45.304665,-75.898994
 6187,'6187','Mccurdy / Dorey',45.303242,-75.903946
 6188,'6188','Mccurdy / Fessenden',45.301094,-75.903214
@@ -4118,6 +4118,7 @@
 6990,'6990','Victoria / Glen',45.233936,-75.477631
 6991,'6991','Victoria / Glen',45.23381,-75.477531
 6992,'6992','Victoria / Brentwood',45.23214,-75.482018
+6993,'6993','Victoria / Brentwood',45.232014,-75.481918
 6994,'6994','Manotick Station / Elkwood',45.235477,-75.611572
 6995,'6995','Manotick Station / Elkwood',45.234974,-75.611481
 6996,'6996','Parkway / Sunny',45.250488,-75.588501
@@ -4469,7 +4470,7 @@
 7459,'7459','Caldwell / Merivale',45.373329,-75.733185
 7460,'7460','Summerville / Prince',45.376308,-75.730728
 7461,'7461','Summerville / Silver',45.377312,-75.728493
-7462,'7462','Summerville / Silver',45.377159,-75.728729
+7462,'7462','Summerville / Silver',45.377048,-75.728836
 7463,'7463','Hollington / Emperor',45.379593,-75.727867
 7464,'7464','Hollington / Emperor',45.379456,-75.727531
 7465,'7465','Admiral / Anna',45.382809,-75.729454
