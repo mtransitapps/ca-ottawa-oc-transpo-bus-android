@@ -5,7 +5,7 @@ Autobus OC Transpo d'Ottawa pour MonTransit BETA
 Horaire. Mise à jour. Nouvelles
 ----------
 What's new in this version?:
-Horaires du 19 Avril 2015 au 27 Juin 2015.
+Horaires du 19 Mai 2015 au 27 Juin 2015.
 Nouvelles de www.octranspo1.com.
 Tweets de @OC_Transpo et @OCTranspoDirect.
 
