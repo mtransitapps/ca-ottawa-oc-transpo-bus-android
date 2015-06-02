@@ -1,5 +1,5 @@
 274,'274','Jockvale / Abetti',45.25885,-75.730598
-275,'275','Marconi / Shirley''s Brook',45.356106,-75.922829
+275,'275','Marconi / Shirley''s Brk',45.356106,-75.922829
 303,'303','River / Balmoral',45.306709,-75.693352
 304,'304','River / Ad. 540',45.288792,-75.693413
 310,'310','Jockvale / Ad. 3280',45.264496,-75.739342
@@ -15,7 +15,7 @@
 323,'323','Merivale / Capilano',45.35537,-75.735977
 324,'324','Bilberry / Ad. 6600',45.479378,-75.530579
 325,'325','Don / Zephyr',45.36364,-75.79599
-326,'326','Orléans / Forest Valley',45.449612,-75.53521
+326,'326','Orléans / Forest Vly',45.449612,-75.53521
 330,'330','Portobello / Capreol',45.456242,-75.465996
 331,'331','Brian Coburn / Boisfranc',45.454235,-75.469742
 332,'332','Exprit / Galleria',45.454735,-75.473419
@@ -46,7 +46,7 @@
 370,'370','Fernbank / Liard',45.251938,-75.905304
 371,'371','Fernbank / Cherry',45.24971,-75.909393
 379,'379','Page / Buttonfield',45.445183,-75.526306
-380,'380','Huntmar / Maple Grove',45.288746,-75.920273
+380,'380','Huntmar / Maple Grv',45.288746,-75.920273
 381,'381','Amberwood / Merivale',45.317406,-75.713837
 383,'383','Beaverbrook / Leacock',45.328678,-75.900139
 385,'385','Johnston / Pennard',45.368973,-75.6334
@@ -56,10 +56,10 @@
 389,'389','Lorry Greenberg / Conroy',45.369446,-75.622421
 390,'390','Zaidan / Bellingham',45.365952,-75.632538
 391,'391','Pagé / Innes',45.446415,-75.527283
-392,'392','Pagé / Creek Crossing',45.438889,-75.522797
-395,'395','Shirley''s Brook / Helmsdale',45.353531,-75.922531
-397,'397','Shirley''s Brook / Catterick',45.356319,-75.920708
-398,'398','Shirley''s Brook / Catterick',45.356205,-75.920876
+392,'392','Pagé / Crk Xing',45.438889,-75.522797
+395,'395','Shirley''s Brk / Helmsdale',45.353531,-75.922531
+397,'397','Shirley''s Brk / Catterick',45.356319,-75.920708
+398,'398','Shirley''s Brk / Catterick',45.356205,-75.920876
 399,'399','Beaverbrook / Varley',45.327202,-75.908592
 400,'400','Canada Post / Heron',45.375629,-75.688507
 401,'401','Canada Post / Brookfield',45.373905,-75.688698
@@ -68,8 +68,8 @@
 406,'406','Viewmount / Grant Carman',45.345047,-75.7267
 408,'408','Innes / Prestwick',45.459301,-75.493935
 413,'413','Conroy / Johnston',45.372913,-75.624123
-415,'415','Huntmar / Maple Grove',45.288792,-75.92012
-416,'416','Bridgestone / Bridle Park',45.284309,-75.855904
+415,'415','Huntmar / Maple Grv',45.288792,-75.92012
+416,'416','Bridgestone / Bridle Pk',45.284309,-75.855904
 417,'417','Star Top /Innes',45.413181,-75.614517
 418,'418','Leikin / Beckstead',45.296818,-75.706078
 419,'419','Leikin / Beckstead',45.296848,-75.706284
@@ -81,11 +81,11 @@
 428,'428','Scott / Lanark',45.397488,-75.748848
 431,'431','Lord Byng / Kanata',45.311939,-75.905266
 432,'432','Lord Byng / Kanata',45.311977,-75.905495
-433,'433','Booth / Vimy Place',45.417412,-75.715378
+433,'433','Booth / Vimy Pl',45.417412,-75.715378
 434,'434','Jockvale / Golflinks S.',45.250862,-75.720337
 437,'437','Valin / Innes',45.472618,-75.447906
 438,'438','Valin / Pine Vista',45.473404,-75.448479
-439,'439','Valin / Trail Side',45.474575,-75.449318
+439,'439','Valin / Trl Side',45.474575,-75.449318
 440,'440','Valin / Timbertrail',45.47459,-75.450058
 441,'441','Valin / Mondavi',45.475334,-75.452797
 442,'442','Valin / Mondavi',45.47522,-75.453156
@@ -115,11 +115,11 @@
 479,'479','Valin / Winsome',45.472317,-75.463417
 480,'480','Valin / Demeter',45.472961,-75.464874
 481,'481','Valin / Frenette',45.474388,-75.46833
-482,'482','Findlay Creek / Kelly Farm',45.3172,-75.600182
+482,'482','Findlay Crk / Kelly Farm',45.3172,-75.600182
 483,'483','Kelly Farm / Shepody',45.318207,-75.604347
-484,'484','Kelly Farm / Creston Valley',45.318142,-75.6063
+484,'484','Kelly Farm / Creston Vly',45.318142,-75.6063
 485,'485','Kelly Farm / Bradwell',45.318546,-75.608055
-486,'486','Kelly Farm / Creston Valley',45.318089,-75.605949
+486,'486','Kelly Farm / Creston Vly',45.318089,-75.605949
 487,'487','Kelly Farm / Shepody',45.317841,-75.603638
 492,'492','Tenth Line / Vanguard',45.458603,-75.486389
 493,'493','Tenth Line / Vanguard',45.458469,-75.486649
@@ -154,19 +154,19 @@
 599,'599','Innes / Prestwick',45.458714,-75.495682
 605,'605','Merivale / Bentley',45.331123,-75.721855
 606,'606','Merivale / Bongard',45.329334,-75.72084
-610,'610','Pine Hill / Stonehaven',45.290443,-75.8508
+610,'610','Pine Hl / Stonehaven',45.290443,-75.8508
 611,'611','Pinehill / Windfield',45.290333,-75.850609
-612,'612','Pine Hill / Peregrine',45.29184,-75.849754
-613,'613','Pine Hill / Windfield',45.291767,-75.849548
-614,'614','Pine Hill / Watertrush',45.293877,-75.850098
-615,'615','Pine Hill / Nighthawk',45.293964,-75.849915
-616,'616','Pine Hill / Osprey',45.295025,-75.851143
-617,'617','Pine Hill / Osprey',45.296543,-75.852348
+612,'612','Pine Hl / Peregrine',45.29184,-75.849754
+613,'613','Pine Hl / Windfield',45.291767,-75.849548
+614,'614','Pine Hl / Watertrush',45.293877,-75.850098
+615,'615','Pine Hl / Nighthawk',45.293964,-75.849915
+616,'616','Pine Hl / Osprey',45.295025,-75.851143
+617,'617','Pine Hl / Osprey',45.296543,-75.852348
 618,'618','Fringewood / Cloverloft',45.280151,-75.912842
 619,'619','Fringewood / Cloverloft',45.280285,-75.912697
 620,'620','Fringewood / Lazy Nol',45.27858,-75.911888
 621,'621','Fringewood / Lazy Nol',45.278355,-75.911507
-622,'622','Fringewood / Poole Creek',45.275028,-75.910255
+622,'622','Fringewood / Poole Crk',45.275028,-75.910255
 623,'623','Fringewood / Woodwind',45.275009,-75.909988
 624,'624','Jockvale / Cambrian',45.256565,-75.728401
 630,'630','Eagleson / Cadence',45.284473,-75.865952
@@ -186,8 +186,8 @@
 647,'647','Herzberg / March',45.332493,-75.893318
 648,'648','Herzberg / March',45.333317,-75.89389
 654,'654','River / Shoreline Pathway',45.275806,-75.695946
-655,'655','Shirley''s Brook / Tobermory',45.354038,-75.919571
-656,'656','Shirley''s Brook / Aberfoyle',45.354073,-75.919312
+655,'655','Shirley''s Brk / Tobermory',45.354038,-75.919571
+656,'656','Shirley''s Brk / Aberfoyle',45.354073,-75.919312
 660,'660','Southvale / Blackstone',45.39558,-75.609642
 661,'661','Beatrice / Clearbrook',45.273392,-75.726486
 663,'663','Chapman Mills / Clearbrook',45.27285,-75.721352
@@ -201,7 +201,7 @@
 674,'674','Strandherd / Andora',45.266499,-75.755028
 676,'676','Beatrice / Chapman Mills',45.271858,-75.725914
 678,'678','Spratt / Golden Eye',45.282177,-75.685875
-689,'689','Longfield - Davidson Heights H.S.',45.278439,-75.741234
+689,'689','Longfield - Davidson Hts H.S.',45.278439,-75.741234
 691,'691','Spratt / Canyon Walk',45.284771,-75.681084
 692,'692','Spratt / 1st Shoreline',45.277363,-75.688148
 694,'694','River / Ad. 335',45.316017,-75.69252
@@ -230,8 +230,8 @@
 721,'721','Beatrice / Tapestry',45.269577,-75.724327
 722,'722','Paul Metivier / Glendore',45.269234,-75.722427
 723,'723','Paul Metivier / Clearbrook',45.27021,-75.719307
-724,'724','Paul Metivier / Moss Grove',45.270672,-75.717224
-725,'725','Paul Metivier / Moss Grove',45.270702,-75.716499
+724,'724','Paul Metivier / Moss Grv',45.270672,-75.717224
+725,'725','Paul Metivier / Moss Grv',45.270702,-75.716499
 726,'726','Berrigan / Wanstead',45.281395,-75.732246
 727,'727','John Sutherland / Q.C.H Main Entrance',45.336983,-75.807716
 728,'728','John Sutherland / Q.C.H Main Entrance',45.33712,-75.80777
@@ -246,35 +246,35 @@
 738,'738','Romina / Opus',45.274715,-75.865601
 739,'739','Romina / Opus',45.274616,-75.865753
 742,'742','Industrial / Russell',45.409092,-75.635094
-743,'743','Ogilvie / City Park',45.434322,-75.611526
-744,'744','Ogilvie / City Park',45.434002,-75.611969
+743,'743','Ogilvie / City Pk',45.434322,-75.611526
+744,'744','Ogilvie / City Pk',45.434002,-75.611969
 745,'745','Kilbirnie / Blackleaf',45.251949,-75.728249
 746,'746','Jockvale / Golflinks',45.25663,-75.728249
 747,'747','Jockvale / Riverstone',45.259064,-75.730492
 748,'748','St Joseph / Trim',45.488819,-75.47905
-750,'750','Taylor Creek / Lacolle',45.488911,-75.486473
-751,'751','Taylor Creek / Lacolle',45.490192,-75.486794
-752,'752','Taylor Creek / Vimont',45.49197,-75.485352
-753,'753','Taylor Creek / Trim',45.491489,-75.480492
+750,'750','Taylor Crk / Lacolle',45.488911,-75.486473
+751,'751','Taylor Crk / Lacolle',45.490192,-75.486794
+752,'752','Taylor Crk / Vimont',45.49197,-75.485352
+753,'753','Taylor Crk / Trim',45.491489,-75.480492
 754,'754','Jeanne-D''arc N / Trim',45.496506,-75.485565
 755,'755','Jeanne-D''arc N / Trim',45.496677,-75.485512
 759,'759','Champlain / Jeanne D''arc',45.483219,-75.519882
 760,'760','Jeanne D''arc / Champlain',45.484138,-75.521004
-761,'761','Stittsville Main / West Ridge',45.242088,-75.912865
-762,'762','Stittsville Main / West Ridge',45.242111,-75.912659
-763,'763','Holly Acres / Bayshore Station',45.344429,-75.814072
-764,'764','Holly Acres / Bayshore Station',45.344509,-75.813942
+761,'761','Stittsville Main / West Rdg',45.242088,-75.912865
+762,'762','Stittsville Main / West Rdg',45.242111,-75.912659
+763,'763','Holly Acres / Bayshore Sta',45.344429,-75.814072
+764,'764','Holly Acres / Bayshore Sta',45.344509,-75.813942
 765,'765','Renaud / Anderson',45.419662,-75.567177
 766,'766','Anderson / Weir',45.419804,-75.568039
 767,'767','Strandherd / Kingsview',45.264847,-75.757141
-768,'768','Shirley''s Brook / Helmsdale',45.353104,-75.919731
-769,'769','Shirley''s Brook / Helmsdale',45.353115,-75.91951
+768,'768','Shirley''s Brk / Helmsdale',45.353104,-75.919731
+769,'769','Shirley''s Brk / Helmsdale',45.353115,-75.91951
 770,'770','Boundary / Ad. 4700',45.362644,-75.45253
 771,'771','Boundary / Ad. 4700',45.362591,-75.452721
 772,'772','Johnston / Tapiola',45.367985,-75.638535
 773,'773','Johnston / Tapiola',45.367859,-75.638435
-774,'774','Hazeldean / Grant Crossing Centre',45.286732,-75.906029
-775,'775','Hazeldean / Grant Crossing Centre',45.286686,-75.90641
+774,'774','Hazeldean / Grant Xing Ctr',45.286732,-75.906029
+775,'775','Hazeldean / Grant Xing Ctr',45.286686,-75.90641
 777,'777','Bank / Arena',45.329723,-75.598991
 778,'778','Holland / Wellington',45.400059,-75.732033
 779,'779','Holland / Wellington',45.400127,-75.732292
@@ -285,7 +285,7 @@
 801,'801','Equestrian / Harness',45.287785,-75.864304
 802,'802','Merkley / Apollo',45.47411,-75.484779
 803,'803','Eagleson / Palomino',45.296803,-75.872643
-804,'804','Rideau Valley / Prince Of Wales',45.246998,-75.710976
+804,'804','Rideau Vly / Prince Of Wales',45.246998,-75.710976
 805,'805','Katimavik / Terry Fox',45.302734,-75.906693
 806,'806','Katimavik / Mcgibbon',45.306805,-75.902031
 808,'808','Eagleson / Hazeldean',45.303589,-75.876602
@@ -294,10 +294,10 @@
 815,'815','Sheldrake / Castlefrank',45.28656,-75.882294
 816,'816','Glamorgan / Rothesay',45.286865,-75.877075
 822,'822','Beaverbrook / Leacock',45.328602,-75.900612
-823,'823','Forest Valley / Ridgelea',45.454571,-75.541672
+823,'823','Forest Vly / Ridgelea',45.454571,-75.541672
 826,'826','Eagleson / Kakulu',45.309883,-75.880142
 827,'827','Hazeldean / Castlefrank',45.29908,-75.886757
-828,'828','Hazeldean / Irwin Gate',45.302441,-75.880676
+828,'828','Hazeldean / Irwin Gt',45.302441,-75.880676
 830,'830','Castlefrank / Macneil',45.298595,-75.89119
 831,'831','Mccurdy / Sewell',45.305222,-75.898605
 832,'832','Montréal / Nrc',45.44669,-75.618698
@@ -305,7 +305,7 @@
 835,'835','Katimavik / Castlefrank',45.309124,-75.898117
 836,'836','Eagleson / Timm',45.314205,-75.882301
 837,'837','Alta Vista / Summit',45.39135,-75.662125
-838,'838','Manotick Main / Island View',45.218128,-75.672729
+838,'838','Manotick Main / Island Vw',45.218128,-75.672729
 839,'839','Des Pères Blancs / Lebrun',45.442703,-75.661797
 840,'840','Manotick Main / Century',45.216164,-75.66954
 842,'842','Katimavik / Eagleson',45.314381,-75.883331
@@ -321,10 +321,10 @@
 864,'864','Innes / Ad. 3927',45.454659,-75.507568
 865,'865','Carling / Britannia',45.360077,-75.793289
 866,'866','Forestvalley / Ad. 1402',45.458359,-75.545746
-867,'867','March / Station',45.338196,-75.911385
+867,'867','March / Sta',45.338196,-75.911385
 868,'868','Teron / Steacie',45.333176,-75.904686
 869,'869','Old Richmond / Fallowfield',45.259033,-75.825371
-870,'870','Fallowfield / Steeple Hill',45.264084,-75.816437
+870,'870','Fallowfield / Steeple Hl',45.264084,-75.816437
 871,'871','Teron / Ad. 989',45.327908,-75.897308
 872,'872','Penfield / Teron',45.325565,-75.893181
 873,'873','Penfield / Selwyn',45.330738,-75.893127
@@ -341,13 +341,13 @@
 891,'891','Abbott / Carbery',45.26162,-75.915703
 892,'892','Lorry Greenberg / Bramblegrove',45.367714,-75.624161
 893,'893','Lorry Greenberg / Bramblegrove',45.368229,-75.624184
-895,'895','Carling Place Lab #5',45.350376,-75.849297
+895,'895','Carling Pl Lab #5',45.350376,-75.849297
 896,'896','Carling / Ullswater',45.352283,-75.839996
 897,'897','Carling / Sunny Brae',45.352272,-75.83506
 898,'898','Crystal Beach / Solva',45.347897,-75.834793
 899,'899','Crystal Beach / Corkstown',45.344494,-75.830956
-900,'900','Granite Ridge / Cinnabar',45.269962,-75.906792
-901,'901','Carling Place Lab # 5',45.350437,-75.849129
+900,'900','Granite Rdg / Cinnabar',45.269962,-75.906792
+901,'901','Carling Pl Lab # 5',45.350437,-75.849129
 902,'902','Corkstown / Carling',45.347843,-75.822098
 903,'903','Crystal Beach / Stillwater',45.345116,-75.83107
 904,'904','Crystal Beach / Solva',45.348087,-75.834702
@@ -355,7 +355,7 @@
 908,'908','Carling / Sunny Brae',45.352406,-75.834892
 909,'909','Carling / James Cummings',45.352589,-75.84301
 910,'910','Carling / Grandview',45.354279,-75.848679
-913,'913','Robertson / Mill Hill',45.317684,-75.843475
+913,'913','Robertson / Mill Hl',45.317684,-75.843475
 914,'914','Robertson / Westcliffe',45.318737,-75.84169
 915,'915','Westcliffe / Oberon',45.317554,-75.841179
 916,'916','Seyton / Westcliffe',45.316616,-75.837502
@@ -379,7 +379,7 @@
 937,'937','Robertson / Stafford',45.327511,-75.820229
 939,'939','Northside / Thorncliff',45.329201,-75.815033
 940,'940','Northside / Thorncliff',45.3293,-75.815132
-941,'941','Baseline / Valley Stream',45.333248,-75.806076
+941,'941','Baseline / Vly Stream',45.333248,-75.806076
 943,'943','Baseline / Sioux',45.334515,-75.802933
 944,'944','Westcliffe / Oberon',45.317562,-75.84095
 945,'945','Baseline / Sioux',45.334377,-75.803665
@@ -398,7 +398,7 @@
 959,'959','Exeter / Antler',45.271671,-75.753212
 960,'960','Sherway / Sweetbriar',45.279366,-75.7575
 961,'961','Sherway / Vanessa',45.274216,-75.758865
-962,'962','Sherway / Burnett''s Grove',45.279118,-75.757027
+962,'962','Sherway / Burnett''s Grv',45.279118,-75.757027
 963,'963','Malvern / Greenbank',45.283009,-75.754738
 964,'964','Greenbank / Malvern',45.282898,-75.754128
 965,'965','Wolfgang / Fallowfield',45.289509,-75.752625
@@ -421,7 +421,7 @@
 986,'986','Pratt / Burnbank',45.316059,-75.731216
 987,'987','Pratt / Avonlea',45.314636,-75.729858
 988,'988','Merivale / Amberwood',45.317635,-75.7145
-989,'989','Montfort Hospital',45.44511,-75.639343
+989,'989','Montfort Hosp',45.44511,-75.639343
 990,'990','Amberwood / Weatherwood',45.318523,-75.712868
 991,'991','Amberwood / Edenbrook',45.320545,-75.707146
 992,'992','Amberwood / Weatherwood',45.320629,-75.713791
@@ -442,14 +442,14 @@
 1007,'1007','Franktown / Joy''s',45.182522,-75.85746
 1008,'1008','Munster / Bleeks',45.16494,-75.939705
 1009,'1009','Munster / Dogwood',45.163258,-75.938133
-1010,'1010','Orchardview Living Centre',45.234192,-75.609459
+1010,'1010','Orchardview Living Ctr',45.234192,-75.609459
 1013,'1013','Renaud / Maurice',45.421062,-75.560211
 1014,'1014','Munster / Franktown',45.145824,-75.916168
 1015,'1015','Renaud / Maurice',45.421005,-75.559669
-1016,'1016','Kelly Farm / Findlay Creek',45.316986,-75.600891
-1017,'1017','Findlay Creek / Gracewood',45.311337,-75.612633
+1016,'1016','Kelly Farm / Findlay Crk',45.316986,-75.600891
+1017,'1017','Findlay Crk / Gracewood',45.311337,-75.612633
 1018,'1018','Franktown / Conley',45.163498,-75.88665
-1019,'1019','Findlay Creek / Gracewood',45.31123,-75.612556
+1019,'1019','Findlay Crk / Gracewood',45.31123,-75.612556
 1020,'1020','Munster / Bleeks',45.164749,-75.939911
 1021,'1021','Navan / Ad. 4537',45.421051,-75.449593
 1022,'1022','Navan / Ad. 4537',45.420864,-75.449646
@@ -475,7 +475,7 @@
 1043,'1043','Hazeldean / Lowe''s',45.290283,-75.900482
 1044,'1044','Berrigan / Colindale',45.277714,-75.743385
 1045,'1045','Berrigan / Colindale',45.277588,-75.743256
-1046,'1046','Findlay Creek / Kelly Farm',45.31657,-75.600372
+1046,'1046','Findlay Crk / Kelly Farm',45.31657,-75.600372
 1047,'1047','8th Line / Eldo',45.231285,-75.470261
 1048,'1048','Navan / Mer Bleue',45.425129,-75.486374
 1049,'1049','St Laurent / Lemieux',45.422737,-75.636665
@@ -484,7 +484,7 @@
 1053,'1053','Mer Bleue / Hydro',45.447536,-75.499802
 1054,'1054','Bank / Orville Kemp',45.333656,-75.601532
 1055,'1055','St. Patrick''s Home',45.370667,-75.690376
-1056,'1056','Findlay Creek / Willowmere',45.310219,-75.615532
+1056,'1056','Findlay Crk / Willowmere',45.310219,-75.615532
 1057,'1057','Bank / Rotary',45.328033,-75.598244
 1058,'1058','Bank / Analdea',45.326088,-75.597122
 1059,'1059','Bank / Analdea',45.326191,-75.596977
@@ -492,7 +492,7 @@
 1061,'1061','Bank / Analdea',45.324257,-75.595856
 1062,'1062','Bank / Ad. 4771',45.322174,-75.594673
 1063,'1063','Bank / Ad. 4771',45.321949,-75.594673
-1064,'1064','Findlay Creek / Willowmere',45.310417,-75.614655
+1064,'1064','Findlay Crk / Willowmere',45.310417,-75.614655
 1065,'1065','Maisonneuve / Allumettières',45.432941,-75.712502
 1066,'1066','Rothesay / Old Colony',45.289555,-75.873718
 1067,'1067','6785 Franktown',45.174591,-75.869698
@@ -500,15 +500,15 @@
 1069,'1069','Bank / Ad. 4835',45.309456,-75.587234
 1070,'1070','8th Line / Eldo',45.23098,-75.470322
 1071,'1071','Huntmar / Palladium',45.294353,-75.927139
-1072,'1072','Manotick Station / Herberts Corners',45.205395,-75.594246
-1073,'1073','Manotick Station / Herberts Corners',45.20594,-75.594788
+1072,'1072','Manotick Sta / Herberts Corners',45.205395,-75.594246
+1073,'1073','Manotick Sta / Herberts Corners',45.20594,-75.594788
 1074,'1074','Donald / Frances',45.428356,-75.646973
 1075,'1075','Longfields / Mountshannon',45.288345,-75.73484
-1076,'1076','Ey Centre',45.331303,-75.657463
+1076,'1076','Ey Ctr',45.331303,-75.657463
 1077,'1077','Uplands / Breadner',45.334843,-75.660065
-1078,'1078','Piperville / Carlsbad Springs Community Centre',45.36644,-75.463409
-1079,'1079','Piperville / Carlsbad Springs Community Centre',45.366394,-75.463158
-1080,'1080','Research / First',45.327847,-75.662132
+1078,'1078','Piperville / Carlsbad Spgs Community Ctr',45.36644,-75.463409
+1079,'1079','Piperville / Carlsbad Spgs Community Ctr',45.366394,-75.463158
+1080,'1080','Research / 1st',45.327847,-75.662132
 1081,'1081','Paul Benoit / Silver Star',45.326504,-75.667816
 1082,'1082','Huntmar / Palladium',45.294254,-75.927292
 1083,'1083','Mountshannon / Oriska',45.292503,-75.736916
@@ -530,10 +530,10 @@
 1099,'1099','Strandherd / Fraser Fields',45.263306,-75.759392
 1100,'1100','Woodroffe / Stoneway',45.280933,-75.721375
 1101,'1101','Boundary / Ad. 4645',45.364605,-75.45359
-1102,'1102','Woodroffe / Heritage Glen',45.277752,-75.719559
+1102,'1102','Woodroffe / Heritage Gln',45.277752,-75.719559
 1103,'1103','Strandherd / Fraser Fields',45.263668,-75.758644
 1104,'1104','Huntmar / Hazeldean',45.283539,-75.91217
-1105,'1105','Beatrice / Heritage Glen',45.276184,-75.726021
+1105,'1105','Beatrice / Heritage Gln',45.276184,-75.726021
 1106,'1106','Beatrice / Deer Fox',45.278263,-75.727287
 1107,'1107','Beatrice / Calavaras',45.281322,-75.729721
 1108,'1108','Woodroffe / Longfields',45.291473,-75.727173
@@ -549,7 +549,7 @@
 1119,'1119','Leikin / Escade',45.288349,-75.709923
 1120,'1120','Leikin / Escade',45.288219,-75.709549
 1121,'1121','Star Top / Algoma',45.417057,-75.616371
-1122,'1122','R.R. 174 / East Shore',45.519684,-75.386932
+1122,'1122','R.R. 174 / East Shr',45.519684,-75.386932
 1124,'1124','Huntley / Corlyn',45.22908,-75.898743
 1125,'1125','St Laurent / Mcarthur',45.431484,-75.641327
 1126,'1126','Woodroffe / Longfields',45.292431,-75.727928
@@ -575,7 +575,7 @@
 1149,'1149','Lyon / Queen',45.418434,-75.704872
 1150,'1150','Laurier / Victoria',45.428139,-75.710289
 1151,'1151','Maravista / Weybridge',45.272083,-75.771523
-1152,'1152','Data Centre / Billings Bridge',45.383041,-75.679474
+1152,'1152','Data Ctr / Billings Bridge',45.383041,-75.679474
 1153,'1153','Greenbank / Brambling Pathway',45.250866,-75.73468
 1154,'1154','5661 Hazeldean',45.284859,-75.909271
 1155,'1155','5664 Hazeldean',45.285206,-75.908424
@@ -593,7 +593,7 @@
 1167,'1167','Woodridge / Ad. 71',45.346619,-75.810333
 1168,'1168','Woodridge / Ad. 91',45.347145,-75.81279
 1169,'1169','Woodridge / Ad. 230',45.352524,-75.807709
-1170,'1170','Woodridge / Bayshore Park',45.350597,-75.810394
+1170,'1170','Woodridge / Bayshore Pk',45.350597,-75.810394
 1171,'1171','Woodridge / Ad. 131',45.348675,-75.812614
 1172,'1172','Solandt / March',45.342609,-75.917526
 1173,'1173','Hines / Solandt',45.341763,-75.919388
@@ -608,8 +608,8 @@
 1182,'1182','Innovation / Goulbourn Forced',45.342194,-75.930283
 1183,'1183','Innovation / Goulbourn Forced',45.342003,-75.930313
 1185,'1185','Carling / Fairlawn',45.370445,-75.769402
-1186,'1186','Trainyard Mall / Road To Belfast',45.412716,-75.639763
-1187,'1187','Trainyard Mall / Road To Belfast',45.41254,-75.639557
+1186,'1186','Trainyard Mall / Rd To Belfast',45.412716,-75.639763
+1187,'1187','Trainyard Mall / Rd To Belfast',45.41254,-75.639557
 1188,'1188','Industrial / Russell',45.409946,-75.637604
 1189,'1189','Industrial / Russell',45.409863,-75.637581
 1190,'1190','Algoma / Comstock',45.416698,-75.619766
@@ -626,12 +626,12 @@
 1201,'1201','Hazeldean / Kincardine',45.292622,-75.896736
 1202,'1202','Hazeldean / Iber',45.283081,-75.912155
 1203,'1203','Cyrville / Labrie',45.421165,-75.621704
-1204,'1204','Taylor Creek / Lacolle',45.491707,-75.481819
+1204,'1204','Taylor Crk / Lacolle',45.491707,-75.481819
 1206,'1206','Cambrian / Kilbirnie',45.255081,-75.731117
 1207,'1207','Trim / Montmere',45.46283,-75.450005
 1208,'1208','Trim / Montmere',45.463009,-75.449883
 1209,'1209','Trim / Pinnacle',45.459942,-75.448402
-1210,'1210','Abbot / Moss Hill',45.264198,-75.911575
+1210,'1210','Abbot / Moss Hl',45.264198,-75.911575
 1211,'1211','Trim / Pinnacle',45.460667,-75.448586
 1212,'1212','Springbrook / Old Orchard',45.272274,-75.919815
 1213,'1213','Trim / Brian Coburn',45.458569,-75.447624
@@ -644,8 +644,8 @@
 1221,'1221','Longfields / Chapman Mills',45.269066,-75.735054
 1222,'1222','Woodridge / Bayshore',45.348553,-75.806938
 1223,'1223','Stittsville Main / Hobin',45.265312,-75.928894
-1224,'1224','Prince Of Wales / Rideau Shore',45.349586,-75.703247
-1225,'1225','Prince Of Wales / Rideau Shore',45.349655,-75.70295
+1224,'1224','Prince Of Wales / Rideau Shr',45.349586,-75.703247
+1225,'1225','Prince Of Wales / Rideau Shr',45.349655,-75.70295
 1226,'1226','Blair / Meadowbrook',45.427551,-75.600594
 1227,'1227','Longfields / Chapman Mills',45.268211,-75.734665
 1228,'1228','Queen / O''connor',45.421658,-75.698463
@@ -670,7 +670,7 @@
 1248,'1248','Greenbank / Marketplace',45.269657,-75.745773
 1249,'1249','Greenbank / Strandherd',45.269714,-75.74604
 1250,'1250','Valin / Portobello',45.474663,-75.469986
-1251,'1251','Central Park / Merivale',45.367752,-75.732109
+1251,'1251','Central Pk / Merivale',45.367752,-75.732109
 1252,'1252','Halton / Brady',45.34816,-75.935501
 1253,'1253','Halton / Brady',45.348034,-75.93557
 1254,'1254','Halton / Wimbledon',45.348763,-75.938789
@@ -684,7 +684,7 @@
 1264,'1264','Morgan''s Grant / Flamborough Way',45.349476,-75.93222
 1265,'1265','Heron / Gilles',45.378414,-75.670151
 1266,'1266','Woodroffe / Strandherd',45.276157,-75.718712
-1267,'1267','Merivale / Central Park',45.368126,-75.731606
+1267,'1267','Merivale / Central Pk',45.368126,-75.731606
 1268,'1268','Lees / Rosemere',45.412769,-75.677658
 1269,'1269','7000 Campeau',45.313908,-75.915207
 1270,'1270','7000 Campeau',45.313709,-75.915146
@@ -718,9 +718,9 @@
 1306,'1306','Johnston / Allanford',45.372715,-75.626282
 1307,'1307','Johnston / Allanford',45.370106,-75.628403
 1308,'1308','Huntmar / Cyclone Taylor',45.296185,-75.929665
-1309,'1309','Stittsville Main / Maple Grove',45.280483,-75.933273
+1309,'1309','Stittsville Main / Maple Grv',45.280483,-75.933273
 1310,'1310','Johnston / Allanford',45.372509,-75.626434
-1311,'1311','Stittsville Main / Maple Grove',45.280373,-75.933403
+1311,'1311','Stittsville Main / Maple Grv',45.280373,-75.933403
 1312,'1312','Johnston / Allanford',45.369423,-75.628845
 1313,'1313','Robertson / Fitzgerald',45.320747,-75.836357
 1314,'1314','Eagleson / Palomino',45.296692,-75.872833
@@ -730,8 +730,8 @@
 1319,'1319','340 West Hunt Club',45.339577,-75.712509
 1320,'1320','339 West Hunt Club',45.339802,-75.712738
 1321,'1321','Conroy / St Laurent',45.380955,-75.628029
-1322,'1322','Albert / Bayview Station',45.409683,-75.721016
-1323,'1323','Albert / Bayview Station',45.409592,-75.720695
+1322,'1322','Albert / Bayview Sta',45.409683,-75.721016
+1323,'1323','Albert / Bayview Sta',45.409592,-75.720695
 1324,'1324','Carling / Parkdale',45.390781,-75.723549
 1325,'1325','Pondhollow / Riverstone',45.262974,-75.722923
 1327,'1327','Pondhollow / Silverthorn',45.260254,-75.722618
@@ -740,14 +740,14 @@
 1330,'1330','Strandherd / Cresthaven',45.272778,-75.709831
 1332,'1332','Leikin / Holitzner',45.291882,-75.710785
 1333,'1333','Leikin / Holitzner',45.291809,-75.710587
-1335,'1335','Carling / Carling Place',45.353729,-75.850151
-1336,'1336','Carling / Carling Place',45.353592,-75.850204
+1335,'1335','Carling / Carling Pl',45.353729,-75.850151
+1336,'1336','Carling / Carling Pl',45.353592,-75.850204
 1338,'1338','Portobello / Gardenway',45.470612,-75.468956
 1340,'1340','Corkstown / Creekwood',45.345222,-75.82798
 1341,'1341','Corkstown / Creekwood',45.345348,-75.828148
 1342,'1342','Stop On Heron At Confederation Stn.',45.377159,-75.685493
-1343,'1343','Fallowfield / Fallowfield Station',45.297184,-75.734749
-1344,'1344','Fallowfield / Fallowfield Station',45.297386,-75.733864
+1343,'1343','Fallowfield / Fallowfield Sta',45.297184,-75.734749
+1344,'1344','Fallowfield / Fallowfield Sta',45.297386,-75.733864
 1346,'1346','Oriska / Sutcliffe',45.293705,-75.740288
 1350,'1350','Coventry / Lola',45.421333,-75.651367
 1351,'1351','Coventry / Lola',45.421143,-75.651978
@@ -769,8 +769,8 @@
 1370,'1370','Innes / Cyrville',45.416531,-75.601944
 1373,'1373','Esprit / Chardonnay',45.460266,-75.476257
 1377,'1377','Spratt / Shoreline',45.273911,-75.690071
-1378,'1378','Abbott Point Of Care / Moodie',45.345428,-75.841476
-1379,'1379','Abbott Point Of Care / Moodie',45.345341,-75.841362
+1378,'1378','Abbott Pt Of Care / Moodie',45.345428,-75.841476
+1379,'1379','Abbott Pt Of Care / Moodie',45.345341,-75.841362
 1380,'1380','Huntley / Flewellyn',45.23439,-75.905457
 1381,'1381','Campeau / Tanger Outlets',45.299343,-75.938698
 1382,'1382','Campeau / Tanger Outlets',45.299225,-75.938614
@@ -778,7 +778,7 @@
 1384,'1384','Campeau / Huntmar',45.300083,-75.935974
 1385,'1385','Fitzgerald / Ad. 16',45.324978,-75.836029
 1386,'1386','Campeau / Huntmar',45.300228,-75.935921
-1389,'1389','Earl Armstrong / Wild Shore Pathway',45.26963,-75.695641
+1389,'1389','Earl Armstrong / Wild Shr Pathway',45.26963,-75.695641
 1391,'1391','Baseline / Cedarview',45.333225,-75.809692
 1392,'1392','Rolland / Blair',45.409447,-75.65345
 1393,'1393','Cassidy / Bruin',45.32634,-75.808014
@@ -821,10 +821,10 @@
 1431,'1431','Wilhaven / Gauthier',45.49921,-75.425148
 1432,'1432','Wilhaven / Shalom',45.498749,-75.422058
 1433,'1433','Wilhaven / Shalom',45.498913,-75.42202
-1434,'1434','Wilhaven / Quigley Hill',45.49876,-75.419426
-1435,'1435','Wilhaven / Quigley Hill',45.498886,-75.419228
-1436,'1436','Wilhaven / Cumberland Ridge',45.498753,-75.416779
-1437,'1437','Wilhaven / Cumberland Ridge',45.498917,-75.416733
+1434,'1434','Wilhaven / Quigley Hl',45.49876,-75.419426
+1435,'1435','Wilhaven / Quigley Hl',45.498886,-75.419228
+1436,'1436','Wilhaven / Cumberland Rdg',45.498753,-75.416779
+1437,'1437','Wilhaven / Cumberland Rdg',45.498917,-75.416733
 1438,'1438','Wilhaven / Wishbourne',45.49929,-75.413704
 1439,'1439','Wilhaven / Millburn',45.499466,-75.41317
 1440,'1440','Wilhaven / Millburn',45.499897,-75.409409
@@ -841,12 +841,12 @@
 1451,'1451','Dunning / Ad. 1450',45.504055,-75.397133
 1452,'1452','Dunning / Brickland',45.508701,-75.400215
 1453,'1453','Dunning / Brickland',45.508919,-75.400581
-1454,'1454','Dunning / Cumberland Park & Ride',45.512695,-75.402763
-1455,'1455','Dunning / Cumberland Park & Ride',45.512634,-75.403069
+1454,'1454','Dunning / Cumberland Pk & Ride',45.512695,-75.402763
+1455,'1455','Dunning / Cumberland Pk & Ride',45.512634,-75.403069
 1456,'1456','Dunning / Ad. 1115',45.51445,-75.403946
 1457,'1457','Dunning / Ad. 1110',45.514435,-75.404274
-1458,'1458','Dunning / Market',45.517033,-75.405708
-1459,'1459','Dunning / Market',45.516972,-75.405869
+1458,'1458','Dunning / Mkt',45.517033,-75.405708
+1459,'1459','Dunning / Mkt',45.516972,-75.405869
 1460,'1460','Old Montréal / Peter Harkness',45.517708,-75.402946
 1462,'1462','Old Montréal / Barnett',45.517929,-75.400497
 1463,'1463','303 Terry Fox',45.349155,-75.905342
@@ -855,7 +855,7 @@
 1468,'1468','Old Montreal / Pierrette',45.518562,-75.387009
 1470,'1470','Old Montréal / Pierrette',45.518585,-75.383102
 1472,'1472','Old Montréal / Kinsella',45.519047,-75.378601
-1474,'1474','Rideau Valley / Prince Of Wales',45.246765,-75.710823
+1474,'1474','Rideau Vly / Prince Of Wales',45.246765,-75.710823
 1475,'1475','Barnsdale / Lockview',45.243984,-75.704422
 1476,'1476','Barnsdale / Lockview',45.244102,-75.704605
 1477,'1477','Mclean / Bravar',45.243839,-75.701897
@@ -863,9 +863,9 @@
 1479,'1479','Mclean / Driscoll',45.240875,-75.701256
 1480,'1480','Long Island / Driscoll',45.239063,-75.698212
 1481,'1481','Long Island / Driscoll',45.239189,-75.698433
-1482,'1482','Long Island / Cindy Hill',45.239552,-75.696045
+1482,'1482','Long Island / Cindy Hl',45.239552,-75.696045
 1483,'1483','Long Island / Lena',45.239635,-75.696304
-1484,'1484','Long Island / Cindy Hill',45.238415,-75.692093
+1484,'1484','Long Island / Cindy Hl',45.238415,-75.692093
 1485,'1485','Bridge / North Riverside',45.23061,-75.681374
 1486,'1486','Klondike / Halton',45.35001,-75.940208
 1487,'1487','Bridge / South River',45.230484,-75.681122
@@ -882,7 +882,7 @@
 1498,'1498','Manotick Main / Currier',45.223904,-75.682465
 1499,'1499','Manotick Main / Currier',45.224041,-75.68235
 1500,'1500','Mccarthy / Provost',45.363106,-75.676132
-1501,'1501','Shirley''s Brook / Kinross',45.354523,-75.9226
+1501,'1501','Shirley''s Brk / Kinross',45.354523,-75.9226
 1502,'1502','Helmsdale / Kimbolton',45.352875,-75.918861
 1503,'1503','Innes / Innes Bypass',45.440056,-75.543831
 1504,'1504','Innes / Ad. 3386',45.444801,-75.531425
@@ -890,9 +890,9 @@
 1506,'1506','Greenbank / Ad. 250',45.324818,-75.77877
 1507,'1507','St Laurent / Bourassa',45.404179,-75.625832
 1508,'1508','Klondike / Roy Errington',45.348057,-75.943268
-1509,'1509','Old Second Line / Forestbrook',45.344444,-75.943817
+1509,'1509','Old 2nd Line / Forestbrook',45.344444,-75.943817
 1510,'1510','Cyrville / Innes',45.416965,-75.603622
-1511,'1511','Montréal / Montfort Hospital',45.444118,-75.637794
+1511,'1511','Montréal / Montfort Hosp',45.444118,-75.637794
 1512,'1512','Queen / Metcalfe',45.421982,-75.697273
 1513,'1513','359 Terry Fox',45.351025,-75.918091
 1514,'1514','Terry Fox / Statewood',45.341698,-75.936531
@@ -906,7 +906,7 @@
 1523,'1523','Riverside / Quesnel',45.354187,-75.692268
 1524,'1524','Bank / Athans',45.351269,-75.631615
 1525,'1525','Riverside / Walkley',45.361122,-75.687973
-1526,'1526','Old Second Line / Brady',45.342968,-75.941956
+1526,'1526','Old 2nd Line / Brady',45.342968,-75.941956
 1528,'1528','St Laurent / Malartic',45.439598,-75.645866
 1530,'1530','Bridle Path / Crosscut',45.350323,-75.650681
 1531,'1531','Riverside / Leopolds',45.353329,-75.693047
@@ -933,18 +933,18 @@
 1556,'1556','Charlemagne / Gardenway',45.468758,-75.485977
 1557,'1557','Huntsville / Ingersoll',45.314571,-75.934097
 1558,'1558','303 Terry Fox',45.3493,-75.905251
-1559,'1559','Billings Bridge / Data Centre',45.383812,-75.67852
+1559,'1559','Billings Bridge / Data Ctr',45.383812,-75.67852
 1561,'1561','Kirkwood / Lepage',45.377277,-75.733856
 1563,'1563','Ogilvie / Elmlea',45.437634,-75.603447
 1565,'1565','Montréal / Den Haag',45.444702,-75.635681
 1566,'1566','Uplands / Hunt Club',45.345543,-75.666397
-1567,'1567','Data Centre / Billings Bridge',45.383152,-75.679359
+1567,'1567','Data Ctr / Billings Bridge',45.383152,-75.679359
 1568,'1568','Piperville / Boundary',45.368992,-75.45697
 1569,'1569','Heron / Riverside',45.376812,-75.689819
 1570,'1570','Piperville / Boundary',45.368862,-75.45668
 1572,'1572','Cahill / Marlin',45.359638,-75.6436
 1573,'1573','Charlemagne / Bottriel',45.46883,-75.48613
-1574,'1574','Tremblay / Avenue U',45.419235,-75.639107
+1574,'1574','Tremblay / Ave U',45.419235,-75.639107
 1575,'1575','Montréal / Montgomery',45.433224,-75.668663
 1576,'1576','St Laurent / Montréal',45.44117,-75.647018
 1578,'1578','Cahill / Verdon',45.359673,-75.6437
@@ -959,9 +959,9 @@
 1588,'1588','Colonnade / Ad. 146',45.342903,-75.707504
 1589,'1589','Hazeldean / Stittsville Main',45.272743,-75.928658
 1590,'1590','Carp / Hazeldean',45.267601,-75.93866
-1591,'1591','Ring Road / Rehabilitation/Centre',45.402958,-75.649857
+1591,'1591','Ring Rd / Rehabilitation/Ctr',45.402958,-75.649857
 1592,'1592','Carp / Mccooeye',45.267475,-75.931
-1593,'1593','Abbott / Granite Ridge',45.268585,-75.904808
+1593,'1593','Abbott / Granite Rdg',45.268585,-75.904808
 1594,'1594','Hazeldean / Carp',45.268223,-75.938881
 1595,'1595','Walkley / Mccarthy',45.364586,-75.677879
 1596,'1596','Cahill / Uplands',45.346531,-75.666077
@@ -972,9 +972,9 @@
 1601,'1601','Prince Of Wales / Deakin',45.3302,-75.701889
 1602,'1602','Prince Of Wales / Blazer',45.327198,-75.702187
 1603,'1603','Eagleson / Shatner',45.307369,-75.878487
-1604,'1604','Prince Of Wales / Rideau Heights',45.338078,-75.701225
+1604,'1604','Prince Of Wales / Rideau Hts',45.338078,-75.701225
 1605,'1605','Prince Of Wales / Stephanie',45.342216,-75.699654
-1606,'1606','Prince Of Wales / Rideau Heights',45.341213,-75.700478
+1606,'1606','Prince Of Wales / Rideau Hts',45.341213,-75.700478
 1607,'1607','Prince Of Wales / Hunt Club',45.335781,-75.700912
 1608,'1608','Macfarlane / Greenside',45.328938,-75.706482
 1609,'1609','Macfarlane / Brisbane',45.32782,-75.70858
@@ -1006,13 +1006,13 @@
 1636,'1636','Merivale / Woodfield',45.338448,-75.726074
 1637,'1637','Merivale / Colonnade',45.340599,-75.727554
 1638,'1638','Merivale / Woodfield',45.338379,-75.726334
-1639,'1639','Woodfield / Tanglewood Park',45.337452,-75.728935
+1639,'1639','Woodfield / Tanglewood Pk',45.337452,-75.728935
 1640,'1640','Woodfield / Medhurst',45.334606,-75.739769
 1641,'1641','Woodfield / Benlea',45.333458,-75.746849
 1642,'1642','Iris / Pincrest Mall',45.348202,-75.786781
 1643,'1643','Woodfield / Lansfield',45.334126,-75.744583
 1644,'1644','Woodfield / Medhurst',45.33461,-75.740303
-1645,'1645','Woodfield / Tanglewood Park',45.337353,-75.72905
+1645,'1645','Woodfield / Tanglewood Pk',45.337353,-75.72905
 1646,'1646','Abbptt / Iber',45.271996,-75.899002
 1647,'1647','Iber / Hazealdean',45.282761,-75.911484
 1648,'1648','66 Iber',45.278877,-75.90686
@@ -1054,7 +1054,7 @@
 1685,'1685','Greenbank / Bellman',45.326527,-75.779793
 1686,'1686','Brian Coburn / Gerry Lalonde',45.447102,-75.494324
 1687,'1687','Brian Coburn / Gerry Lalonde',45.446896,-75.494522
-1688,'1688','St Joseph / Taylor Creek',45.48801,-75.485237
+1688,'1688','St Joseph / Taylor Crk',45.48801,-75.485237
 1689,'1689','Greenbank / Banner',45.332134,-75.782806
 1690,'1690','Greenbank / Banner',45.331375,-75.782654
 1691,'1691','Greenbank / Meadowbank',45.337337,-75.786011
@@ -1081,7 +1081,7 @@
 1713,'1713','Greenbank / Fallowfield',45.287533,-75.756851
 1716,'1716','Colonnade / Merivale',45.340324,-75.726501
 1717,'1717','Greenbank / Gibbard',45.323246,-75.777779
-1718,'1718','Irwin Gate / Pickford',45.303715,-75.881622
+1718,'1718','Irwin Gt / Pickford',45.303715,-75.881622
 1719,'1719','Irwin / Pickford',45.303455,-75.88147
 1720,'1720','Pickford / Bachman',45.304546,-75.880463
 1721,'1721','Pickford / Belleview',45.304737,-75.880463
@@ -1122,7 +1122,7 @@
 1762,'1762','Jeanne D''arc / Beauséjour',45.460014,-75.520119
 1763,'1763','Sunview / Burning Tree',45.464745,-75.5149
 1764,'1764','Sunview / Larkhaven',45.467091,-75.517616
-1765,'1765','Place D''orléans / Rocque',45.476604,-75.519707
+1765,'1765','Pl D''orléans / Rocque',45.476604,-75.519707
 1766,'1766','St Joseph / St Pierre',45.473274,-75.520851
 1767,'1767','St Joseph / Dussere',45.469837,-75.527306
 1768,'1768','St Joseph / Edgar Brault',45.473804,-75.519539
@@ -1133,7 +1133,7 @@
 1775,'1775','Bridlewood / Willowglen',45.292309,-75.865364
 1776,'1776','Harness / Equestrian',45.288071,-75.864235
 1777,'1777','Montcrest / Cheverny',45.485367,-75.480522
-1778,'1778','City Park / Ad. 2280',45.431068,-75.612091
+1778,'1778','City Pk / Ad. 2280',45.431068,-75.612091
 1779,'1779','4048 Carling',45.337967,-75.907646
 1780,'1780','Montcrest / Lalande',45.485302,-75.481544
 1781,'1781','Stonehaven / Furlong',45.290302,-75.851517
@@ -1141,12 +1141,12 @@
 1783,'1783','Blair / Swans',45.453735,-75.619019
 1784,'1784','Bayshore / Woodridge',45.349533,-75.805519
 1785,'1785','Holland / Wellington',45.399651,-75.731781
-1787,'1787','Cobble Hill / Maravista',45.269176,-75.77858
-1788,'1788','Cobble Hill / Maravista',45.269276,-75.778412
+1787,'1787','Cobble Hl / Maravista',45.269176,-75.77858
+1788,'1788','Cobble Hl / Maravista',45.269276,-75.778412
 1789,'1789','Blair / Montréal',45.446922,-75.615242
-1790,'1790','Cobble Hill / Copperfield',45.267895,-75.777817
-1791,'1791','Cobble Hill / Fosterbrook',45.268147,-75.77774
-1792,'1792','Cobble Hill / Kennevale',45.265442,-75.775764
+1790,'1790','Cobble Hl / Copperfield',45.267895,-75.777817
+1791,'1791','Cobble Hl / Fosterbrook',45.268147,-75.77774
+1792,'1792','Cobble Hl / Kennevale',45.265442,-75.775764
 1793,'1793','Champlain / R.R 174',45.481842,-75.518951
 1794,'1794','St Joseph / Ad. 3245',45.483067,-75.503334
 1795,'1795','Shea / Goulbourn Complex',45.263653,-75.90683
@@ -1159,9 +1159,9 @@
 1802,'1802','Terminal / Sandford Fleming',45.414185,-75.656647
 1803,'1803','Castlefrank / Abbeyhill',45.293423,-75.882042
 1805,'1805','Innes / Dorima',45.462738,-75.482056
-1806,'1806','Ring Road / General Hospital',45.399914,-75.648544
+1806,'1806','Ring Rd / General Hosp',45.399914,-75.648544
 1807,'1807','Gladstone / Rosemount',45.400452,-75.725052
-1808,'1808','Ring Road / Childrens Hospital',45.400879,-75.652405
+1808,'1808','Ring Rd / Childrens Hosp',45.400879,-75.652405
 1809,'1809','Viseneau / D''amour',45.453922,-75.516235
 1812,'1812','Greenbank / Egret',45.249241,-75.733505
 1813,'1813','Campeau / Teron',45.322346,-75.891792
@@ -1171,14 +1171,14 @@
 1817,'1817','Beaverbrook / Weslock',45.326595,-75.911301
 1818,'1818','Beaverbrook / Weslock',45.32655,-75.911095
 1819,'1819','Flamborough / Terry Fox',45.345921,-75.931862
-1820,'1820','March Road / Ad. 570',45.343845,-75.918091
-1821,'1821','Shirley''s Brook / Inverary',45.351868,-75.926277
+1820,'1820','March Rd / Ad. 570',45.343845,-75.918091
+1821,'1821','Shirley''s Brk / Inverary',45.351868,-75.926277
 1822,'1822','Herzberg / Bayfield',45.337135,-75.89621
 1823,'1823','Old Richmond / Seyton',45.311222,-75.829254
-1824,'1824','Moodie / Crystal Bay Centre',45.349808,-75.845909
+1824,'1824','Moodie / Crystal Bay Ctr',45.349808,-75.845909
 1825,'1825','Penfield / Teron',45.329689,-75.899063
 1826,'1826','Katimavik / Whitney',45.312313,-75.894051
-1827,'1827','Moodie / Crystal Bay Centre',45.349747,-75.846092
+1827,'1827','Moodie / Crystal Bay Ctr',45.349747,-75.846092
 1828,'1828','Huntmar / Gallantry',45.285599,-75.914963
 1829,'1829','Weybridge / Seabury',45.274277,-75.772644
 1830,'1830','Weybridge / Delmeade',45.274323,-75.772446
@@ -1188,15 +1188,15 @@
 1834,'1834','Gardenway / Orchardview',45.46645,-75.478432
 1835,'1835','Gardenway / Charlemagne',45.468132,-75.48642
 1836,'1836','Tremblay / Belfast',45.418716,-75.646454
-1837,'1837','Tremblay / Avenue K',45.41848,-75.648392
+1837,'1837','Tremblay / Ave K',45.41848,-75.648392
 1838,'1838','Carp / Hobin',45.267479,-75.931892
 1839,'1839','Ctc Cyclone Taylor / Frank Finnigan',45.298111,-75.927353
 1840,'1840','Macfarlane / Greenside',45.328987,-75.705963
-1841,'1841','City Park / Ad. 2280',45.430958,-75.612503
+1841,'1841','City Pk / Ad. 2280',45.430958,-75.612503
 1845,'1845','Rideau / Wurtemburg',45.433449,-75.67482
 1846,'1846','Knudson / Halldorson',45.324627,-75.910339
 1847,'1847','Kanata / Knudson',45.320477,-75.918762
-1849,'1849','Tremblay / Avenue P',45.418739,-75.644409
+1849,'1849','Tremblay / Ave P',45.418739,-75.644409
 1851,'1851','Greenbank / Larkin',45.286362,-75.755737
 1854,'1854','Charlemagne / Orchardview',45.470722,-75.48024
 1855,'1855','Charlemagne / Valin',45.472832,-75.478409
@@ -1223,7 +1223,7 @@
 1895,'1895','Montréal / Brittany',45.442623,-75.642509
 1896,'1896','Montréal / St Laurent',45.441193,-75.646317
 1897,'1897','North River / Columbus',45.426281,-75.666946
-1898,'1898','March Road / Solandt',45.343155,-75.917168
+1898,'1898','March Rd / Solandt',45.343155,-75.917168
 1899,'1899','Walkley / Harding',45.385281,-75.626556
 1902,'1902','Bank / Somerset',45.415642,-75.69648
 1904,'1904','Beausoleil / St Patrick',45.434486,-75.686394
@@ -1243,7 +1243,7 @@
 1924,'1924','Baycrest / Walkley',45.376511,-75.649628
 1925,'1925','Walkley / Thorndale',45.365677,-75.67466
 1926,'1926','Cadence / Equestrian',45.282726,-75.864449
-1927,'1927','City Park / Ogilvie',45.433292,-75.613106
+1927,'1927','City Pk / Ogilvie',45.433292,-75.613106
 1929,'1929','Charlemagne / Pathway',45.478741,-75.481796
 1931,'1931','Karsh / Ewing',45.372055,-75.62001
 1932,'1932','Abbeyhill / Banning',45.297127,-75.879768
@@ -1286,16 +1286,16 @@
 1996,'1996','Seyton / Forestview',45.313549,-75.832947
 1997,'1997','Castlefrank / Winchester',45.295063,-75.88739
 2000,'2000','Westridge / Thresher',45.255989,-75.934158
-2001,'2001','West Ridge / Ballyhaise',45.256077,-75.93396
-2002,'2002','West Ridge / Bert G. Argue',45.254253,-75.930511
-2003,'2003','West Ridge / Bert G. Argue',45.254433,-75.930481
-2004,'2004','West Ridge / Abbott W.',45.253307,-75.928467
-2005,'2005','West Ridge / Abbott W.',45.253448,-75.928337
-2006,'2006','West Ridge / Greenhaven',45.250954,-75.926094
-2007,'2007','West Ridge / Greenhaven',45.251019,-75.925865
-2008,'2008','West Ridge / Bell',45.248741,-75.925888
-2009,'2009','West Ridge / Bell',45.248711,-75.925659
-2010,'2010','West Ridge / Coyote',45.246853,-75.921005
+2001,'2001','West Rdg / Ballyhaise',45.256077,-75.93396
+2002,'2002','West Rdg / Bert G. Argue',45.254253,-75.930511
+2003,'2003','West Rdg / Bert G. Argue',45.254433,-75.930481
+2004,'2004','West Rdg / Abbott W.',45.253307,-75.928467
+2005,'2005','West Rdg / Abbott W.',45.253448,-75.928337
+2006,'2006','West Rdg / Greenhaven',45.250954,-75.926094
+2007,'2007','West Rdg / Greenhaven',45.251019,-75.925865
+2008,'2008','West Rdg / Bell',45.248741,-75.925888
+2009,'2009','West Rdg / Bell',45.248711,-75.925659
+2010,'2010','West Rdg / Coyote',45.246853,-75.921005
 2011,'2011','River / Ad. 752',45.2607,-75.700134
 2012,'2012','Jockvale / Golflinks',45.251041,-75.720474
 2013,'2013','2839 Robertson',45.306812,-75.870178
@@ -1306,12 +1306,12 @@
 2018,'2018','Kittiwake / Sirocco',45.266548,-75.947594
 2019,'2019','Kittiwake / Sundew',45.268311,-75.943939
 2020,'2020','Kittiwake / Carp',45.268414,-75.944237
-2021,'2021','West Ridge / Coyote',45.247196,-75.921242
+2021,'2021','West Rdg / Coyote',45.247196,-75.921242
 2022,'2022','Meadowbrook / Blair',45.427113,-75.6007
 2023,'2023','Meadowbrook / Appleton',45.426567,-75.603485
-2027,'2027','Stonehaven / Bridle Park',45.284664,-75.846024
-2050,'2050','West Ridge / Fernbank',45.243671,-75.919746
-2051,'2051','West Ridge / Fernbank',45.243713,-75.919495
+2027,'2027','Stonehaven / Bridle Pk',45.284664,-75.846024
+2050,'2050','West Rdg / Fernbank',45.243671,-75.919746
+2051,'2051','West Rdg / Fernbank',45.243713,-75.919495
 2052,'2052','Valin / Portobello',45.474442,-75.469452
 2053,'2053','Valin / Jersey',45.473957,-75.46759
 2054,'2054','Valin / Liberty',45.473103,-75.465637
@@ -1331,16 +1331,16 @@
 2075,'2075','Centrepointe / Summerwalk',45.341076,-75.772461
 2076,'2076','Centrepointe / Cimarron',45.343239,-75.773262
 2078,'2078','Baseline / Cobden',45.346489,-75.77507
-2081,'2081','Pagé / Nature Trail',45.438988,-75.522606
+2081,'2081','Pagé / Nature Trl',45.438988,-75.522606
 2082,'2082','Fernbank / Etta',45.246567,-75.914536
 2083,'2083','Fernbank / Etta',45.245987,-75.915176
 2084,'2084','Tapiola / Johnston',45.363937,-75.647324
 2085,'2085','Tapiola / Johnston',45.36385,-75.64753
 2087,'2087','Kanata / Earl Grey',45.312046,-75.911873
 2088,'2088','Kanata / Earl Grey',45.311962,-75.910889
-2089,'2089','Ring Road',45.403442,-75.646141
-2090,'2090','Trim Park & Ride',45.492947,-75.477501
-2091,'2091','Trim Park & Ride',45.492924,-75.477547
+2089,'2089','Ring Rd',45.403442,-75.646141
+2090,'2090','Trim Pk & Ride',45.492947,-75.477501
+2091,'2091','Trim Pk & Ride',45.492924,-75.477547
 2093,'2093','Carling / Shirley''s Bay',45.344803,-75.881187
 2094,'2094','Carling / Shirley''s Bay',45.345406,-75.879333
 2095,'2095','Stittsville Main / Daphne',45.255787,-75.917511
@@ -1351,7 +1351,7 @@
 2101,'2101','Manotick Main / Eastman',45.222065,-75.679604
 2102,'2102','Manotick Main / Mahogany Harbour',45.220146,-75.676331
 2103,'2103','Manotick Main / Firefly',45.220104,-75.675926
-2104,'2104','Manotick Main / Island View',45.218037,-75.672249
+2104,'2104','Manotick Main / Island Vw',45.218037,-75.672249
 2105,'2105','Manotick Main / Kelly Marie',45.216343,-75.669678
 2107,'2107','Bridge / Kitoman',45.233299,-75.677223
 2108,'2108','Bridge / Kitoman',45.23362,-75.67704
@@ -1385,23 +1385,23 @@
 2145,'2145','River / Ryeburn',45.283611,-75.693848
 2154,'2154','Riverside / Ad. 4200',45.322975,-75.689369
 2155,'2155','Riverside / Ad. 4200',45.322979,-75.689537
-2156,'2156','Rideau Valley S / Commodore',45.153042,-75.648392
-2157,'2157','Rideau Valley / Kars Rectory',45.151218,-75.647766
-2174,'2174','Roger Stevens / Second Line',45.150875,-75.670677
-2175,'2175','Roger Stevens / Second Line',45.150208,-75.671768
-2176,'2176','Roger Stevens / Third Line',45.140697,-75.693512
-2177,'2177','Roger Stevens / Third Line',45.140682,-75.693855
+2156,'2156','Rideau Vly S / Commodore',45.153042,-75.648392
+2157,'2157','Rideau Vly / Kars Rectory',45.151218,-75.647766
+2174,'2174','Roger Stevens / 2nd Line',45.150875,-75.670677
+2175,'2175','Roger Stevens / 2nd Line',45.150208,-75.671768
+2176,'2176','Roger Stevens / 3rd Line',45.140697,-75.693512
+2177,'2177','Roger Stevens / 3rd Line',45.140682,-75.693855
 2178,'2178','Roger Stevens / Trailwood',45.138588,-75.699173
 2179,'2179','Roger Stevens / Trailwood',45.138618,-75.698509
 2180,'2180','Roger Stevens / James Craig',45.131924,-75.715256
 2181,'2181','Roger Stevens / James Craig',45.131805,-75.715195
 2182,'2182','Perkins / Roger Steven',45.130379,-75.718689
 2183,'2183','Perkins / Church',45.130104,-75.716354
-2184,'2184','Rideau Valley / Old Wellington',45.149677,-75.647346
+2184,'2184','Rideau Vly / Old Wellington',45.149677,-75.647346
 2185,'2185','Stittsville Main / Ad. 1224',45.269493,-75.930016
 2186,'2186','Stittsville Main / Ad. 1224',45.269207,-75.930359
 2187,'2187','Stittsville Main / Beverly',45.262569,-75.925728
-2188,'2188','West Ridge / Delamere',45.26218,-75.941376
+2188,'2188','West Rdg / Delamere',45.26218,-75.941376
 2191,'2191','Carp / Rothbourne',45.27248,-75.946396
 2192,'2192','Carp / Rothbourne',45.272427,-75.945953
 2193,'2193','Carp / Lloydalex',45.275795,-75.950607
@@ -1410,30 +1410,30 @@
 2196,'2196','Abbott / Stittsville Main',45.25872,-75.920654
 2197,'2197','Abbott / Stittsville Main',45.258835,-75.92012
 2198,'2198','Abbott / Carbery',45.2617,-75.915817
-2199,'2199','Abbott / Moss Hill',45.264111,-75.911972
+2199,'2199','Abbott / Moss Hl',45.264111,-75.911972
 2200,'2200','Abbott / Shea',45.265511,-75.909462
 2203,'2203','Abbott / Amy',45.266933,-75.907494
 2204,'2204','Abbott / Amy',45.26683,-75.907372
-2205,'2205','Granite Ridge / Abbott',45.268394,-75.905327
-2206,'2206','Abbott / Granite Ridge',45.268082,-75.905281
-2207,'2207','Granite Ridge / Cinnabar',45.269951,-75.906532
-2208,'2208','Granite Ridge / Amethyst',45.272903,-75.908424
-2209,'2209','Granite Ridge / Cinnabar',45.273594,-75.908882
+2205,'2205','Granite Rdg / Abbott',45.268394,-75.905327
+2206,'2206','Abbott / Granite Rdg',45.268082,-75.905281
+2207,'2207','Granite Rdg / Cinnabar',45.269951,-75.906532
+2208,'2208','Granite Rdg / Amethyst',45.272903,-75.908424
+2209,'2209','Granite Rdg / Cinnabar',45.273594,-75.908882
 2222,'2222','Perth / Tarryn',45.191532,-75.84346
 2223,'2223','Munster / Copeland',45.154987,-75.927567
 2225,'2225','Fallowfield / Moodie',45.269695,-75.802711
 2226,'2226','Fallowfield / Moodie',45.269585,-75.802063
-2227,'2227','Fallowfield / Steeple Hill',45.264202,-75.816513
+2227,'2227','Fallowfield / Steeple Hl',45.264202,-75.816513
 2228,'2228','Old Richmond / Fallowfield',45.259296,-75.825325
-2229,'2229','Old Richmond / Steeple Hill',45.234577,-75.810593
-2230,'2230','Old Richmond / Steeple Hill',45.235046,-75.810638
+2229,'2229','Old Richmond / Steeple Hl',45.234577,-75.810593
+2230,'2230','Old Richmond / Steeple Hl',45.235046,-75.810638
 2231,'2231','Old Richmond / Cambrian',45.224323,-75.808411
 2232,'2232','Old Richmond / Cambrian',45.223774,-75.808395
 2233,'2233','Perth / Eagleson',45.204361,-75.823227
 2234,'2234','Old Richmond / Eagleson',45.204948,-75.821632
 2235,'2235','Franktown / Conley',45.163261,-75.88678
-2236,'2236','Franktown / Green''s',45.158428,-75.894669
-2237,'2237','Franktown / Green''s',45.158875,-75.894104
+2236,'2236','Franktown / Grn''s',45.158428,-75.894669
+2237,'2237','Franktown / Grn''s',45.158875,-75.894104
 2238,'2238','Munster / Franktown',45.145798,-75.91629
 2239,'2239','Munster / Dogwood',45.16172,-75.936295
 2240,'2240','Munster / Coldstream',45.161789,-75.936058
@@ -1507,7 +1507,7 @@
 2322,'2322','Murray / Dalhousie',45.430428,-75.691551
 2323,'2323','Rideau / Friel',45.430279,-75.682266
 2325,'2325','Rideau / Augusta',45.431984,-75.678223
-2327,'2327','Pleasant Park / Cabot',45.39267,-75.671646
+2327,'2327','Pleasant Pk / Cabot',45.39267,-75.671646
 2329,'2329','Rideau / Wurtemburg',45.433151,-75.674942
 2331,'2331','Rideau / Augusta',45.431541,-75.678902
 2333,'2333','Rideau / Nelson',45.429348,-75.684082
@@ -1561,7 +1561,7 @@
 2408,'2408','Carling / Corkstown',45.348701,-75.820129
 2411,'2411','Conroy / Thurston',45.378117,-75.62661
 2412,'2412','Springland / Norberry',45.367538,-75.685593
-2413,'2413','Bronson / First',45.40049,-75.699478
+2413,'2413','Bronson / 1st',45.40049,-75.699478
 2414,'2414','Bank / Belmont',45.392784,-75.682281
 2416,'2416','Hunt Club / Cahill',45.35783,-75.636948
 2417,'2417','Gibbard / Atkinson',45.325462,-75.773643
@@ -1583,7 +1583,7 @@
 2439,'2439','Orléans / Pineglade',45.44276,-75.530556
 2445,'2445','Orléans / Crestmont',45.44286,-75.530312
 2447,'2447','Hawthorne / Colonel By',45.411789,-75.682304
-2448,'2448','Third / Bank',45.403198,-75.688156
+2448,'2448','3rd / Bank',45.403198,-75.688156
 2449,'2449','Springland / Ridgewood',45.368008,-75.685905
 2452,'2452','Orléans / Innes',45.44479,-75.53286
 2453,'2453','Orléans / Innes',45.444118,-75.532478
@@ -1616,7 +1616,7 @@
 2488,'2488','Bank / Somerset',45.415028,-75.696281
 2489,'2489','Bank / Gladstone',45.4118,-75.693512
 2490,'2490','Bruyere / Parent',45.431919,-75.696617
-2491,'2491','Merivale / Central Park',45.36739,-75.731743
+2491,'2491','Merivale / Central Pk',45.36739,-75.731743
 2494,'2494','Des Épinettes / Wayside',45.46315,-75.502045
 2497,'2497','Moodie / Robertson',45.323826,-75.834175
 2498,'2498','Grenfell / Beth',45.315182,-75.725601
@@ -1659,12 +1659,12 @@
 2537,'2537','Cyrville / Star Top',45.419861,-75.616928
 2538,'2538','Cyrville / Star Top',45.42004,-75.617058
 2539,'2539','Siskins / Ad. 389',45.319508,-75.785522
-2540,'2540','La Verendrye / Gatineau View',45.452541,-75.601677
-2541,'2541','La Verendrye / Gatineau View',45.453217,-75.604202
+2540,'2540','La Verendrye / Gatineau Vw',45.452541,-75.601677
+2541,'2541','La Verendrye / Gatineau Vw',45.453217,-75.604202
 2542,'2542','La Verendrye / Deerhurst',45.453129,-75.603333
 2543,'2543','La Verendrye / Thomas D''arcy Mcgee School',45.45443,-75.605255
 2544,'2544','La Verendrye / Glenfern',45.457485,-75.605881
-2545,'2545','La Verendrye / Kings Grove',45.459873,-75.607109
+2545,'2545','La Verendrye / Kings Grv',45.459873,-75.607109
 2546,'2546','La Verendrye / Quincy',45.460739,-75.607582
 2547,'2547','La Verendrye / Oakdean',45.460217,-75.607552
 2548,'2548','Quincy / Ogilvie',45.461514,-75.603233
@@ -1681,7 +1681,7 @@
 2559,'2559','Canotek / Shefford',45.452301,-75.588425
 2560,'2560','Canotek / Rainbow',45.452682,-75.586975
 2561,'2561','Canotek / Ad. 5350',45.453945,-75.584702
-2562,'2562','La Verendrye / Gatineau View',45.452534,-75.601036
+2562,'2562','La Verendrye / Gatineau Vw',45.452534,-75.601036
 2563,'2563','Montréal / Miss Ottawa',45.44838,-75.592079
 2564,'2564','Montréal / Ad. 2038',45.446293,-75.596779
 2565,'2565','Montréal / Foxborough',45.445518,-75.598885
@@ -1705,11 +1705,11 @@
 2584,'2584','Jasmine / Arrowsmith',45.439941,-75.59494
 2585,'2585','Jasmine / Ogilvie',45.439823,-75.597816
 2586,'2586','Bearbrook / Westpark',45.440403,-75.570374
-2587,'2587','Bearbrook / Hornet''s Nest Park',45.444744,-75.576416
-2588,'2588','Bearbrook / Hornet''s Nest Park',45.443226,-75.575607
+2587,'2587','Bearbrook / Hornet''s Nest Pk',45.444744,-75.576416
+2588,'2588','Bearbrook / Hornet''s Nest Pk',45.443226,-75.575607
 2589,'2589','Bearbrook / Westpark',45.440273,-75.57016
-2590,'2590','Bearbrook / Hornet''s Nest Park',45.444328,-75.575996
-2591,'2591','Bearbrook / Hornet''s Nest Park',45.443405,-75.575516
+2590,'2590','Bearbrook / Hornet''s Nest Pk',45.444328,-75.575996
+2591,'2591','Bearbrook / Hornet''s Nest Pk',45.443405,-75.575516
 2592,'2592','Westpark / Parkridge',45.435719,-75.574142
 2593,'2593','Westpark / Parkwood',45.43552,-75.572105
 2594,'2594','Westpark / Highpark',45.437424,-75.570221
@@ -1724,7 +1724,7 @@
 2607,'2607','Eastpark / Redmaple',45.437008,-75.554878
 2608,'2608','Eastpark / Innes',45.436104,-75.554367
 2609,'2609','Innes / Eastpark',45.434505,-75.557816
-2610,'2610','Innes / Innes Road Plaza',45.432594,-75.562027
+2610,'2610','Innes / Innes Rd Plz',45.432594,-75.562027
 2611,'2611','Innes / Bearbrook',45.431908,-75.563766
 2612,'2612','Innes / Bearbrook',45.432758,-75.562164
 2613,'2613','Innes / Tauvette',45.428452,-75.572411
@@ -1734,7 +1734,7 @@
 2618,'2618','Southpark / Woodview',45.433372,-75.571434
 2619,'2619','Southpark / Woodburn',45.432362,-75.569603
 2622,'2622','Colonnade / Ad. 80',45.346519,-75.711433
-2626,'2626','St Joseph / Place D''orléans Mall',45.478786,-75.511215
+2626,'2626','St Joseph / Pl D''orléans Mall',45.478786,-75.511215
 2627,'2627','Centrum / Ad. 230',45.480366,-75.510506
 2630,'2630','St Joseph / Ad. 1300',45.455578,-75.570793
 2631,'2631','St Joseph / Hart',45.456329,-75.569397
@@ -1743,10 +1743,10 @@
 2634,'2634','St Joseph / Hart',45.456814,-75.569016
 2635,'2635','St Joseph / Ad. 1360',45.458038,-75.565941
 2636,'2636','St Joseph / Ad. 1533',45.459751,-75.56089
-2637,'2637','St Joseph / Golden Valley',45.460762,-75.553253
+2637,'2637','St Joseph / Golden Vly',45.460762,-75.553253
 2638,'2638','St Joseph / Ad. 1533',45.459587,-75.560646
 2639,'2639','St Joseph / Ad. 1510',45.460499,-75.553169
-2640,'2640','St Joseph / Forest Valley',45.461327,-75.548805
+2640,'2640','St Joseph / Forest Vly',45.461327,-75.548805
 2641,'2641','St Joseph / Notre Dame',45.462563,-75.543938
 2642,'2642','St Joseph / Marenger',45.463165,-75.542519
 2643,'2643','St Joseph / Notre Dame',45.462383,-75.543777
@@ -1762,7 +1762,7 @@
 2655,'2655','Navan / Topsoil',45.431194,-75.521683
 2656,'2656','Pagé / Ad. 2741',45.432537,-75.518753
 2657,'2657','Pagé / Ad. 2683',45.434113,-75.519714
-2658,'2658','Pagé / Nature Trail',45.436771,-75.521355
+2658,'2658','Pagé / Nature Trl',45.436771,-75.521355
 2659,'2659','Pagé / Monpellier',45.436249,-75.521187
 2661,'2661','Pagé / Ad. 2650',45.434013,-75.519882
 2663,'2663','Vineyard / Sauterne',45.469086,-75.548996
@@ -1792,7 +1792,7 @@
 2694,'2694','Vineyard / Bordeau',45.470104,-75.554626
 2696,'2696','Bilberry / Ad. 6911',45.481323,-75.524384
 2697,'2697','Bilberry / Des Forest',45.480003,-75.525749
-2698,'2698','Bilberry / Joe Jamieson Park',45.481205,-75.524216
+2698,'2698','Bilberry / Joe Jamieson Pk',45.481205,-75.524216
 2699,'2699','Bilberry / Des Forest',45.479713,-75.525764
 2700,'2700','Bilberry / Ad. 6601',45.479412,-75.530327
 2701,'2701','Duford / Lacroix',45.469681,-75.508072
@@ -1820,7 +1820,7 @@
 2733,'2733','Prestone / Deavy',45.475079,-75.501534
 2734,'2734','Prestone / Turner',45.478561,-75.500473
 2735,'2735','Prestone / Turner',45.480156,-75.501823
-2736,'2736','Prestone / Rver Ridge',45.479843,-75.504402
+2736,'2736','Prestone / Rver Rdg',45.479843,-75.504402
 2737,'2737','Prestone / Mountainside S.',45.478825,-75.500732
 2738,'2738','Prestone / Mountainside N.',45.480114,-75.502365
 2739,'2739','Prestone / Kennedy',45.479725,-75.504227
@@ -1854,10 +1854,10 @@
 2775,'2775','Varennes / Como',45.477627,-75.473412
 2776,'2776','Varennes / Como',45.476109,-75.47271
 2777,'2777','Varennes / Valin',45.474869,-75.472069
-2778,'2778','Taylor Creek / Lacolle',45.490517,-75.487068
-2779,'2779','Taylor Creek / Vimont',45.492123,-75.485336
-2780,'2780','Taylor Creek / Lacolle',45.491703,-75.481613
-2781,'2781','Taylor Creek / Trim',45.491577,-75.480583
+2778,'2778','Taylor Crk / Lacolle',45.490517,-75.487068
+2779,'2779','Taylor Crk / Vimont',45.492123,-75.485336
+2780,'2780','Taylor Crk / Lacolle',45.491703,-75.481613
+2781,'2781','Taylor Crk / Trim',45.491577,-75.480583
 2783,'2783','Woodroffe / Richmond',45.377975,-75.775063
 2784,'2784','Woodroffe / Anthony',45.375469,-75.773849
 2785,'2785','Woodroffe / Anthony',45.375286,-75.773544
@@ -1871,7 +1871,7 @@
 2793,'2793','Britannia / Howe',45.365631,-75.796631
 2794,'2794','Don / Greenview',45.363125,-75.797432
 2795,'2795','Don / Greenview',45.363125,-75.797096
-2796,'2796','Britannia Park Loop',45.363674,-75.802002
+2796,'2796','Britannia Pk Loop',45.363674,-75.802002
 2813,'2813','Larkin / Laming',45.278496,-75.770454
 2814,'2814','Larkin / Laming',45.278629,-75.770569
 2815,'2815','Larkin / Carroll',45.279472,-75.768417
@@ -1879,7 +1879,7 @@
 2817,'2817','Larkin / Andrea',45.280972,-75.76506
 2818,'2818','Larkin / Ettrick',45.282398,-75.763359
 2819,'2819','Larkin / Tripp',45.284218,-75.760948
-2820,'2820','Larkin / Green',45.285606,-75.757263
+2820,'2820','Larkin / Grn',45.285606,-75.757263
 2821,'2821','Larkin / Tripp',45.2854,-75.757332
 2822,'2822','Malvern / Thistledown',45.281288,-75.756973
 2823,'2823','Sherway / Malvern',45.280422,-75.75808
@@ -1898,9 +1898,9 @@
 2837,'2837','Strandherd / Greenbank',45.269871,-75.747742
 2838,'2838','Strandherd / Jockvale',45.269005,-75.750267
 2839,'2839','Strandherd / Jockvale',45.269192,-75.75016
-2841,'2841','Rideau Valley / Commodore',45.15303,-75.648239
-2843,'2843','Rideau Valley S / Ad. 6666',45.154423,-75.648933
-2844,'2844','Rideau Valley / Roger Stevens',45.158096,-75.651466
+2841,'2841','Rideau Vly / Commodore',45.15303,-75.648239
+2843,'2843','Rideau Vly S / Ad. 6666',45.154423,-75.648933
+2844,'2844','Rideau Vly / Roger Stevens',45.158096,-75.651466
 2845,'2845','Main / Mill',45.225468,-75.684746
 2846,'2846','Main / Mill',45.225502,-75.68457
 2847,'2847','Bridge / Main',45.226814,-75.685516
@@ -1913,7 +1913,7 @@
 2854,'2854','Long Island / Edward',45.2313,-75.684845
 2855,'2855','Long Island / West',45.234188,-75.68853
 2856,'2856','Long Island / Riverside',45.233952,-75.687836
-2857,'2857','Long Island / Cindy Hill',45.238182,-75.692078
+2857,'2857','Long Island / Cindy Hl',45.238182,-75.692078
 2860,'2860','Howe / Britannia',45.365772,-75.796181
 2862,'2862','Tallwood / Meridian',45.341331,-75.7593
 2863,'2863','Tallwood / Avenshire',45.341225,-75.759087
@@ -1922,11 +1922,11 @@
 2868,'2868','Kanata / Campeau',45.313011,-75.915627
 2869,'2869','Acres / Richmond',45.342945,-75.808502
 2872,'2872','Northside / Thorncliff',45.328819,-75.816338
-2873,'2873','Place D''orléans / Champlain',45.479897,-75.516655
+2873,'2873','Pl D''orléans / Champlain',45.479897,-75.516655
 2877,'2877','Shea / Moore',45.202431,-75.831078
 2878,'2878','Shea / Moore',45.202526,-75.830948
-2879,'2879','West Ridge / Steggall',45.258564,-75.937843
-2880,'2880','West Ridge / Sable Run',45.258152,-75.936661
+2879,'2879','West Rdg / Steggall',45.258564,-75.937843
+2880,'2880','West Rdg / Sable Run',45.258152,-75.936661
 2881,'2881','Flanders / Framingham',45.27092,-75.772453
 2882,'2882','Flanders / Framingham',45.2691,-75.770363
 2884,'2884','Berrigan / Edgeware',45.275719,-75.746292
@@ -1977,7 +1977,7 @@
 2952,'2952','Cassidy / Grangemill',45.329094,-75.80938
 2953,'2953','Woodroffe / Baseline',45.352119,-75.763092
 2954,'2954','Navaho / Baseline',45.354061,-75.755974
-2955,'2955','Grassy Plains / Emerald Meadows',45.27784,-75.854385
+2955,'2955','Grassy Plains / Emerald Mdws',45.27784,-75.854385
 2958,'2958','Woodroffe / Domalatchy',45.354965,-75.765022
 2959,'2959','Robertson / Westcliffe',45.3186,-75.841438
 2960,'2960','Woodroffe / Field',45.354801,-75.764618
@@ -2044,7 +2044,7 @@
 3030,'3030','Lycée Claudel 2a',45.406548,-75.664223
 3031,'3031','Smyth 1a',45.401104,-75.666862
 3032,'3032','Riverside 1a',45.396893,-75.669334
-3033,'3033','Pleasant Park 1a',45.392853,-75.669434
+3033,'3033','Pleasant Pk 1a',45.392853,-75.669434
 3034,'3034','Billings Bridge 4d',45.384796,-75.676674
 3035,'3035','Heron 1a',45.378933,-75.679749
 3036,'3036','Walkley 4b',45.368599,-75.666443
@@ -2055,7 +2055,7 @@
 3041,'3041','Leitrim 2a',45.311562,-75.637848
 3043,'3043','Fallowfield 2a',45.299706,-75.734978
 3044,'3044','Strandherd 2a',45.273609,-75.745567
-3045,'3045','Barrhaven Centre 1a',45.266312,-75.741699
+3045,'3045','Barrhaven Ctr 1a',45.266312,-75.741699
 3046,'3046','Longfields 2a',45.285412,-75.746674
 3047,'3047','Marketplace 1a',45.269596,-75.742889
 3048,'3048','Nepean Woods 2a',45.274441,-75.717163
@@ -2063,14 +2063,14 @@
 3050,'3050','Bayshore 1a',45.345554,-75.809807
 3055,'3055','Eagleson 2a',45.318665,-75.883667
 3058,'3058','Terry Fox 4b',45.310223,-75.907021
-3059,'3059','Canadian Tire Centre',45.29871,-75.926323
+3059,'3059','Canadian Tire Ctr',45.29871,-75.926323
 3060,'3060','Bayview',45.409195,-75.721931
 3064,'3064','River / Balmoral',45.306763,-75.693642
 3066,'3066','Airport/ Air Canada Cargo',45.323677,-75.663033
 3070,'3070','Jeanne D''arc 4b',45.470543,-75.546989
-3075,'3075','Orléans - Park & Ride 4a',45.480103,-75.519836
+3075,'3075','Orléans - Pk & Ride 4a',45.480103,-75.519836
 3076,'3076','Millennium 2a',45.465294,-75.448105
-3080,'3080','Lansdowne Td Place',45.398117,-75.685501
+3080,'3080','Lansdowne Td Pl',45.398117,-75.685501
 3161,'3161','Eddy / Laurier',45.423218,-75.719757
 3200,'3200','Perth / Fowler',45.192322,-75.841835
 3201,'3201','Perth / Nixon Farm',45.192734,-75.841652
@@ -2105,15 +2105,15 @@
 3279,'3279','Stikine / Nortoba',45.31963,-75.926247
 3280,'3280','Goldridge / Stikine',45.317696,-75.925117
 3281,'3281','Goldridge / Stikine',45.317497,-75.925262
-3284,'3284','Findlay Creek / Bank',45.320435,-75.594162
-3285,'3285','Findlay Creek / Devonwood',45.319145,-75.597267
-3286,'3286','Findlay Creek / Long Point',45.318573,-75.598686
-3287,'3287','Findlay Creek / Long Point',45.318207,-75.599007
-3289,'3289','Findlay Creek / Bank',45.32029,-75.59404
+3284,'3284','Findlay Crk / Bank',45.320435,-75.594162
+3285,'3285','Findlay Crk / Devonwood',45.319145,-75.597267
+3286,'3286','Findlay Crk / Long Pt',45.318573,-75.598686
+3287,'3287','Findlay Crk / Long Pt',45.318207,-75.599007
+3289,'3289','Findlay Crk / Bank',45.32029,-75.59404
 3290,'3290','Bank / Rotary',45.327904,-75.597977
 3297,'3297','Springridge / Trim',45.478485,-75.465004
 3298,'3298','Bank / Rotary',45.327068,-75.597679
-3299,'3299','Findlay Creek / Cedar Creek',45.319187,-75.59671
+3299,'3299','Findlay Crk / Cedar Crk',45.319187,-75.59671
 3300,'3300','Eagleson / Shatner',45.307526,-75.878838
 3301,'3301','Downpatrick / Uplands',45.342285,-75.664108
 3305,'3305','Orléans / Longleaf',45.43755,-75.526955
@@ -2130,7 +2130,7 @@
 3326,'3326','Blohm / Picasso',45.373768,-75.603081
 3327,'3327','Blohm / Winnergreen',45.375465,-75.604958
 3328,'3328','Millenium / E.S. Gisèle Lalonde',45.466957,-75.445824
-3329,'3329','Pleasant Park / Arch',45.394382,-75.631798
+3329,'3329','Pleasant Pk / Arch',45.394382,-75.631798
 3330,'3330','Conroy / Johnston',45.373692,-75.62426
 3333,'3333','Airport / Airbus Private',45.324387,-75.660461
 3334,'3334','Earl Armstrong / Spratt',45.272121,-75.68988
@@ -2148,7 +2148,7 @@
 3351,'3351','Cresthaven / Barnstone',45.273338,-75.708473
 3352,'3352','Cresthaven / Fairpark',45.274982,-75.709312
 3353,'3353','Cresthaven / Woodroffe',45.270939,-75.715599
-3358,'3358','Beaverbrook / Gow Park Path',45.327457,-75.903763
+3358,'3358','Beaverbrook / Gow Pk Path',45.327457,-75.903763
 3361,'3361','Castlefrank / Aird',45.309891,-75.900085
 3362,'3362','Castlefrank / Aird',45.310074,-75.900864
 3365,'3365','Pagé / Silverbirch',45.442669,-75.524803
@@ -2156,8 +2156,8 @@
 3371,'3371','Huntmar / Tramontana',45.287224,-75.918121
 3374,'3374','Lakeridge / Lakeridge N.',45.449989,-75.476151
 3375,'3375','Lakeridge / Lakeridge N.',45.449909,-75.476326
-3376,'3376','Bridgestone / Cedar Valley',45.283058,-75.854607
-3377,'3377','Bridgestone / Cedar Valley',45.28297,-75.854797
+3376,'3376','Bridgestone / Cedar Vly',45.283058,-75.854607
+3377,'3377','Bridgestone / Cedar Vly',45.28297,-75.854797
 3379,'3379','Grassy Plains/Stonehaven',45.281639,-75.845268
 3380,'3380','Kilbirnie / Blackleaf',45.251915,-75.728485
 3381,'3381','Kilbirnie / Cairnsmore',45.250214,-75.727203
@@ -2168,8 +2168,8 @@
 3389,'3389','Kilbirnie / Cairnsmore',45.250729,-75.727234
 3391,'3391','Kennevale / Lamplighters',45.265999,-75.773674
 3392,'3392','Kennevale / Lamplighters',45.266113,-75.773842
-3393,'3393','Kennevale / Cobble Hill',45.265305,-75.775383
-3394,'3394','Kennevale / Cobble Hill',45.265148,-75.776146
+3393,'3393','Kennevale / Cobble Hl',45.265305,-75.775383
+3394,'3394','Kennevale / Cobble Hl',45.265148,-75.776146
 3395,'3395','Terminal / Trainyards',45.415009,-75.646324
 3396,'3396','Terminal / Trainyards',45.41518,-75.645378
 3397,'3397','Terminal / Walmart Ent.',45.414768,-75.649345
@@ -2185,7 +2185,7 @@
 3514,'3514','Belgreen / Russell',45.382877,-75.590622
 3515,'3515','Woodroffe / Earl Mulligan',45.294666,-75.729301
 3516,'3516','Woodroffe / Deer Fox',45.280041,-75.721146
-3517,'3517','Woodroffe / Heritage Glen',45.277645,-75.719719
+3517,'3517','Woodroffe / Heritage Gln',45.277645,-75.719719
 3518,'3518','Leikin / Beckstead',45.298077,-75.705681
 3519,'3519','Leikin / Beckstead',45.298222,-75.705894
 3520,'3520','Leikin / Merivale',45.301277,-75.705734
@@ -2198,7 +2198,7 @@
 3527,'3527','Rockdale / Buckland',45.355816,-75.352753
 3528,'3528','Rockdale / Farwell',45.351303,-75.35051
 3529,'3529','Rockdale / Alcide',45.353817,-75.351669
-3530,'3530','Rockdale / Highway',45.340565,-75.344681
+3530,'3530','Rockdale / Hwy',45.340565,-75.344681
 3531,'3531','Rockdale / Devine',45.351147,-75.350182
 3532,'3532','Car Pool Lot',45.332474,-75.345711
 3533,'3533','Boundary / Ad. 5025',45.356033,-75.449295
@@ -2222,7 +2222,7 @@
 3579,'3579','Kanata / Walden',45.323502,-75.924141
 3580,'3580','Kanata / Goulburn',45.323429,-75.923988
 3582,'3582','Portobello / Valin',45.474319,-75.469963
-3583,'3583','Den Haag / Bathgate Park',45.441296,-75.625526
+3583,'3583','Den Haag / Bathgate Pk',45.441296,-75.625526
 3584,'3584','Maisonneuve / Deverdun',45.434711,-75.712189
 3585,'3585','Sacre Coeur / Champlain',45.437218,-75.711418
 3586,'3586','Sacre Coeur / Laurier',45.437153,-75.709007
@@ -2275,15 +2275,15 @@
 3681,'3681','Old Montréal / Ad. 1172',45.496067,-75.466537
 3682,'3682','Old Montréal / Ad. 1183',45.496246,-75.466751
 3691,'3691','Cameron / Old Montreal',45.516796,-75.410263
-3692,'3692','Cameron / Regional Road 174',45.518154,-75.410988
-3693,'3693','Regional Road 174 / Fauber',45.518684,-75.406113
+3692,'3692','Cameron / Regional Rd 174',45.518154,-75.410988
+3693,'3693','Regional Rd 174 / Fauber',45.518684,-75.406113
 3695,'3695','Kinsella / Old Montréal',45.518852,-75.376991
 3696,'3696','Old Montreal / Glasford',45.517426,-75.407333
 3698,'3698','Orchardview / Gardenway',45.466789,-75.477982
 3704,'3704','Des Épinettes / Wildflower',45.461685,-75.506599
 3706,'3706','Rockdale / Ad. 5381',45.366795,-75.358917
 3707,'3707','Rockdale / Forced',45.366863,-75.358635
-3709,'3709','Steeplechase / Pine Hill',45.296207,-75.854774
+3709,'3709','Steeplechase / Pine Hl',45.296207,-75.854774
 3711,'3711','Ogilvie / Cumming',45.426266,-75.631004
 3713,'3713','Colonial / Frank Kenny',45.422985,-75.409241
 3714,'3714','Colonial / Ad. 1759',45.425652,-75.400978
@@ -2312,8 +2312,8 @@
 3737,'3737','Colonial / Frank Kenny',45.423195,-75.409355
 3738,'3738','Colonial / Ad. 1296',45.421925,-75.420639
 3739,'3739','Colonial / Fairgreen',45.421322,-75.424301
-3746,'3746','Fourth Line / Andrew',45.131725,-75.716621
-3747,'3747','Fourth Line / Andrew',45.132168,-75.716766
+3746,'3746','4th Line / Andrew',45.131725,-75.716621
+3747,'3747','4th Line / Andrew',45.132168,-75.716766
 3752,'3752','Leikin / Bill Leathem',45.294106,-75.708244
 3753,'3753','Leikin / Bill Leathem',45.293961,-75.708199
 3759,'3759','Cresthaven / Waterbridge',45.280788,-75.708008
@@ -2336,7 +2336,7 @@
 3783,'3783','Stoneway / Astoria',45.283619,-75.715363
 3784,'3784','Stoneway / Rideaucrest',45.285721,-75.714966
 3785,'3785','Stoneway / Redpath',45.28743,-75.714775
-3786,'3786','Stoneway / Forest Gate',45.288776,-75.718315
+3786,'3786','Stoneway / Forest Gt',45.288776,-75.718315
 3787,'3787','Stoneway / Wittingham',45.288292,-75.723724
 3788,'3788','Woodroffe / Queensbury',45.28397,-75.723335
 3789,'3789','Queensbury / Woodroffe',45.284225,-75.723663
@@ -2368,7 +2368,7 @@
 4039,'4039','Merivale / Burris',45.362659,-75.733459
 4041,'4041','Merivale / Baseline',45.364639,-75.730965
 4042,'4042','Princess Louise / Falwyn',45.483574,-75.492615
-4043,'4043','Baseline / Laurentian Place',45.362469,-75.737152
+4043,'4043','Baseline / Laurentian Pl',45.362469,-75.737152
 4044,'4044','Old Innes / Bantree',45.410034,-75.618248
 4045,'4045','Sheffield / Leeds',45.402225,-75.604828
 4046,'4046','Baseline / Merivale',45.363956,-75.733551
@@ -2396,12 +2396,12 @@
 4083,'4083','Heron / Baycrest',45.379536,-75.652328
 4084,'4084','Greenbank / Morrison',45.345379,-75.788589
 4086,'4086','Greenbank / Iris',45.346962,-75.788429
-4089,'4089','Highway 417 / Woodroffe',45.360435,-75.767609
-4090,'4090','Woodroffe / Highway 417',45.359852,-75.76741
+4089,'4089','Hwy 417 / Woodroffe',45.360435,-75.767609
+4090,'4090','Woodroffe / Hwy 417',45.359852,-75.76741
 4091,'4091','Bronson / Heron',45.379562,-75.685951
 4092,'4092','Greenbank / Ashgrove',45.336052,-75.785057
-4093,'4093','Earl Mulligan / Mount Shannon',45.292953,-75.734459
-4094,'4094','Earl Mulligan / Mount Shannon',45.292816,-75.734344
+4093,'4093','Earl Mulligan / Mt Shannon',45.292953,-75.734459
+4094,'4094','Earl Mulligan / Mt Shannon',45.292816,-75.734344
 4096,'4096','Woodroffe / Lenester',45.365738,-75.770676
 4098,'4098','Mcclellan / Grady',45.329018,-75.792732
 4099,'4099','Queensway / Woodroffe',45.362286,-75.769493
@@ -2501,9 +2501,9 @@
 4203,'4203','Mcgill / Ad. 64',45.333069,-75.671249
 4205,'4205','Croil / Paul Benoit',45.33102,-75.674141
 4213,'4213','Uplands / Research',45.331154,-75.657845
-4214,'4214','Research / Second',45.326962,-75.664093
-4215,'4215','Research / Third',45.326431,-75.665237
-4216,'4216','Research / Fifth',45.325817,-75.666534
+4214,'4214','Research / 2nd',45.326962,-75.664093
+4215,'4215','Research / 3rd',45.326431,-75.665237
+4216,'4216','Research / 5th',45.325817,-75.666534
 4217,'4217','Paul Benoit / Slemon',45.327694,-75.669815
 4218,'4218','Bank / Foxbar',45.367538,-75.661797
 4219,'4219','Bank / Kitchener',45.36639,-75.660973
@@ -2512,7 +2512,7 @@
 4222,'4222','Johnston / Albion',45.363529,-75.649284
 4223,'4223','Johnston / Albion',45.363335,-75.649452
 4224,'4224','Tapiola / Celtic',45.362995,-75.64624
-4225,'4225','Tapiola / Gentle Gate',45.362541,-75.644485
+4225,'4225','Tapiola / Gentle Gt',45.362541,-75.644485
 4226,'4226','Tapiola / White Clover',45.36385,-75.641251
 4227,'4227','Tapiola / Rastila',45.364555,-75.639519
 4228,'4228','Tapiola / Somero',45.36512,-75.638107
@@ -2535,11 +2535,11 @@
 4245,'4245','Bank / Hunt Club',45.353687,-75.64817
 4246,'4246','Hunt Club / Bank',45.354542,-75.646919
 4247,'4247','Hunt Club / Bridle Path',45.351841,-75.650314
-4248,'4248','Bridle Path / Hunter''s Point',45.348152,-75.648369
+4248,'4248','Bridle Path / Hunter''s Pt',45.348152,-75.648369
 4249,'4249','Bridle Path / Trapper''s',45.348808,-75.645409
 4250,'4250','Bridle Path / Carousel',45.349228,-75.643921
 4251,'4251','Bridle Path / Albion',45.350101,-75.641792
-4252,'4252','Bridle Path / Hunter''s Point',45.348278,-75.648354
+4252,'4252','Bridle Path / Hunter''s Pt',45.348278,-75.648354
 4253,'4253','Bridle Path / Saratoga',45.348846,-75.645935
 4254,'4254','Bridle Path / Carousel',45.3494,-75.643997
 4255,'4255','Bridle Path / Carousel',45.350014,-75.642952
@@ -2553,13 +2553,13 @@
 4265,'4265','Albion / Goth',45.345348,-75.638062
 4270,'4270','Bank / Rosebella',45.348858,-75.627274
 4271,'4271','Bank / Rosebella',45.348961,-75.627945
-4273,'4273','Athans / Sixth',45.353958,-75.625893
-4274,'4274','Sixth / St Bernard',45.352264,-75.624352
-4275,'4275','Sixth / Rosebella',45.350418,-75.622871
-4276,'4276','Sixth / St Bernard',45.351757,-75.62368
-4277,'4277','Sixth / Athans',45.354118,-75.625397
-4281,'4281','Queensdale / First (1st)',45.344311,-75.633675
-4282,'4282','Queensdale / First (1st)',45.34404,-75.633881
+4273,'4273','Athans / 6th',45.353958,-75.625893
+4274,'4274','6th / St Bernard',45.352264,-75.624352
+4275,'4275','6th / Rosebella',45.350418,-75.622871
+4276,'4276','6th / St Bernard',45.351757,-75.62368
+4277,'4277','6th / Athans',45.354118,-75.625397
+4281,'4281','Queensdale / 1st (1st)',45.344311,-75.633675
+4282,'4282','Queensdale / 1st (1st)',45.34404,-75.633881
 4283,'4283','Queensdale / Stockton',45.344799,-75.632019
 4284,'4284','Queensdale / Fenmore',45.345711,-75.62989
 4286,'4286','Queensdale / Bank',45.347313,-75.626228
@@ -2661,13 +2661,13 @@
 4442,'4442','Ogilvie / Palmerston',45.42939,-75.623146
 4443,'4443','Ogilvie / Cadboro',45.430626,-75.620071
 4444,'4444','Ogilvie / Ad. 1820',45.43261,-75.615463
-4445,'4445','Ogilvie / City Park',45.433456,-75.613686
-4446,'4446','City Park / Ogilvie',45.433289,-75.612907
-4447,'4447','City Park / Harper',45.429066,-75.614677
-4448,'4448','City Park / Harper',45.4296,-75.616241
-4449,'4449','City Park / Ad. 1990',45.42881,-75.615257
-4450,'4450','City Park / Jobin',45.430088,-75.616837
-4451,'4451','City Park / Ogilvie',45.431454,-75.617722
+4445,'4445','Ogilvie / City Pk',45.433456,-75.613686
+4446,'4446','City Pk / Ogilvie',45.433289,-75.612907
+4447,'4447','City Pk / Harper',45.429066,-75.614677
+4448,'4448','City Pk / Harper',45.4296,-75.616241
+4449,'4449','City Pk / Ad. 1990',45.42881,-75.615257
+4450,'4450','City Pk / Jobin',45.430088,-75.616837
+4451,'4451','City Pk / Ogilvie',45.431454,-75.617722
 4459,'4459','Medhurst / Woodfield',45.335274,-75.749123
 4461,'4461','Woodfield / Dalehurst',45.333984,-75.747803
 4462,'4462','Woodfield / Medhurst',45.335323,-75.748856
@@ -2681,14 +2681,14 @@
 4470,'4470','Vaan / Bie',45.323887,-75.741943
 4471,'4471','Vaan / Coleway',45.323452,-75.742981
 4473,'4473','Prince Of Wales / Baseline',45.373997,-75.708153
-4474,'4474','Prince Of Wales / Forest Hill',45.373951,-75.707924
-4475,'4475','Prince Of Wales / Green Valley',45.377411,-75.705894
+4474,'4474','Prince Of Wales / Forest Hl',45.373951,-75.707924
+4475,'4475','Prince Of Wales / Grn Vly',45.377411,-75.705894
 4476,'4476','Prince Of Wales / Fairchild',45.379353,-75.704536
 4480,'4480','Baseline / Marson',45.369862,-75.720604
 4481,'4481','Baseline / Zena',45.36853,-75.723114
 4482,'4482','Baseline / Farlane',45.366936,-75.727272
 4483,'4483','Baseline / Merivale',45.365532,-75.729897
-4484,'4484','Baseline / Laurentian Place',45.362453,-75.737579
+4484,'4484','Baseline / Laurentian Pl',45.362453,-75.737579
 4485,'4485','Baseline / Clyde',45.361591,-75.739052
 4486,'4486','Merivale / Burris',45.363338,-75.73262
 4487,'4487','Merivale / Ad. 1460',45.361755,-75.734184
@@ -2733,14 +2733,14 @@
 4529,'4529','Hemmingwood / Covington',45.344849,-75.772964
 4530,'4530','Centrepointe / Marble Arch',45.341022,-75.772614
 4531,'4531','Centrepointe / Marble Arch',45.339439,-75.771523
-4532,'4532','Centrepointe / Maple View',45.338249,-75.762825
-4533,'4533','Centrepointe / Pine Trail',45.339035,-75.761871
+4532,'4532','Centrepointe / Maple Vw',45.338249,-75.762825
+4533,'4533','Centrepointe / Pine Trl',45.339035,-75.761871
 4534,'4534','Southmore / Buxton',45.358997,-75.678825
 4535,'4535','Fairlawn / Lenester',45.367359,-75.769241
 4536,'4536','Fairlawn / Lenester',45.366772,-75.769142
 4537,'4537','Woodroffe / D. Roy Kennedy School',45.364273,-75.769814
-4538,'4538','Woodroffe / Highway 417',45.36237,-75.76886
-4539,'4539','Woodroffe / Highway 417',45.359898,-75.767776
+4538,'4538','Woodroffe / Hwy 417',45.36237,-75.76886
+4539,'4539','Woodroffe / Hwy 417',45.359898,-75.767776
 4540,'4540','Woodroffe / Adirondack',45.353188,-75.764023
 4541,'4541','Woodroffe / Baseline',45.351898,-75.763451
 4542,'4542','Iris / Field',45.359074,-75.762566
@@ -2787,7 +2787,7 @@
 4585,'4585','Craig Henry / Woodvale',45.333797,-75.757172
 4586,'4586','Knoxdale / Craig Henry',45.332554,-75.755806
 4587,'4587','Majestic / Cox',45.329735,-75.756676
-4588,'4588','Majestic / Sherry Lane',45.329784,-75.75605
+4588,'4588','Majestic / Sherry Ln',45.329784,-75.75605
 4589,'4589','Majestic / Newhaven',45.327183,-75.761398
 4590,'4590','Newhaven / Knoxdale',45.329388,-75.763184
 4591,'4591','Majestic / Newhaven',45.327145,-75.761185
@@ -2853,7 +2853,7 @@
 4833,'4833','Castlefrank / Kakulu',45.305359,-75.895836
 4834,'4834','Merivale / Mayview',45.375137,-75.733093
 4835,'4835','Bank / Johnston',45.359634,-75.656242
-4837,'4837','Helmsdale / Shirley''s Brook',45.353008,-75.918915
+4837,'4837','Helmsdale / Shirley''s Brk',45.353008,-75.918915
 4838,'4838','Carling / Queensway',45.381321,-75.742386
 4839,'4839','Carling / Saigon',45.381809,-75.744385
 4840,'4840','Kirkwood / Coldrey',45.381969,-75.738495
@@ -2861,7 +2861,7 @@
 4843,'4843','Kirkwood / Clare',45.389034,-75.742844
 4844,'4844','Kirkwood / Geoffrey',45.392269,-75.744919
 4845,'4845','Hunt Club / Albion',45.355598,-75.645203
-4846,'4846','Richmond / Island Park',45.397003,-75.742416
+4846,'4846','Richmond / Island Pk',45.397003,-75.742416
 4847,'4847','Cahill / Rosegarden',45.360638,-75.641464
 4848,'4848','Wellington / Harmer',45.399124,-75.734001
 4849,'4849','River / Hunt Club',45.333443,-75.693306
@@ -2879,13 +2879,13 @@
 4862,'4862','Clare / Westhaven',45.388676,-75.744637
 4866,'4866','Carling / Ritchie',45.356937,-75.801193
 4867,'4867','Helmsdale / Tobermory',45.35339,-75.921143
-4868,'4868','Shirley''s Brook / Mckinley',45.352085,-75.924843
+4868,'4868','Shirley''s Brk / Mckinley',45.352085,-75.924843
 4869,'4869','Richmond / Lockhart',45.379147,-75.77356
 4871,'4871','Holland / Byron',45.398098,-75.731049
 4874,'4874','Halton / Flamborough',45.348625,-75.932831
 4875,'4875','Terry Fox / March',45.348644,-75.925697
 4876,'4876','Richmond / Churchill',45.391857,-75.754532
-4877,'4877','March Road / Trillium',45.347931,-75.923805
+4877,'4877','March Rd / Trillium',45.347931,-75.923805
 4879,'4879','Perth / Huntley',45.195206,-75.837669
 4882,'4882','Richmond / Carling',45.359577,-75.792931
 4883,'4883','Lanark / Churchill',45.397079,-75.756828
@@ -2895,13 +2895,13 @@
 4887,'4887','Clearview / Keyworth',45.403538,-75.746498
 4890,'4890','Premier / Carleton',45.400394,-75.743217
 4891,'4891','Carling / Iroquois',45.371799,-75.767227
-4892,'4892','Scott / Island Park',45.39864,-75.746086
+4892,'4892','Scott / Island Pk',45.39864,-75.746086
 4893,'4893','Mcrae / Scott',45.396473,-75.750687
 4894,'4894','Scott / Carleton',45.400253,-75.742722
 4895,'4895','Scott / Smirle',45.402264,-75.737556
 4897,'4897','Bank / Transitway',45.386292,-75.674164
 4899,'4899','Holland / Scott',45.403385,-75.734314
-4900,'4900','Woodroffe / Highway 417',45.362236,-75.769051
+4900,'4900','Woodroffe / Hwy 417',45.362236,-75.769051
 4902,'4902','Larkspur / Northside',45.327927,-75.817368
 4903,'4903','Woodward / Maitland',45.369385,-75.751663
 4907,'4907','Carling / Maitland',45.375885,-75.757317
@@ -2942,8 +2942,8 @@
 4949,'4949','Britannia / Rowatt',45.370853,-75.799858
 4950,'4950','Cassels / Bradford',45.372086,-75.801636
 4951,'4951','Salina / Bradford',45.366676,-75.79818
-4952,'4952','Britannia Park Parking',45.362976,-75.800964
-4953,'4953','Britannia Park',45.362839,-75.800751
+4952,'4952','Britannia Pk Pkng',45.362976,-75.800964
+4953,'4953','Britannia Pk',45.362839,-75.800751
 4954,'4954','Don / Britannia',45.363644,-75.795357
 4955,'4955','Poulin / Violet',45.365856,-75.793793
 4956,'4956','Poulin / Don',45.364277,-75.792778
@@ -2955,7 +2955,7 @@
 4964,'4964','Tavistock / Carling',45.362797,-75.786247
 4965,'4965','Connaught / Severn',45.357807,-75.781738
 4966,'4966','Clarenda / Alpine',45.356453,-75.786278
-4970,'4970','Pinecrest / Highway 417',45.35033,-75.790489
+4970,'4970','Pinecrest / Hwy 417',45.35033,-75.790489
 4971,'4971','Dumaurier / Alenmede',45.347504,-75.797012
 4972,'4972','Legget / Terry Fox',45.348499,-75.920654
 4973,'4973','Dumaurier / Pinecrest',45.352158,-75.792015
@@ -3073,7 +3073,7 @@
 5305,'5305','Bell H.S.',45.325718,-75.810516
 5306,'5306','Seyton / Florizel',45.314751,-75.835434
 5307,'5307','Seyton / Westcliffe',45.316093,-75.837654
-5308,'5308','Carling / Andrew Haydon Park',45.351368,-75.814117
+5308,'5308','Carling / Andrew Haydon Pk',45.351368,-75.814117
 5309,'5309','Carling / Acres Side',45.349716,-75.817963
 5310,'5310','Carling / Holly Acres',45.349251,-75.818314
 5311,'5311','Crystal Beach / Carling',45.351715,-75.833626
@@ -3087,7 +3087,7 @@
 5321,'5321','Carling / Ullswater',45.352432,-75.840485
 5322,'5322','Carling / James Cummings',45.35239,-75.842781
 5324,'5324','Carling / Moodie',45.352833,-75.844627
-5325,'5325','Carling Place',45.354435,-75.849838
+5325,'5325','Carling Pl',45.354435,-75.849838
 5326,'5326','Grandview / Borden',45.355408,-75.849442
 5327,'5327','Penfield / Rutherford',45.331108,-75.898689
 5328,'5328','Penfield / Banting',45.327812,-75.891441
@@ -3099,7 +3099,7 @@
 5340,'5340','Varley / Casson',45.333401,-75.908447
 5341,'5341','Leacock / Sandwell',45.32478,-75.897812
 5343,'5343','Varley / Milne',45.32999,-75.904747
-5345,'5345','Varley Dr. / Varley Lane',45.331982,-75.90554
+5345,'5345','Varley Dr. / Varley Ln',45.331982,-75.90554
 5346,'5346','Leacock / Ad. 51',45.323456,-75.901443
 5348,'5348','Leacock / Ad. 25',45.324928,-75.904099
 5351,'5351','Leacock / Ad. 84',45.326454,-75.897781
@@ -3122,7 +3122,7 @@
 5370,'5370','6501 Campeau',45.315117,-75.910667
 5375,'5375','Kanata / Goldridge',45.3186,-75.919327
 5376,'5376','2405 Robertson',45.315514,-75.849228
-5377,'5377','Robertson / Mill Hill',45.317673,-75.844185
+5377,'5377','Robertson / Mill Hl',45.317673,-75.844185
 5379,'5379','Kakulu / Castlefrank',45.304852,-75.895111
 5380,'5380','Kanata / Goldridge',45.315769,-75.919846
 5381,'5381','Robertson / Haanel',45.311287,-75.859436
@@ -3181,8 +3181,8 @@
 5474,'5474','Jockvale / Barrhaven United Church',45.27243,-75.760033
 5475,'5475','Jockvale / Fable',45.273724,-75.763649
 5476,'5476','Jockvale / Barrhaven United Church',45.272408,-75.759552
-5477,'5477','Hazeldean / Bradley Green',45.27895,-75.918716
-5478,'5478','Hazeldean / Bradley Green',45.278786,-75.91851
+5477,'5477','Hazeldean / Bradley Grn',45.27895,-75.918716
+5478,'5478','Hazeldean / Bradley Grn',45.278786,-75.91851
 5479,'5479','Hazeldean / Savage',45.277779,-75.920471
 5480,'5480','Hazeldean / Savage',45.277561,-75.920464
 5481,'5481','Hazeldean / Johnwoods',45.27676,-75.922112
@@ -3217,7 +3217,7 @@
 5630,'5630','Amiens / Prestwick',45.472794,-75.499458
 5631,'5631','Prestwick / Amiens',45.472645,-75.499245
 5632,'5632','Rothesay / Ballantrae',45.288803,-75.874763
-5637,'5637','Place D''orleans / Centrum',45.478676,-75.512802
+5637,'5637','Pl D''orleans / Centrum',45.478676,-75.512802
 5644,'5644','Hazeldean / Castlefrank',45.299091,-75.887001
 5646,'5646','Prestone / Tompkins',45.477089,-75.50106
 5647,'5647','Prestone / Tompkins',45.476963,-75.501251
@@ -3230,14 +3230,14 @@
 5679,'5679','Viewmount / Farmgate',45.354675,-75.708191
 5681,'5681','Viewmount / Four Seasons',45.350929,-75.711487
 5682,'5682','St Joseph / R.R. 174',45.451847,-75.58242
-5683,'5683','Viewmount / Farm Gate',45.354576,-75.708107
+5683,'5683','Viewmount / Farm Gt',45.354576,-75.708107
 5690,'5690','Bronson / Somerset W',45.41172,-75.705986
 5693,'5693','Colonnade / Ad. 177',45.342178,-75.710876
-5698,'5698','Merivale / Central Park',45.37001,-75.731918
+5698,'5698','Merivale / Central Pk',45.37001,-75.731918
 5700,'5700','Vanier / Mcarthur',45.430447,-75.664024
 5701,'5701','Bridlewood / Longden',45.29372,-75.865326
 5705,'5705','Alta Vista / Kilborn',45.386494,-75.662567
-5706,'5706','Du Grand Bois / Park Grove',45.458614,-75.499084
+5706,'5706','Du Grand Bois / Pk Grv',45.458614,-75.499084
 5709,'5709','Alta Vista / Clontarf',45.385071,-75.662422
 5711,'5711','Hazeldean / Fringewood',45.281403,-75.914825
 5712,'5712','Colombine / Parkdale',45.408749,-75.734634
@@ -3247,7 +3247,7 @@
 5717,'5717','Merivale / Ad. 1220',45.371902,-75.732491
 5718,'5718','Promenade / Terrasses De La Chaudière',45.424995,-75.721573
 5721,'5721','Mcewen / Richmond',45.371414,-75.781914
-5722,'5722','Booth / Vimy Place',45.417355,-75.715172
+5722,'5722','Booth / Vimy Pl',45.417355,-75.715172
 5725,'5725','Stittsville Main / Mulkins',45.26075,-75.923515
 5726,'5726','Bank / Ad. 2401',45.354733,-75.649483
 5727,'5727','Bank / Ad. 2380',45.354645,-75.649979
@@ -3257,7 +3257,7 @@
 5735,'5735','Merivale / Roydon',45.337212,-75.725319
 5739,'5739','Johnston / Bank',45.360657,-75.656128
 5740,'5740','St Joseph / Orléans',45.468681,-75.529762
-5742,'5742','Maisonneuve / Place D''accueil',45.427227,-75.71386
+5742,'5742','Maisonneuve / Pl D''accueil',45.427227,-75.71386
 5743,'5743','Merivale / Cleopatra',45.327446,-75.720131
 5745,'5745','Johnston / Southgate',45.361412,-75.654663
 5750,'5750','Cahill / Rosegarden',45.360607,-75.641029
@@ -3302,7 +3302,7 @@
 5846,'5846','Merivale / Family Brown',45.347626,-75.731438
 5847,'5847','Orléans / Maple Run',45.453724,-75.530563
 5851,'5851','Alta Vista / Kilborn',45.386723,-75.662834
-5852,'5852','Holland / Highway 417',45.395882,-75.729454
+5852,'5852','Holland / Hwy 417',45.395882,-75.729454
 5853,'5853','Holland / Byron',45.39835,-75.73098
 5856,'5856','Richmond / Bellfield',45.349895,-75.801537
 5857,'5857','Charlotte / Besserer',45.432384,-75.675819
@@ -3339,15 +3339,15 @@
 5915,'5915','Brian Coburn / Tenth Line',45.450642,-75.481529
 5916,'5916','Tenth Line / Lakepointe',45.454605,-75.484161
 5917,'5917','Tenth Line / Lakepointe',45.453953,-75.483994
-5918,'5918','Harvest Valley / Sparkman',45.445389,-75.476715
-5919,'5919','Harvest Valley / Sparkman',45.44548,-75.476982
+5918,'5918','Harvest Vly / Sparkman',45.445389,-75.476715
+5919,'5919','Harvest Vly / Sparkman',45.44548,-75.476982
 5922,'5922','Lakeridge / Goldenbrook',45.446934,-75.474442
 5923,'5923','Lakeridge / Goldenbrook',45.44693,-75.474258
 5924,'5924','Centrum / Ad. 245',45.48045,-75.510719
-5925,'5925','Centrum / Place D''orleans',45.479427,-75.512337
+5925,'5925','Centrum / Pl D''orleans',45.479427,-75.512337
 5926,'5926','Prestone / St. Joseph',45.480305,-75.508499
 5927,'5927','Blackburn Arena',45.429832,-75.564072
-5928,'5928','Saddleridge / Rolling Meadows',45.428085,-75.518105
+5928,'5928','Saddleridge / Rolling Mdws',45.428085,-75.518105
 5931,'5931','Joshua / Keith',45.425713,-75.521584
 5934,'5934','Saddleridge / Dovehaven',45.426449,-75.51712
 5936,'5936','Pagé / Navan',45.429943,-75.517418
@@ -3389,9 +3389,9 @@
 6028,'6028','Baseline / Fisher',45.371807,-75.715637
 6029,'6029','Fisher / Malibu',45.369007,-75.715271
 6030,'6030','Fisher / Arnot',45.367813,-75.714516
-6031,'6031','Fisher / Deer Park',45.366486,-75.71376
+6031,'6031','Fisher / Deer Pk',45.366486,-75.71376
 6032,'6032','Fisher / Dynes',45.366653,-75.713593
-6033,'6033','Fisher / Forest Park',45.363766,-75.711998
+6033,'6033','Fisher / Forest Pk',45.363766,-75.711998
 6034,'6034','Meadowlands / Claymore',45.364864,-75.707054
 6035,'6035','Meadowlands / Claymore',45.364948,-75.707321
 6036,'6036','Meadowlands / Prince Of Wales',45.367901,-75.702606
@@ -3403,7 +3403,7 @@
 6043,'6043','Prince Of Wales / Melfa',45.36388,-75.700401
 6044,'6044','Prince Of Wales / Normandy',45.357666,-75.700813
 6045,'6045','Prince Of Wales / Borden Side',45.354523,-75.703979
-6046,'6046','Prince Of Wales / Rideau Heights',45.338692,-75.701553
+6046,'6046','Prince Of Wales / Rideau Hts',45.338692,-75.701553
 6047,'6047','Colonnade / Ad. 60',45.345387,-75.714111
 6048,'6048','Colonnade / Ad. 100',45.346657,-75.705521
 6049,'6049','Colonnade / Ad. 120',45.343563,-75.705452
@@ -3411,7 +3411,7 @@
 6054,'6054','Fisher / Meadowlands',45.362209,-75.711082
 6055,'6055','454 Farmgate Cresc.',45.353561,-75.709328
 6056,'6056','Viewmount / Old Country',45.352047,-75.709427
-6057,'6057','Viewmount / Cool Spring',45.350334,-75.71244
+6057,'6057','Viewmount / Cool Spg',45.350334,-75.71244
 6058,'6058','Viewmount / Chesterton',45.349552,-75.715233
 6059,'6059','454 Farmgate Cresc.',45.353558,-75.70919
 6061,'6061','Viewmount / Coach House',45.349583,-75.714462
@@ -3481,10 +3481,10 @@
 6144,'6144','Airport / Uplands',45.328705,-75.654045
 6145,'6145','Morgan''s Grant / Allenby',45.350002,-75.929382
 6146,'6146','Morgan''s Grant / March',45.350803,-75.927727
-6147,'6147','Shirley''s Brook / Sandhill',45.352665,-75.923386
+6147,'6147','Shirley''s Brk / Sandhill',45.352665,-75.923386
 6149,'6149','Legget / Terry Fox',45.348373,-75.920288
 6150,'6150','Legget / Solandt',45.345551,-75.917053
-6151,'6151','Shirley''s Brook / Sandhill',45.352558,-75.923805
+6151,'6151','Shirley''s Brk / Sandhill',45.352558,-75.923805
 6152,'6152','Morgan''s Grant / March',45.350761,-75.928101
 6153,'6153','Morgans Grant / Gateshead',45.349918,-75.930305
 6154,'6154','Flamborough / Halton',45.348156,-75.932388
@@ -3510,7 +3510,7 @@
 6179,'6179','Castlefrank / Macneil',45.298599,-75.890884
 6180,'6180','Castlefrank / Tamblyn',45.300568,-75.893295
 6181,'6181','Mccurdy / Young',45.299103,-75.897034
-6182,'6182','Mccurdy / Maple Grove',45.300358,-75.90168
+6182,'6182','Mccurdy / Maple Grv',45.300358,-75.90168
 6183,'6183','Mccurdy / Dorey',45.303116,-75.90387
 6184,'6184','Castlefrank / Mccurdy',45.30756,-75.897255
 6185,'6185','Castlefrank / Mccurdy',45.306904,-75.896828
@@ -3518,7 +3518,7 @@
 6187,'6187','Mccurdy / Dorey',45.303242,-75.903946
 6188,'6188','Mccurdy / Fessenden',45.301094,-75.903214
 6189,'6189','Mccurdy / Young',45.299084,-75.896729
-6190,'6190','Mccurdy / Maple Grove',45.300507,-75.902107
+6190,'6190','Mccurdy / Maple Grv',45.300507,-75.902107
 6191,'6191','Castlefrank / Mccurdy',45.300423,-75.89344
 6193,'6193','Katimavik / Ad. 200',45.303764,-75.906052
 6194,'6194','Palomino / Appaloosa',45.29668,-75.866692
@@ -3527,7 +3527,7 @@
 6198,'6198','Stonehaven / Bridlewood',45.29007,-75.8629
 6199,'6199','Bridlewood / Willowglen',45.292316,-75.865227
 6200,'6200','Bridlewood / Aintree',45.294785,-75.863976
-6201,'6201','Steeplechase / Kokanee Gate',45.297066,-75.859932
+6201,'6201','Steeplechase / Kokanee Gt',45.297066,-75.859932
 6202,'6202','Helmsdale / Tobermory',45.35331,-75.921387
 6203,'6203','Steeplechase / Inwood',45.297997,-75.859344
 6204,'6204','Steeplechase / Mattawa',45.300831,-75.854736
@@ -3537,10 +3537,10 @@
 6208,'6208','Steeplechase / Springwater',45.296642,-75.860344
 6209,'6209','Steeplechase / Sprucemeadow',45.292816,-75.858284
 6210,'6210','Stonehaven / Stonemeadow',45.287811,-75.848175
-6211,'6211','Bridle Park / Black Rivers',45.285309,-75.852951
-6213,'6213','Stonemeadow / Loyal Hill',45.285973,-75.85141
+6211,'6211','Bridle Pk / Black Rivers',45.285309,-75.852951
+6213,'6213','Stonemeadow / Loyal Hl',45.285973,-75.85141
 6214,'6214','Stonemeadow / Bramblewood',45.287121,-75.848999
-6215,'6215','Stonehaven / Pine Hill',45.290401,-75.851387
+6215,'6215','Stonehaven / Pine Hl',45.290401,-75.851387
 6216,'6216','Stonehaven / Steeplechase',45.291065,-75.859131
 6217,'6217','Stonehaven / Bridlewood',45.290321,-75.862541
 6218,'6218','Eagleson / Ad. 465',45.290783,-75.869408
@@ -3549,8 +3549,8 @@
 6222,'6222','Grassy Plains / Farmfield',45.280468,-75.846603
 6224,'6224','Grassy Plains / Birchfield',45.276802,-75.851265
 6225,'6225','Grassy Plains / Deerchase',45.277443,-75.85318
-6226,'6226','Grassy Plains / Apple Creek',45.276691,-75.85186
-6227,'6227','Grassy Plains / Apple Creek',45.277447,-75.849022
+6226,'6226','Grassy Plains / Apple Crk',45.276691,-75.85186
+6227,'6227','Grassy Plains / Apple Crk',45.277447,-75.849022
 6228,'6228','Grassy Plains / Meadowbreeze',45.280113,-75.846443
 6229,'6229','Stonehaven / Grassy Plains',45.281544,-75.844551
 6230,'6230','Equestrian / Foxleigh',45.284901,-75.865189
@@ -3576,7 +3576,7 @@
 6261,'6261','Richmond / Richardson',45.372562,-75.779793
 6262,'6262','Richmond / Mcewen',45.370899,-75.781334
 6263,'6263','Richmond / Assaly',45.367935,-75.785179
-6264,'6264','Richmond / Plaza',45.363216,-75.790085
+6264,'6264','Richmond / Plz',45.363216,-75.790085
 6265,'6265','Richmond / Poulin',45.362186,-75.790977
 6266,'6266','Perth / King',45.197067,-75.834656
 6267,'6267','Perth / Cockburn',45.196453,-75.835403
@@ -3630,15 +3630,15 @@
 6330,'6330','Longleaf / Gladewoods',45.441319,-75.531204
 6331,'6331','Longleaf / Montclair',45.440319,-75.531326
 6332,'6332','Longleaf / Apple Leaf',45.438503,-75.530235
-6333,'6333','Orleans / Creek Crossing',45.438114,-75.526711
+6333,'6333','Orleans / Crk Xing',45.438114,-75.526711
 6334,'6334','Orléans / Valleywood Pathway',45.439461,-75.527405
 6335,'6335','Orléans / Silverbirch',45.441441,-75.528557
 6336,'6336','Orléans / Longleaf',45.44194,-75.52919
 6337,'6337','Orléans / Oakbrook',45.440247,-75.528046
 6338,'6338','Orléans / Valleywood',45.438972,-75.527298
-6339,'6339','Creek Crossing / Orléans',45.437595,-75.52636
-6340,'6340','Creek Crossing / Pagé',45.438297,-75.52282
-6341,'6341','Creek Crossing / Rolling Brook',45.438255,-75.523529
+6339,'6339','Crk Xing / Orléans',45.437595,-75.52636
+6340,'6340','Crk Xing / Pagé',45.438297,-75.52282
+6341,'6341','Crk Xing / Rolling Brk',45.438255,-75.523529
 6342,'6342','Jeanne-D''arc N / Rossignol',45.490162,-75.503761
 6343,'6343','Jeanne-D''arc N / Pathway',45.490524,-75.501015
 6344,'6344','Jeanne-D''arc N / Rossignol',45.490768,-75.499054
@@ -3656,17 +3656,17 @@
 6361,'6361','Tenth Line / Tompkins',45.476768,-75.497292
 6362,'6362','Tenth Line / Amiens',45.473709,-75.495476
 6363,'6363','Tenth Line / Ad. 1675',45.470127,-75.49334
-6369,'6369','West Ridge / Renshaw',45.260361,-75.939178
-6370,'6370','West Ridge / Hazeldean',45.264229,-75.944221
-6374,'6374','West Ridge / Beverly',45.257183,-75.935486
-6375,'6375','West Ridge / Stonepath',45.26046,-75.939484
-6376,'6376','West Ridge / Delamere',45.261883,-75.941185
+6369,'6369','West Rdg / Renshaw',45.260361,-75.939178
+6370,'6370','West Rdg / Hazeldean',45.264229,-75.944221
+6374,'6374','West Rdg / Beverly',45.257183,-75.935486
+6375,'6375','West Rdg / Stonepath',45.26046,-75.939484
+6376,'6376','West Rdg / Delamere',45.261883,-75.941185
 6377,'6377','Stittsville Main / Wildpine',45.26458,-75.927948
 6379,'6379','Terry Fox / Katimavik',45.301311,-75.906387
-6380,'6380','Terry Fox / Maple Grove',45.298893,-75.903374
+6380,'6380','Terry Fox / Maple Grv',45.298893,-75.903374
 6381,'6381','Terry Fox / Edgewater',45.296745,-75.900673
 6382,'6382','Terry Fox / Edgewater',45.296474,-75.900581
-6383,'6383','Terry Fox / Maple Grove',45.298721,-75.903503
+6383,'6383','Terry Fox / Maple Grv',45.298721,-75.903503
 6384,'6384','Hazeldean / Castlefrank',45.297592,-75.889397
 6385,'6385','Terry Fox / Palladium',45.301311,-75.906769
 6386,'6386','Campeau / Gray',45.318836,-75.897133
@@ -3689,7 +3689,7 @@
 6410,'6410','Carling / Sherbourne',45.37571,-75.758217
 6411,'6411','Carling / Mckellar',45.374718,-75.760574
 6413,'6413','Carling / Bayshore',45.353539,-75.809021
-6414,'6414','Carling / Andrew Haydon Park',45.351395,-75.813141
+6414,'6414','Carling / Andrew Haydon Pk',45.351395,-75.813141
 6415,'6415','Carling / Bayshore',45.353268,-75.808769
 6416,'6416','Richmond / Lovitt',45.352161,-75.799744
 6417,'6417','Richmond / Grenon',45.353683,-75.798347
@@ -3714,7 +3714,7 @@
 6455,'6455','Richmond / Bayshore',45.348923,-75.80262
 6457,'6457','Longfields / Beatrice',45.288464,-75.734169
 6459,'6459','Richmond / Bayshore',45.348671,-75.803162
-6461,'6461','Moodie / Highway 417',45.340595,-75.841652
+6461,'6461','Moodie / Hwy 417',45.340595,-75.841652
 6463,'6463','Carling / Vick',45.358532,-75.796959
 6464,'6464','Bank / Ohio',45.38522,-75.673073
 6465,'6465','Richmond / Marielle',45.355419,-75.796669
@@ -3726,7 +3726,7 @@
 6473,'6473','Tenth Line / Des Épinettes',45.467133,-75.491554
 6475,'6475','Tenth Line / Innes',45.461861,-75.488312
 6477,'6477','Moodie / Robertson',45.323715,-75.834412
-6478,'6478','Highway 417 / Moodie',45.340477,-75.841606
+6478,'6478','Hwy 417 / Moodie',45.340477,-75.841606
 6480,'6480','Hwy 417/Moodie (Press Button)',45.336288,-75.841087
 6481,'6481','Carling / Woodroffe',45.370098,-75.771225
 6484,'6484','Fairlawn / Carling',45.369759,-75.770462
@@ -3741,18 +3741,18 @@
 6499,'6499','Meadowlands / Valmarie',45.363636,-75.709038
 6500,'6500','Carling / Herzberg',45.33918,-75.896927
 6501,'6501','Stonehaven / Pathway',45.280739,-75.842476
-6510,'6510','Central Park / Celebration',45.370094,-75.733635
-6511,'6511','Central Park Dr / Bloomingdale',45.369492,-75.735039
-6512,'6512','Central Park / Whitestone',45.36871,-75.736794
-6513,'6513','Central Park / Staten',45.367603,-75.737846
-6514,'6514','Central Park / Scout',45.366585,-75.735291
-6515,'6515','Central Park / Manhattan',45.367275,-75.733162
-6516,'6516','Central Park / Manhattan',45.367233,-75.733688
-6517,'6517','Central Park / Scout',45.366642,-75.735512
-6518,'6518','Central Park / Staten',45.367405,-75.737679
-6519,'6519','Central Park / Whitestone',45.368717,-75.736557
-6520,'6520','Central Park / Crystal Park',45.369373,-75.735115
-6521,'6521','Central Park / Crystal Park',45.370056,-75.733292
+6510,'6510','Central Pk / Celebration',45.370094,-75.733635
+6511,'6511','Central Pk Dr / Bloomingdale',45.369492,-75.735039
+6512,'6512','Central Pk / Whitestone',45.36871,-75.736794
+6513,'6513','Central Pk / Staten',45.367603,-75.737846
+6514,'6514','Central Pk / Scout',45.366585,-75.735291
+6515,'6515','Central Pk / Manhattan',45.367275,-75.733162
+6516,'6516','Central Pk / Manhattan',45.367233,-75.733688
+6517,'6517','Central Pk / Scout',45.366642,-75.735512
+6518,'6518','Central Pk / Staten',45.367405,-75.737679
+6519,'6519','Central Pk / Whitestone',45.368717,-75.736557
+6520,'6520','Central Pk / Crystal Pk',45.369373,-75.735115
+6521,'6521','Central Pk / Crystal Pk',45.370056,-75.733292
 6530,'6530','Eddy / Laurier',45.423595,-75.719574
 6531,'6531','Maisonneuve / Papineau',45.429787,-75.713455
 6532,'6532','Maisonneuve / Allumettières',45.431854,-75.713081
@@ -3772,13 +3772,13 @@
 6549,'6549','Trailway / Hedge Row',45.266415,-75.917259
 6550,'6550','Trailway / Springwood',45.264973,-75.914993
 6551,'6551','Springbrook / Trailway',45.269848,-75.916077
-6552,'6552','Springbrook / Bay Hill',45.271118,-75.918205
+6552,'6552','Springbrook / Bay Hl',45.271118,-75.918205
 6553,'6553','Springbrook / Pebble Beach',45.272362,-75.922615
 6554,'6554','Springbrook / Spyglass',45.272545,-75.923225
 6555,'6555','Trailway / Shady Branch',45.267044,-75.913353
 6556,'6556','Springbrook / Old Orchard',45.273769,-75.924454
 6557,'6557','Springbrook / Old Orchard',45.272133,-75.919739
-6558,'6558','Springbrook / Bay Hill',45.271019,-75.918327
+6558,'6558','Springbrook / Bay Hl',45.271019,-75.918327
 6560,'6560','Springbrook / Hazeldean',45.273914,-75.925262
 6570,'6570','Kimini / Fallowfield',45.226131,-75.892235
 6571,'6571','Longfields / Woodroffe',45.290497,-75.729401
@@ -3850,20 +3850,20 @@
 6666,'6666','Somerset W / Booth',45.409737,-75.710434
 6668,'6668','Somerset W / Lebreton',45.410175,-75.708794
 6670,'6670','Glebe / Percy',45.402279,-75.696335
-6671,'6671','Highway 417 / Woodroffe',45.362144,-75.76857
+6671,'6671','Hwy 417 / Woodroffe',45.362144,-75.76857
 6673,'6673','Glebe / Lyon',45.403568,-75.693176
-6675,'6675','Third / Bronson',45.399025,-75.698418
+6675,'6675','3rd / Bronson',45.399025,-75.698418
 6677,'6677','Chamberlain / Bank',45.408356,-75.691597
-6678,'6678','Bronson / Fifth',45.397461,-75.697533
+6678,'6678','Bronson / 5th',45.397461,-75.697533
 6679,'6679','Bronson / Holmwood',45.395863,-75.696655
 6680,'6680','Bronson / Colonel By',45.393185,-75.695839
 6681,'6681','Bronson / Madawaska',45.397629,-75.697899
 6682,'6682','Bronson / Colonel By',45.393421,-75.696129
 6683,'6683','Sunnyside / Seneca',45.391373,-75.690147
 6684,'6684','Sunnyside / Carraway',45.390461,-75.692352
-6685,'6685','Grove / Leonard',45.390297,-75.686836
-6686,'6686','Grove / Grosvenor',45.391216,-75.684578
-6687,'6687','Grove / Bank',45.392223,-75.682159
+6685,'6685','Grv / Leonard',45.390297,-75.686836
+6686,'6686','Grv / Grosvenor',45.391216,-75.684578
+6687,'6687','Grv / Bank',45.392223,-75.682159
 6689,'6689','Sunnyside / Bronson',45.390251,-75.693329
 6690,'6690','St Laurent / Queen E School',45.438194,-75.64502
 6691,'6691','St Laurent / Guy',45.433895,-75.642601
@@ -3896,16 +3896,16 @@
 6724,'6724','Fisher / Malibu',45.368988,-75.714973
 6725,'6725','Fisher / Baseline',45.370846,-75.715942
 6726,'6726','Fisher / Baseline',45.37085,-75.716301
-6727,'6727','Bridgestone / Bridle Park',45.284172,-75.856018
-6728,'6728','Fisher / Forest Park',45.363548,-75.71209
+6727,'6727','Bridgestone / Bridle Pk',45.284172,-75.856018
+6728,'6728','Fisher / Forest Pk',45.363548,-75.71209
 6729,'6729','Meadowlands / Ness',45.361511,-75.714195
-6730,'6730','Meadowlands / Deer Park',45.360954,-75.719376
-6731,'6731','Meadowlands / Deer Park',45.360649,-75.719772
+6730,'6730','Meadowlands / Deer Pk',45.360954,-75.719376
+6731,'6731','Meadowlands / Deer Pk',45.360649,-75.719772
 6732,'6732','Meadowlands / Ness',45.361282,-75.714622
 6733,'6733','Fisher / Normandy',45.356476,-75.708076
 6735,'6735','Eagleson / Kakulu',45.31015,-75.880035
-6737,'6737','Seneca / Glen',45.390457,-75.68924
-6738,'6738','Grove / Seneca',45.389774,-75.688148
+6737,'6737','Seneca / Gln',45.390457,-75.68924
+6738,'6738','Grv / Seneca',45.389774,-75.688148
 6739,'6739','Grassy Plains / Farmfield',45.277889,-75.848228
 6740,'6740','Bank / Cameron',45.391163,-75.680748
 6741,'6741','Bank / Riverdale',45.389896,-75.678673
@@ -3920,7 +3920,7 @@
 6753,'6753','Heron / Heron Bridge',45.375336,-75.702934
 6757,'6757','Prince Of Wales / Heron',45.376629,-75.706505
 6758,'6758','Prince Of Wales / Fairchild',45.379341,-75.704323
-6759,'6759','Prince Of Wales / Green Valley',45.376991,-75.706512
+6759,'6759','Prince Of Wales / Grn Vly',45.376991,-75.706512
 6760,'6760','Fisher / Baseline',45.372627,-75.717003
 6761,'6761','Fisher / Baseline',45.371998,-75.717018
 6762,'6762','Baseline / Prince Of Wales',45.375286,-75.707123
@@ -3951,12 +3951,12 @@
 6798,'6798','Main / Clegg',45.406616,-75.676407
 6799,'6799','Main / Lees',45.411957,-75.679543
 6800,'6800','Lees / Concord',45.413364,-75.676147
-6801,'6801','Lees / Highway 417 Ramp',45.4151,-75.672119
+6801,'6801','Lees / Hwy 417 Ramp',45.4151,-75.672119
 6803,'6803','Lees / Chapel',45.418465,-75.669838
 6804,'6804','Chapel / Wiggins',45.419964,-75.671638
 6805,'6805','Chapel / Wiggins',45.419659,-75.671745
 6806,'6806','Lees / Chapel',45.41827,-75.669968
-6807,'6807','Lees / Highway 417 Ramp',45.415295,-75.672104
+6807,'6807','Lees / Hwy 417 Ramp',45.415295,-75.672104
 6808,'6808','Lees / Concord',45.413517,-75.676361
 6809,'6809','Main / Evelyn',45.411129,-75.679382
 6811,'6811','Main / Herridge',45.407539,-75.677292
@@ -3980,12 +3980,12 @@
 6837,'6837','Dalhousie / Clarence',45.429462,-75.691505
 6838,'6838','Dalhousie / York',45.42894,-75.691246
 6840,'6840','Bank / Holmwood',45.400032,-75.686531
-6841,'6841','Bank / Third',45.40321,-75.688416
-6842,'6842','Bank / First',45.404713,-75.68924
+6841,'6841','Bank / 3rd',45.40321,-75.688416
+6842,'6842','Bank / 1st',45.404713,-75.68924
 6843,'6843','Glebe / Bank',45.405285,-75.689178
 6844,'6844','Bank / Isabella',45.408405,-75.691368
 6845,'6845','Bank / Chamberlain',45.40802,-75.691338
-6847,'6847','Bank / Fifth',45.401424,-75.687584
+6847,'6847','Bank / 5th',45.401424,-75.687584
 6849,'6849','Orchardview / Gardenway',45.467014,-75.477966
 6850,'6850','Chamberlain / Kent',45.407433,-75.693451
 6851,'6851','Orchardview / Northampton',45.469059,-75.479233
@@ -3993,10 +3993,10 @@
 6853,'6853','O''connor / Patterson',45.408371,-75.687477
 6854,'6854','Pretoria / Elgin',45.410549,-75.685242
 6856,'6856','Glebe / Bronson',45.401054,-75.69915
-6857,'6857','Third / Lyon',45.401928,-75.691269
-6858,'6858','Third / Chrysler',45.399986,-75.69603
+6857,'6857','3rd / Lyon',45.401928,-75.691269
+6858,'6858','3rd / Chrysler',45.399986,-75.69603
 6859,'6859','Sussex / Rideau Falls',45.439571,-75.695694
-6860,'6860','Bronson / Third',45.399242,-75.698578
+6860,'6860','Bronson / 3rd',45.399242,-75.698578
 6862,'6862','Bronson / Glebe',45.400879,-75.699432
 6863,'6863','Gardenway / Portobello',45.470848,-75.469994
 6864,'6864','Bronson / Kippewa',45.398422,-75.69828
@@ -4022,16 +4022,16 @@
 6899,'6899','Walkley / Lancaster',45.394131,-75.603973
 6900,'6900','Canada Post / Heron',45.375675,-75.688263
 6901,'6901','Canada Post / Brookfield',45.373848,-75.688477
-6902,'6902','Findlay Creek / Bradwell',45.31525,-75.60537
-6903,'6903','Findlay Creek / Bradwell',45.315548,-75.604256
-6904,'6904','Findlay Creek / White Alder',45.313927,-75.608963
-6905,'6905','Findlay Creek / White Alder',45.314316,-75.607834
+6902,'6902','Findlay Crk / Bradwell',45.31525,-75.60537
+6903,'6903','Findlay Crk / Bradwell',45.315548,-75.604256
+6904,'6904','Findlay Crk / White Alder',45.313927,-75.608963
+6905,'6905','Findlay Crk / White Alder',45.314316,-75.607834
 6906,'6906','Russell / Walkley',45.39259,-75.60701
 6907,'6907','Russell / Walkley',45.392563,-75.607254
 6908,'6908','Hwy 417 / Greenbank',45.347744,-75.789864
 6909,'6909','Legget / Solandt',45.344604,-75.915268
-6915,'6915','Pleasant Park / Arch',45.394226,-75.631721
-6918,'6918','Pleasant Park / Saunderson',45.394527,-75.627441
+6915,'6915','Pleasant Pk / Arch',45.394226,-75.631721
+6918,'6918','Pleasant Pk / Saunderson',45.394527,-75.627441
 6919,'6919','Brian Coburn / Nantes',45.455647,-75.460693
 6920,'6920','Brian Coburn / Nantes',45.455734,-75.459732
 6921,'6921','Brian Coburn / Provence',45.456707,-75.456551
@@ -4052,23 +4052,23 @@
 6937,'6937','Merivale / Kimway',45.3606,-75.735153
 6938,'6938','Carbrooke / Desmond',45.301071,-75.878563
 6939,'6939','Jeanne D''arc / Innes',45.455967,-75.505035
-6940,'6940','Queensdale / Sixth',45.348881,-75.622025
+6940,'6940','Queensdale / 6th',45.348881,-75.622025
 6941,'6941','Abbeyhill / A.Y. Jackson H.S.',45.295311,-75.881226
-6943,'6943','Orleans / Sugar Creek',45.475582,-75.535019
-6945,'6945','Market Place / Riocan',45.270554,-75.741402
-6946,'6946','Market Place / Riocan',45.270542,-75.741066
+6943,'6943','Orleans / Sugar Crk',45.475582,-75.535019
+6945,'6945','Mkt Pl / Riocan',45.270554,-75.741402
+6946,'6946','Mkt Pl / Riocan',45.270542,-75.741066
 6947,'6947','Limebank / Spratt',45.289513,-75.671921
 6949,'6949','Klondike / Halton',45.350208,-75.940201
 6950,'6950','Bellman / Greenbank',45.326782,-75.780426
 6951,'6951','Knoxdale / Aurora',45.329693,-75.763115
-6952,'6952','Marconi / Shrley''s Brook',45.356304,-75.922821
+6952,'6952','Marconi / Shrley''s Brk',45.356304,-75.922821
 6953,'6953','Klondike / March',45.355461,-75.932121
-6954,'6954','Conroy / Park',45.345634,-75.608269
-6955,'6955','Conroy / Park',45.344738,-75.607529
+6954,'6954','Conroy / Pk',45.345634,-75.608269
+6955,'6955','Conroy / Pk',45.344738,-75.607529
 6956,'6956','Conroy / Lynch',45.340408,-75.605263
 6957,'6957','Conroy / Lynch',45.339584,-75.604576
 6958,'6958','Carbrooke / Abbeyhill',45.299896,-75.877708
-6959,'6959','Shirley''s Brook / Kinross',45.354,-75.92234
+6959,'6959','Shirley''s Brk / Kinross',45.354,-75.92234
 6960,'6960','Fortune / Orléans',45.475803,-75.535912
 6961,'6961','Brian Coburn / Portobello',45.454727,-75.464417
 6962,'6962','Fitzgerald / Robertson',45.32095,-75.836891
@@ -4097,12 +4097,12 @@
 6987,'6987','8th Line / Byron',45.233822,-75.471825
 6988,'6988','Victoria / Dow',45.235256,-75.474373
 6989,'6989','Victoria / Bowen',45.235104,-75.474335
-6990,'6990','Victoria / Glen',45.233936,-75.477631
-6991,'6991','Victoria / Glen',45.23381,-75.477531
+6990,'6990','Victoria / Gln',45.233936,-75.477631
+6991,'6991','Victoria / Gln',45.23381,-75.477531
 6992,'6992','Victoria / Brentwood',45.23214,-75.482018
 6993,'6993','Victoria / Brentwood',45.232014,-75.481918
-6994,'6994','Manotick Station / Elkwood',45.235477,-75.611572
-6995,'6995','Manotick Station / Elkwood',45.234974,-75.611481
+6994,'6994','Manotick Sta / Elkwood',45.235477,-75.611572
+6995,'6995','Manotick Sta / Elkwood',45.234974,-75.611481
 6996,'6996','Parkway / Sunny',45.250488,-75.588501
 6997,'6997','Parkway / Trebla',45.250923,-75.587845
 6998,'6998','Parkway / Good',45.260483,-75.565773
@@ -4130,8 +4130,8 @@
 7021,'7021','Springfield / Putman',45.441841,-75.676804
 7022,'7022','Springfield / Rideau',45.443668,-75.677185
 7023,'7023','Springfield / Lindenlea',45.444904,-75.677437
-7024,'7024','Maple Lane / Elmdale',45.446541,-75.674881
-7025,'7025','Maple Lane / Acacia',45.446701,-75.673134
+7024,'7024','Maple Ln / Elmdale',45.446541,-75.674881
+7025,'7025','Maple Ln / Acacia',45.446701,-75.673134
 7026,'7026','Acacia / Rideau',45.444561,-75.672432
 7029,'7029','Marier / Genest',45.441189,-75.66906
 7034,'7034','Des Pères Blancs / Marquette',45.440853,-75.664574
@@ -4157,8 +4157,8 @@
 7068,'7068','Mcarthur / May',45.432465,-75.644966
 7069,'7069','Mcarthur / St Laurent',45.432602,-75.643188
 7070,'7070','Mcarthur / St Laurent',45.432461,-75.643486
-7071,'7071','Pleasant Park / Saunderson',45.394711,-75.62677
-7072,'7072','Cheo Hospital',45.399727,-75.651184
+7071,'7071','Pleasant Pk / Saunderson',45.394711,-75.62677
+7072,'7072','Cheo Hosp',45.399727,-75.651184
 7073,'7073','Industrial Garage / Belfast',45.412876,-75.638763
 7074,'7074','Industrial Garage / Belfast',45.412872,-75.638649
 7075,'7075','Keyrock / Nettleship',45.325283,-75.931038
@@ -4192,9 +4192,9 @@
 7114,'7114','Lola / Queen Mary',45.42503,-75.652267
 7115,'7115','Lola / Presland',45.423378,-75.651566
 7116,'7116','Lola / Coventry',45.421986,-75.650696
-7124,'7124','Tremblay / Avenue R',45.419033,-75.642181
-7126,'7126','Tremblay / Avenue R',45.418877,-75.64254
-7127,'7127','Tremblay / Avenue U',45.419128,-75.639122
+7124,'7124','Tremblay / Ave R',45.419033,-75.642181
+7126,'7126','Tremblay / Ave R',45.418877,-75.64254
+7127,'7127','Tremblay / Ave U',45.419128,-75.639122
 7128,'7128','Tremblay / Ad. 530',45.418957,-75.636353
 7129,'7129','Tremblay / Ad. 529',45.419106,-75.636261
 7137,'7137','831 Industrial',45.408077,-75.633209
@@ -4209,7 +4209,7 @@
 7152,'7152','Russell / Haig',45.403381,-75.631966
 7153,'7153','Russell / Cuba',45.402176,-75.628647
 7154,'7154','Russell / Ad. 1909',45.40173,-75.626419
-7155,'7155','Russell / Perley Hospital',45.404446,-75.633263
+7155,'7155','Russell / Perley Hosp',45.404446,-75.633263
 7156,'7156','Russell / Cuba',45.402153,-75.629005
 7157,'7157','Russell / Ad. 1909',45.401577,-75.626526
 7158,'7158','Industrial / Russell',45.408829,-75.634811
@@ -4222,10 +4222,10 @@
 7169,'7169','Alta Vista / Smyth',45.399212,-75.661919
 7170,'7170','Alta Vista / Smyth',45.399715,-75.661819
 7171,'7171','Smyth / Riverside',45.398937,-75.666954
-7173,'7173','Pleasant Park / Alta Vista',45.393009,-75.662788
+7173,'7173','Pleasant Pk / Alta Vista',45.393009,-75.662788
 7174,'7174','Alta Vista / Crestview',45.396343,-75.662178
 7175,'7175','Alta Vista / Billings',45.394539,-75.662674
-7176,'7176','Alta Vista / Pleasant Park',45.393162,-75.662682
+7176,'7176','Alta Vista / Pleasant Pk',45.393162,-75.662682
 7177,'7177','Alta Vista / Cunningham',45.388668,-75.663086
 7178,'7178','Alta Vista / Cunningham',45.389275,-75.662727
 7179,'7179','Alta Vista / Randall',45.382874,-75.662209
@@ -4235,8 +4235,8 @@
 7188,'7188','Kilborn / Lilac',45.386471,-75.665443
 7189,'7189','Kilborn / Lilac',45.386345,-75.665298
 7190,'7190','Kilborn / Utah',45.386024,-75.669662
-7191,'7191','Kilborn / Rooney''s Lane',45.384541,-75.670883
-7192,'7192','Kilborn / Rooney''s Lane',45.385124,-75.670883
+7191,'7191','Kilborn / Rooney''s Ln',45.384541,-75.670883
+7192,'7192','Kilborn / Rooney''s Ln',45.385124,-75.670883
 7193,'7193','Walkley / Ayers',45.37167,-75.659813
 7194,'7194','Walkley / Hampstead',45.372379,-75.658073
 7195,'7195','Walkley / Hampstead',45.371967,-75.659637
@@ -4273,10 +4273,10 @@
 7228,'7228','Kilborn / Delmar',45.388153,-75.639954
 7229,'7229','Kilborn / Delmar',45.388298,-75.64032
 7230,'7230','Kilborn / Featherston',45.388386,-75.638405
-7231,'7231','Ring Road / Ronald Mcdonald House',45.402058,-75.653435
-7232,'7232','Ring Road',45.403721,-75.648621
-7233,'7233','Ring Road / Cancer Centre',45.402103,-75.645203
-7234,'7234','Ring Road / General Hospital',45.399998,-75.647255
+7231,'7231','Ring Rd / Ronald Mcdonald House',45.402058,-75.653435
+7232,'7232','Ring Rd',45.403721,-75.648621
+7233,'7233','Ring Rd / Cancer Ctr',45.402103,-75.645203
+7234,'7234','Ring Rd / General Hosp',45.399998,-75.647255
 7235,'7235','Smyth / Valour',45.398739,-75.658501
 7236,'7236','Smyth / Barnhart',45.398914,-75.655357
 7237,'7237','Smyth / Barnhart',45.39883,-75.654976
@@ -4288,15 +4288,15 @@
 7245,'7245','Smyth / Haig',45.40041,-75.635101
 7246,'7246','Smyth / Saunderson',45.400467,-75.631126
 7247,'7247','Smyth / Othello',45.400833,-75.626015
-7248,'7248','Pleasant Park / Ad. 327',45.393391,-75.659256
-7249,'7249','Pleasant Park / Fairbanks',45.39349,-75.655525
-7250,'7250','Pleasant Park / Ad. 452',45.393692,-75.652893
-7251,'7251','Pleasant Park / Fairbanks',45.39357,-75.656586
-7252,'7252','Pleasant Park / Ad. 501',45.393963,-75.650322
-7253,'7253','Pleasant Park / Lynda',45.394188,-75.648094
-7254,'7254','Pleasant Park / Norway',45.394382,-75.645119
-7255,'7255','Pleasant Park / Lynda',45.394085,-75.647408
-7256,'7256','Pleasant Park / Norway',45.39423,-75.645119
+7248,'7248','Pleasant Pk / Ad. 327',45.393391,-75.659256
+7249,'7249','Pleasant Pk / Fairbanks',45.39349,-75.655525
+7250,'7250','Pleasant Pk / Ad. 452',45.393692,-75.652893
+7251,'7251','Pleasant Pk / Fairbanks',45.39357,-75.656586
+7252,'7252','Pleasant Pk / Ad. 501',45.393963,-75.650322
+7253,'7253','Pleasant Pk / Lynda',45.394188,-75.648094
+7254,'7254','Pleasant Pk / Norway',45.394382,-75.645119
+7255,'7255','Pleasant Pk / Lynda',45.394085,-75.647408
+7256,'7256','Pleasant Pk / Norway',45.39423,-75.645119
 7258,'7258','Keyrock / Brunskill',45.32069,-75.933708
 7259,'7259','Keyrock / Torbec',45.319588,-75.93103
 7260,'7260','Keyrock / Brunskill',45.320274,-75.930168
@@ -4304,8 +4304,8 @@
 7264,'7264','Marier / Genest',45.441048,-75.669083
 7265,'7265','Viewmount / Grant Carman',45.344887,-75.726677
 7267,'7267','Lola / King George',45.425503,-75.652504
-7268,'7268','Pleasant Park / Haig',45.39386,-75.636749
-7269,'7269','Pleasant Park / Camrose',45.394283,-75.633141
+7268,'7268','Pleasant Pk / Haig',45.39386,-75.636749
+7269,'7269','Pleasant Pk / Camrose',45.394283,-75.633141
 7275,'7275','Canterbury / Ad. 860',45.389114,-75.629013
 7276,'7276','Canterbury / Ad. 860',45.389221,-75.629158
 7277,'7277','Canterbury / Harding',45.38903,-75.632034
@@ -4333,10 +4333,10 @@
 7299,'7299','Southvale / Erinbrook',45.399063,-75.614723
 7300,'7300','Southvale / Ad. 2450',45.399158,-75.616463
 7301,'7301','Southvale / Russell',45.39875,-75.618217
-7312,'7312','Old Innes / Innes Park',45.410725,-75.616661
+7312,'7312','Old Innes / Innes Pk',45.410725,-75.616661
 7313,'7313','Sheffield / Ad. 2464',45.409119,-75.609161
 7314,'7314','Sheffield / Bantree',45.406982,-75.60791
-7318,'7318','Old Innes / Innes Park',45.410843,-75.616852
+7318,'7318','Old Innes / Innes Pk',45.410843,-75.616852
 7319,'7319','Sheffield / Ad. 2473',45.409603,-75.609245
 7320,'7320','Sheffield / Bantree',45.407318,-75.607887
 7324,'7324','Sheffield / Ad. 2750',45.40004,-75.603676
@@ -4371,12 +4371,12 @@
 7365,'7365','Carling / Melrose',45.392727,-75.719101
 7367,'7367','Carling / Sherwood',45.395428,-75.712883
 7368,'7368','Carling / Sherwood',45.395432,-75.712013
-7369,'7369','Carling / O-Train Station',45.396557,-75.70945
+7369,'7369','Carling / O-Train Sta',45.396557,-75.70945
 7370,'7370','Scott / Sir Frederick Banting',45.40184,-75.739037
 7371,'7371','Scott / Northwestern',45.401009,-75.741074
 7372,'7372','Scott / Ross',45.401535,-75.739281
 7373,'7373','Scott / Western',45.400684,-75.741257
-7374,'7374','Scott / Island Park',45.398712,-75.746407
+7374,'7374','Scott / Island Pk',45.398712,-75.746407
 7375,'7375','Scott / Clifton',45.397545,-75.749229
 7376,'7376','Scott / Clifton',45.397038,-75.749916
 7377,'7377','Mcrae / Richmond',45.39452,-75.749161
@@ -4388,9 +4388,9 @@
 7384,'7384','Lanark / Beechgrove',45.397892,-75.754211
 7385,'7385','Lanark / Champlain',45.39864,-75.752785
 7386,'7386','Ellendale / Clearview',45.399551,-75.750969
-7387,'7387','Clearview / Island Park',45.401505,-75.749458
+7387,'7387','Clearview / Island Pk',45.401505,-75.749458
 7388,'7388','Clearview / Patricia',45.402775,-75.748497
-7389,'7389','Clearview / Island Park',45.401928,-75.749649
+7389,'7389','Clearview / Island Pk',45.401928,-75.749649
 7390,'7390','Clearview / Patricia',45.402805,-75.748802
 7391,'7391','Clearview / Carleton',45.403969,-75.744995
 7392,'7392','Northwestern / Premier',45.401588,-75.741745
@@ -4401,7 +4401,7 @@
 7397,'7397','Wellington / Clarendon',45.398491,-75.737099
 7398,'7398','Wellington / Granville',45.398106,-75.739067
 7399,'7399','Wellington / Mayfair',45.397785,-75.740547
-7400,'7400','Richmond / Island Park',45.397202,-75.742546
+7400,'7400','Richmond / Island Pk',45.397202,-75.742546
 7401,'7401','Richmond / Hilson',45.395935,-75.745407
 7402,'7402','Richmond / Hilson',45.395844,-75.745117
 7404,'7404','Lola / Donald',45.427662,-75.652817
@@ -4426,7 +4426,7 @@
 7435,'7435','Merivale / Leaside',45.382874,-75.732712
 7436,'7436','Merivale / Woodward',45.380997,-75.733002
 7437,'7437','Merivale / Kirkwood',45.377037,-75.733131
-7438,'7438','Merivale / Central Park',45.370003,-75.732155
+7438,'7438','Merivale / Central Pk',45.370003,-75.732155
 7439,'7439','Kirkwood / Woodward',45.379471,-75.736412
 7441,'7441','Kirkwood / Carling S.',45.382946,-75.73912
 7443,'7443','Laperrière / Coldrey',45.379097,-75.739861
@@ -4560,7 +4560,7 @@
 7625,'7625','Lees / Main',45.412239,-75.679001
 7628,'7628','Pretoria / Metcalfe',45.409992,-75.686623
 7629,'7629','Pretoria / O''connor',45.409355,-75.688187
-7630,'7630','O''connor / First',45.404686,-75.684692
+7630,'7630','O''connor / 1st',45.404686,-75.684692
 7631,'7631','O''connor / Linden',45.40696,-75.686348
 7632,'7632','Strathcona / Metcalfe',45.409195,-75.686058
 7633,'7633','Hawthorne / Colonel By',45.411926,-75.682594
@@ -4577,14 +4577,14 @@
 7645,'7645','Riverdale / Southern',45.397358,-75.679024
 7646,'7646','Riverdale / Sunnyside',45.396233,-75.679138
 7647,'7647','Riverdale / Belmont',45.393524,-75.679115
-7648,'7648','Riverdale / Avenue',45.398937,-75.678146
+7648,'7648','Riverdale / Ave',45.398937,-75.678146
 7649,'7649','Riverdale / Sunnyside',45.395882,-75.67897
 7650,'7650','Riverdale / Windsor',45.392551,-75.678917
 7653,'7653','Bank / Cameron',45.391304,-75.680519
-7654,'7654','Bank / Grove',45.392406,-75.682236
+7654,'7654','Bank / Grv',45.392406,-75.682236
 7655,'7655','Bank / Sunnyside',45.394508,-75.683403
-7659,'7659','Bank / Fifth',45.401936,-75.687668
-7660,'7660','Bank / Third',45.403149,-75.68856
+7659,'7659','Bank / 5th',45.401936,-75.687668
+7660,'7660','Bank / 3rd',45.403149,-75.68856
 7662,'7662','Bank / Glebe',45.405201,-75.689781
 7663,'7663','Bank / Powell',45.406349,-75.690376
 7664,'7664','Bank / Patterson',45.40715,-75.690582
@@ -4621,22 +4621,22 @@
 7715,'7715','Meadowglen / Windflower',45.446384,-75.536575
 7717,'7717','Meadowglen / Willowbark',45.447441,-75.542458
 7718,'7718','Meadowglen / Meadowfield',45.449646,-75.543213
-7719,'7719','Meadowglen / Forest Valley',45.452477,-75.540733
+7719,'7719','Meadowglen / Forest Vly',45.452477,-75.540733
 7720,'7720','Forestvalley / Rivermill',45.457588,-75.541809
-7721,'7721','Forest Valley / Ad. 1401',45.458477,-75.545898
+7721,'7721','Forest Vly / Ad. 1401',45.458477,-75.545898
 7722,'7722','Youville / Ad. 1420',45.46386,-75.550285
 7723,'7723','Youville / Voyageur',45.464973,-75.548866
 7724,'7724','Youville / Jeanne D''arc',45.46566,-75.543076
 7725,'7725','Youville / Ad. 1490',45.465107,-75.54895
 7726,'7726','Youville / Ad. 1420',45.463734,-75.550438
 7728,'7728','Forestvalley / Forestglen',45.457184,-75.541969
-7729,'7729','Forest Valley / Ridgelea',45.45459,-75.54187
+7729,'7729','Forest Vly / Ridgelea',45.45459,-75.54187
 7730,'7730','Meadowglen / Meadowhill',45.450512,-75.543434
 7731,'7731','Meadowglen / Willowbark',45.447716,-75.542809
 7732,'7732','Meadowglen / Du Clairvaux',45.445438,-75.53952
 7733,'7733','Meadowglen / Windflower',45.446575,-75.535591
 7735,'7735','Innes / Pagé',45.446922,-75.526497
-7736,'7736','Orléans / Oak Meadows',45.451782,-75.534248
+7736,'7736','Orléans / Oak Mdws',45.451782,-75.534248
 7737,'7737','Orléans / Boyer',45.454659,-75.527466
 7738,'7738','Orléans / Gloucester Library',45.456566,-75.524414
 7739,'7739','Orléans / Beauséjour',45.459064,-75.524918
@@ -4647,8 +4647,8 @@
 7744,'7744','Orléans / Jeanne D''arc',45.461414,-75.52623
 7745,'7745','Orléans / Beausejour',45.458542,-75.524956
 7746,'7746','Orléans / Gloucester Library',45.456635,-75.524681
-7748,'7748','Orléans / Oak Meadows',45.451786,-75.534531
-7749,'7749','Orléans / Forest Valley',45.449642,-75.535423
+7748,'7748','Orléans / Oak Mdws',45.451786,-75.534531
+7749,'7749','Orléans / Forest Vly',45.449642,-75.535423
 7750,'7750','Meadowglen / Sablewood',45.447971,-75.531525
 7751,'7751','Meadowglen / Thorncrest',45.449364,-75.528053
 7752,'7752','Meadowglen / Robinwood',45.451038,-75.526115
@@ -4695,8 +4695,8 @@
 7796,'7796','Orléans / St Joseph',45.469238,-75.53093
 7797,'7797','Orléans / Lumberman',45.470917,-75.532295
 7798,'7798','St Joseph / St Jean',45.470314,-75.526207
-7799,'7799','Place D''orléans / St Joseph',45.475239,-75.51796
-7800,'7800','Place D''orléans / Rocque',45.476837,-75.519638
+7799,'7799','Pl D''orléans / St Joseph',45.475239,-75.51796
+7800,'7800','Pl D''orléans / Rocque',45.476837,-75.519638
 7801,'7801','St Joseph / St Jean',45.470753,-75.525764
 7802,'7802','St Joseph / Dussere',45.469913,-75.527618
 7803,'7803','St Joseph / Cousineau',45.469242,-75.52903
@@ -4713,7 +4713,7 @@
 7826,'7826','Du Grand Bois / Ad. 246',45.46003,-75.497986
 7829,'7829','Innes / Wildflower',45.456608,-75.501129
 7830,'7830','Du Grand Bois / Ad. 245',45.459892,-75.497833
-7831,'7831','Du Grand Bois / Park Grove',45.459904,-75.495995
+7831,'7831','Du Grand Bois / Pk Grv',45.459904,-75.495995
 7833,'7833','Prestwick / Lamoureux',45.464134,-75.494118
 7834,'7834','Tompkins / Caravel',45.475628,-75.50473
 7835,'7835','Tompkins / Bourcier',45.474171,-75.508003
@@ -4841,14 +4841,14 @@
 7981,'7981','Teron / Bethune',45.332016,-75.903114
 7982,'7982','Teron / Salter',45.323341,-75.891487
 7984,'7984','360 March',45.336227,-75.908371
-7985,'7985','March Road / Carling',45.338146,-75.910774
+7985,'7985','March Rd / Carling',45.338146,-75.910774
 7986,'7986','329 March',45.335739,-75.908211
 7987,'7987','Legget / Solandt',45.34354,-75.913368
 7988,'7988','Legget / Ad. 350',45.340656,-75.908806
 7989,'7989','Legget / Ad. 310',45.340065,-75.905571
 7990,'7990','Legget / Ad. 350',45.340771,-75.908669
 7991,'7991','Legget / Solandt',45.343639,-75.913193
-7994,'7994','March Road / Ad. 501',45.346001,-75.921272
+7994,'7994','March Rd / Ad. 501',45.346001,-75.921272
 7997,'7997','359 Terry Fox',45.350945,-75.9179
 7998,'7998','Terry Fox / Helmsdale',45.352177,-75.916527
 7999,'7999','Flamborough / Terry Fox',45.345966,-75.931648
@@ -4862,13 +4862,13 @@
 8011,'8011','Carling / Booth',45.398991,-75.704765
 8012,'8012','Carling / Booth',45.398842,-75.704445
 8013,'8013','Carling / Norfolk',45.398121,-75.706802
-8014,'8014','Carling / O-Train Station',45.396873,-75.709648
+8014,'8014','Carling / O-Train Sta',45.396873,-75.709648
 8015,'8015','Carling / Irving',45.393799,-75.716576
-8016,'8016','Carling / Civic Hospital',45.391758,-75.72126
+8016,'8016','Carling / Civic Hosp',45.391758,-75.72126
 8017,'8017','Carling / Holland',45.389854,-75.725647
 8018,'8018','Pagé / Navan',45.430813,-75.517944
 8019,'8019','Carling / Holland',45.389683,-75.725555
-8020,'8020','Carling / Civic Hospital',45.39156,-75.721085
+8020,'8020','Carling / Civic Hosp',45.39156,-75.721085
 8021,'8021','Carling / Maple',45.394035,-75.715324
 8023,'8023','Carling / Preston',45.397282,-75.707817
 8025,'8025','Southpark / Innes',45.431358,-75.566917
@@ -4889,7 +4889,7 @@
 8046,'8046','Mail Carlingwood Mall',45.37117,-75.769073
 8049,'8049','Carlingwood - Sears',45.372055,-75.769257
 8050,'8050','Scott / Parkdale',45.404755,-75.732162
-8053,'8053','Trailway / Moss Hill',45.267113,-75.913162
+8053,'8053','Trailway / Moss Hl',45.267113,-75.913162
 8054,'8054','Wintergreen / Stittsville Main',45.261509,-75.923798
 8058,'8058','Scott / Smirle',45.402557,-75.737335
 8059,'8059','Parkdale / Lyndale',45.406288,-75.732628
@@ -4908,7 +4908,7 @@
 8080,'8080','Carling / Archibald',45.385887,-75.734917
 8086,'8086','Castlefrank/Hazeldean',45.297523,-75.889862
 8087,'8087','Stittsville Main / Elm',45.252491,-75.913368
-8091,'8091','Parkdale / Highway 417',45.396965,-75.726913
+8091,'8091','Parkdale / Hwy 417',45.396965,-75.726913
 8092,'8092','Crerar / Veteran',45.38554,-75.728897
 8093,'8093','Shillington / Admiral',45.381207,-75.728096
 8094,'8094','Carling / Merivale',45.386555,-75.732689
@@ -4984,18 +4984,18 @@
 8196,'8196','Ridgeburn / Eastpark',45.435711,-75.560173
 8197,'8197','Innes / Eastpark',45.434395,-75.55764
 8198,'8198','Innes / Cléroux',45.436527,-75.552162
-8199,'8199','Innes / Orient Park',45.43346,-75.559944
+8199,'8199','Innes / Orient Pk',45.43346,-75.559944
 8200,'8200','Kilborn / Prospect',45.387299,-75.65451
 8201,'8201','Kilborn / Braeside',45.386875,-75.660469
 8203,'8203','Kilborn / Blossom',45.386204,-75.669533
-8206,'8206','Alta Vista / Pleasant Park',45.393425,-75.66259
+8206,'8206','Alta Vista / Pleasant Pk',45.393425,-75.66259
 8207,'8207','Alta Vista / Smyth',45.39806,-75.661537
 8208,'8208','Alta Vista / Valour',45.402821,-75.66156
 8209,'8209','Alta Vista / Caledon',45.410149,-75.657158
 8210,'8210','Smyth / Alta Vista',45.398624,-75.661201
 8212,'8212','Duford / Chartrand',45.475803,-75.51355
 8213,'8213','Jeanne D''arc / Bilberry',45.483265,-75.523209
-8216,'8216','Pleasant Park / Cabot',45.392769,-75.671684
+8216,'8216','Pleasant Pk / Cabot',45.392769,-75.671684
 8219,'8219','Alta Vista / Dorion',45.407818,-75.658676
 8220,'8220','Alta Vista / Valour',45.402775,-75.661842
 8222,'8222','Smyth / Fairbanks',45.398483,-75.659492
@@ -5007,12 +5007,12 @@
 8231,'8231','Heron / Alta Vista',45.379028,-75.661911
 8233,'8233','Heron / Clover',45.377747,-75.676064
 8234,'8234','Smyth / Alta Vista',45.398586,-75.662041
-8238,'8238','Pleasant Park / Ad. 433',45.393764,-75.653862
-8239,'8239','Pleasant Park / Alta Vista',45.393169,-75.662453
-8240,'8240','Pleasant Park / Cavendish',45.392967,-75.665291
-8242,'8242','Pleasant Park / Cavendish',45.392796,-75.665337
-8243,'8243','Pleasant Park / Ad. 328',45.393219,-75.65921
-8244,'8244','Pleasant Park / Ad. 504',45.393879,-75.650108
+8238,'8238','Pleasant Pk / Ad. 433',45.393764,-75.653862
+8239,'8239','Pleasant Pk / Alta Vista',45.393169,-75.662453
+8240,'8240','Pleasant Pk / Cavendish',45.392967,-75.665291
+8242,'8242','Pleasant Pk / Cavendish',45.392796,-75.665337
+8243,'8243','Pleasant Pk / Ad. 328',45.393219,-75.65921
+8244,'8244','Pleasant Pk / Ad. 504',45.393879,-75.650108
 8247,'8247','St Georges / Galloway',45.46796,-75.501785
 8259,'8259','Somerset E / King Edward',45.422112,-75.67984
 8261,'8261','Bank / Riverside',45.388233,-75.676674
@@ -5050,10 +5050,10 @@
 8329,'8329','St Laurent / Tawney',45.396267,-75.621681
 8331,'8331','Kilborn / Haig',45.389297,-75.635437
 8333,'8333','Kilborn / Haig',45.389378,-75.635513
-8335,'8335','Pleasant Park / Dorval',45.393642,-75.639915
-8336,'8336','Pleasant Park / Camrose',45.394115,-75.633499
-8337,'8337','Pleasant Park / Haig',45.394062,-75.636147
-8338,'8338','Pleasant Park / Dorval',45.393723,-75.640007
+8335,'8335','Pleasant Pk / Dorval',45.393642,-75.639915
+8336,'8336','Pleasant Pk / Camrose',45.394115,-75.633499
+8337,'8337','Pleasant Pk / Haig',45.394062,-75.636147
+8338,'8338','Pleasant Pk / Dorval',45.393723,-75.640007
 8340,'8340','Canterbury / Halifax',45.389423,-75.62619
 8345,'8345','Canterbury / Plesser',45.389378,-75.626915
 8346,'8346','St Laurent / Nerta',45.393867,-75.620117
@@ -5063,7 +5063,7 @@
 8351,'8351','Smyth / Russell',45.400963,-75.626328
 8352,'8352','Tompkins / Bourcier',45.473938,-75.508049
 8353,'8353','Tompkins / Preston',45.476788,-75.501732
-8354,'8354','Russell / Perley Hospital',45.404579,-75.633125
+8354,'8354','Russell / Perley Hosp',45.404579,-75.633125
 8355,'8355','Russell / Haig',45.403683,-75.632469
 8356,'8356','Smyth / Cuba',45.400871,-75.628502
 8358,'8358','Smyth / Haig',45.400265,-75.634003
@@ -5160,14 +5160,14 @@
 8491,'8491','Walkley / Halifax',45.387688,-75.620201
 8495,'8495','Southmore / Rankin',45.359604,-75.67717
 8496,'8496','Fielding / Hartman',45.360348,-75.68174
-8499,'8499','Taylor Creek / Lacolle',45.489418,-75.486809
+8499,'8499','Taylor Crk / Lacolle',45.489418,-75.486809
 8500,'8500','Maxime / Cyrville',45.4174,-75.605072
 8501,'8501','Meadowbrook / Aurele',45.425041,-75.607521
 8502,'8502','Appleton / Meadowbrook',45.42609,-75.603569
 8504,'8504','Blair / Ballard',45.425373,-75.599167
 8507,'8507','Crownhill / Sumac',45.443794,-75.608704
 8509,'8509','Cyrville / Maxime',45.417198,-75.605858
-8513,'8513','Ogilvie / City Park',45.431866,-75.617302
+8513,'8513','Ogilvie / City Pk',45.431866,-75.617302
 8514,'8514','Blair / Innes',45.421085,-75.596695
 8516,'8516','Michael / Labelle',45.421387,-75.631897
 8517,'8517','Vanier / Donald',45.427692,-75.662712
@@ -5179,7 +5179,7 @@
 8526,'8526','Charlton / Matheson',45.434841,-75.625946
 8527,'8527','Ogilvie / Cyrville',45.42482,-75.634857
 8530,'8530','Innes / Bantree',45.410076,-75.620224
-8532,'8532','Place D''orléans / Centrum',45.478245,-75.513039
+8532,'8532','Pl D''orléans / Centrum',45.478245,-75.513039
 8534,'8534','Michael / Newmarket',45.410236,-75.625717
 8535,'8535','Hazeldean / Springbrook',45.274162,-75.92585
 8536,'8536','Walkley / Baycrest',45.376366,-75.648521
@@ -5196,7 +5196,7 @@
 8552,'8552','Sandford Fleming / Industrial',45.41288,-75.65567
 8553,'8553','Crownhill / Dunham',45.437263,-75.606674
 8554,'8554','Crownhill / Blair',45.436413,-75.609375
-8555,'8555','Riverside / Pleasant Park',45.393036,-75.672379
+8555,'8555','Riverside / Pleasant Pk',45.393036,-75.672379
 8556,'8556','Coronation / Ad. 466',45.410561,-75.649857
 8557,'8557','Coronation / Botsford',45.408936,-75.638382
 8558,'8558','Coronation / Botsford',45.409153,-75.638573
@@ -5226,7 +5226,7 @@
 8600,'8600','Mcarthur / Irwin Miller',45.431808,-75.652428
 8601,'8601','Mcarthur / May',45.432262,-75.64566
 8602,'8602','St Laurent / Morin',45.440067,-75.6464
-8603,'8603','Montréal / Montfort Hospital',45.444233,-75.637894
+8603,'8603','Montréal / Montfort Hosp',45.444233,-75.637894
 8604,'8604','St Laurent / Côté',45.43594,-75.644119
 8605,'8605','Mcarthur / De L''église',45.432255,-75.648102
 8608,'8608','Transitway / Hunt Club',45.350868,-75.653839
@@ -5264,7 +5264,7 @@
 8647,'8647','Montréal / Blair',45.446247,-75.613945
 8648,'8648','Montréal / Clovelly',45.446198,-75.611099
 8649,'8649','Montréal / Ogilvie',45.446632,-75.595421
-8650,'8650','Montréal / Marquis Park',45.445278,-75.600388
+8650,'8650','Montréal / Marquis Pk',45.445278,-75.600388
 8654,'8654','Wick / Coxford',45.452915,-75.611641
 8656,'8656','Jasmine / Ogilvie',45.44286,-75.596306
 8657,'8657','Jasmine / Ogilvie',45.442532,-75.595871
@@ -5285,7 +5285,7 @@
 8678,'8678','Tauvette / Innes',45.42868,-75.572945
 8679,'8679','Southpark / Tauvette',45.432983,-75.574341
 8682,'8682','Innes / Beddoe',45.430328,-75.567764
-8683,'8683','Innes / Orient Park',45.433605,-75.560066
+8683,'8683','Innes / Orient Pk',45.433605,-75.560066
 8684,'8684','Northpark / Bearbrook',45.43531,-75.566307
 8686,'8686','Westpark / Parkridge',45.43597,-75.574028
 8687,'8687','Westpark / Valewood',45.43919,-75.571648
@@ -5310,14 +5310,14 @@
 8722,'8722','Birch / Hemlock',45.449272,-75.662926
 8723,'8723','Mcarthur / Vanier',45.431255,-75.662941
 8724,'8724','St Laurent / Hemlock',45.450047,-75.652
-8725,'8725','St Laurent / Meadow',45.448627,-75.651276
-8727,'8727','Lorry Greenberg/Hunter''s Glen/Greenboro Ctre',45.363094,-75.63456
+8725,'8725','St Laurent / Mdw',45.448627,-75.651276
+8727,'8727','Lorry Greenberg/Hunter''s Gln/Greenboro Ctre',45.363094,-75.63456
 8728,'8728','Montréal / R.R. 174',45.450859,-75.585121
 8729,'8729','Brittany / Bangs',45.446041,-75.646164
 8730,'8730','Brittany / Montréal',45.442875,-75.642357
 8731,'8731','Montréal / Hillside',45.442112,-75.64399
 8732,'8732','Montréal / St Laurent',45.441383,-75.64624
-8733,'8733','Montréal / Centre',45.442055,-75.643608
+8733,'8733','Montréal / Ctr',45.442055,-75.643608
 8734,'8734','Montréal / Cummings',45.442909,-75.641129
 8735,'8735','Birch / Hemlock',45.449287,-75.662697
 8736,'8736','Sandridge / Kilbarry',45.455997,-75.657188
@@ -5325,7 +5325,7 @@
 8739,'8739','Montréal / De L''eglise',45.439667,-75.651398
 8740,'8740','Montréal / De L''église',45.439583,-75.65126
 8741,'8741','Montréal / Cantin',45.439041,-75.653275
-8742,'8742','Lorry Greenberg/Hunter''s Glen/Greenboro Ctre',45.362961,-75.634766
+8742,'8742','Lorry Greenberg/Hunter''s Gln/Greenboro Ctre',45.362961,-75.634766
 8743,'8743','Bridle Path / Equus',45.34919,-75.649834
 8745,'8745','Montfort / Ste Anne',45.43911,-75.658913
 8746,'8746','Blair / Seguin',45.444809,-75.61412
@@ -5356,7 +5356,7 @@
 8784,'8784','Montréal / Olmstead',45.435905,-75.662399
 8786,'8786','North River / Selkirk',45.431995,-75.669472
 8788,'8788','Springfield / Beechwood',45.440071,-75.676292
-8789,'8789','Maple Lane / Springfield',45.44632,-75.677597
+8789,'8789','Maple Ln / Springfield',45.44632,-75.677597
 8790,'8790','Beechwood / St Charles',45.441147,-75.674057
 8792,'8792','Beechwood / Crichton',45.438652,-75.67762
 8793,'8793','Beechwood / Charlevoix',45.438988,-75.677078
@@ -5392,16 +5392,16 @@
 8873,'8873','Albion / Cinanni',45.347721,-75.639633
 8874,'8874','Queensdale / Albion',45.343014,-75.636307
 8875,'8875','Queensdale / Bank',45.346859,-75.627014
-8876,'8876','Queensdale / Sawmill Creek',45.349781,-75.619797
+8876,'8876','Queensdale / Sawmill Crk',45.349781,-75.619797
 8877,'8877','Queensdale / Eight',45.350647,-75.617645
 8880,'8880','Queensdale / Mavis',45.345978,-75.629631
 8881,'8881','Queensdale / Albion',45.343185,-75.636421
 8882,'8882','Albion / D''aoust',45.347519,-75.639313
-8885,'8885','Rosebella / Sixth',45.350182,-75.622452
+8885,'8885','Rosebella / 6th',45.350182,-75.622452
 8886,'8886','Massey / Rebecca',45.46096,-75.616554
 8887,'8887','Bank / St Bernard',45.349998,-75.629272
-8893,'8893','Centrum / Place D''orléans',45.479568,-75.511955
-8894,'8894','St Laurent / Shore',45.412994,-75.630936
+8893,'8893','Centrum / Pl D''orléans',45.479568,-75.511955
+8894,'8894','St Laurent / Shr',45.412994,-75.630936
 8895,'8895','Bank / Catherine',45.409302,-75.691879
 8898,'8898','Grey Nuns / Jeanne D''arc',45.466393,-75.542213
 8901,'8901','Innes / St Laurent',45.406788,-75.626793
@@ -5423,7 +5423,7 @@
 8931,'8931','Sandridge / Rockcliffe',45.455879,-75.66095
 8932,'8932','Mcarthur / Allen',45.431458,-75.657265
 8933,'8933','Valin / Charlemagne',45.473808,-75.475861
-8934,'8934','St Laurent / Meadow',45.448795,-75.651047
+8934,'8934','St Laurent / Mdw',45.448795,-75.651047
 8936,'8936','Bearbrook / Centrepark',45.434204,-75.566017
 8937,'8937','Kilborn / Alta Vista',45.386711,-75.662537
 8940,'8940','St Laurent / Montréal',45.440979,-75.646576
@@ -5456,14 +5456,14 @@
 8997,'8997','Carling / Cambridge',45.400852,-75.700737
 8998,'8998','Mccarthy / Cahill',45.350567,-75.664207
 8999,'8999','Parkdale / Gladstone',45.399338,-75.72818
-9000,'9000','Parkway / Meadow',45.262695,-75.560486
-9001,'9001','Parkway / Meadow',45.263042,-75.560036
+9000,'9000','Parkway / Mdw',45.262695,-75.560486
+9001,'9001','Parkway / Mdw',45.263042,-75.560036
 9002,'9002','Bank / Mason',45.276653,-75.568008
 9003,'9003','Bank / Mason',45.2766,-75.568199
 9004,'9004','Mer Bleue / Innes',45.454041,-75.503822
 9005,'9005','Heron / Alta Vista',45.379093,-75.660759
 9006,'9006','Cameron / Sparkle',45.517578,-75.410965
-9007,'9007','Greely Community Centre',45.261551,-75.555832
+9007,'9007','Greely Community Ctr',45.261551,-75.555832
 9039,'9039','Colonnade / 147 Colonnade',45.34338,-75.705376
 9041,'9041','Colonnade / 106 Colonnade',45.346764,-75.705215
 9042,'9042','Colonnade / 82 Colonnade',45.347401,-75.709839
@@ -5475,8 +5475,8 @@
 9049,'9049','Marconi / Kinghorn',45.356869,-75.92411
 9050,'9050','Marconi / Klondike',45.358582,-75.926682
 9051,'9051','Marconi / Klondike',45.358421,-75.926712
-9052,'9052','Marconi / Burwash Landing',45.359615,-75.92804
-9053,'9053','Marconi / Burwash Landing',45.35957,-75.92823
+9052,'9052','Marconi / Burwash Lndg',45.359615,-75.92804
+9053,'9053','Marconi / Burwash Lndg',45.35957,-75.92823
 9054,'9054','Marconi / Maxwell Bridge',45.361195,-75.930519
 9055,'9055','Marconi / Streamside',45.360851,-75.930397
 9056,'9056','Maxwell Bridge / Windance',45.359432,-75.93438
@@ -5511,6 +5511,6 @@
 500081,'','Agri-Food Canada',45.284187,-75.767387
 600557,'','Holly Acres / Ramp',45.343594,-75.811386
 700367,'xxxx','Richardson / All Saints H.S.',45.323116,-75.924141
-800005,'','Eagleson / Eagleson Park & Ride',45.319054,-75.885208
-900010,'','Canadian Tire Centre',45.29887,-75.926598
+800005,'','Eagleson / Eagleson Pk & Ride',45.319054,-75.885208
+900010,'','Canadian Tire Ctr',45.29887,-75.926598
 1100003,'','Leitrim / Anderson',45.360485,-75.534218
