@@ -47,6 +47,7 @@
 371,'371','Fernbank / Cherry',45.24971,-75.909393
 379,'379','Page / Buttonfield',45.445183,-75.526306
 380,'380','Huntmar / Maple Grv',45.288746,-75.920273
+381,'381','Amberwood / Merivale',45.317406,-75.713837
 383,'383','Beaverbrook / Leacock',45.328678,-75.900139
 385,'385','Johnston / Pennard',45.368973,-75.6334
 386,'386','Johnston / Zaidan',45.368221,-75.631622
@@ -276,6 +277,7 @@
 777,'777','Bank / Arena',45.329723,-75.598991
 778,'778','Holland / Wellington',45.400059,-75.732033
 779,'779','Holland / Wellington',45.400127,-75.732292
+789,'789','Millenium / E.S. Gisèle Lalonde',45.46701,-75.4459
 790,'790','Orleans / Cairine Wilson H.S.',45.481575,-75.541298
 793,'793','Innes / Du Grand Bois',45.457355,-75.49913
 800,'800','Equestrian / Foxleigh',45.284306,-75.864929
@@ -374,6 +376,7 @@
 935,'935','Henn / August',45.42524,-75.425751
 936,'936','1951 Robertson',45.325577,-75.824821
 937,'937','Robertson / Stafford',45.327511,-75.820229
+939,'939','Northside / Thorncliff',45.329201,-75.815033
 940,'940','Northside / Thorncliff',45.3293,-75.815132
 941,'941','Baseline / Vly Stream',45.333248,-75.806076
 943,'943','Baseline / Sioux',45.334515,-75.802933
@@ -419,8 +422,13 @@
 988,'988','Merivale / Amberwood',45.317635,-75.7145
 989,'989','Montfort Hosp',45.44511,-75.639343
 990,'990','Amberwood / Weatherwood',45.318523,-75.712868
+991,'991','Amberwood / Edenbrook',45.320545,-75.707146
 992,'992','Amberwood / Weatherwood',45.320629,-75.713791
 993,'993','Amberwood / Edenbrook',45.320503,-75.707466
+994,'994','Fifeshire / Tennyson',45.322582,-75.706047
+995,'995','Greenside / Promenade',45.327942,-75.705475
+996,'996','Mayo / Brisbane',45.325443,-75.707657
+997,'997','Fifeshire / Amberwood',45.322273,-75.705643
 998,'998','Stonehaven / Eagleson',45.287952,-75.867111
 999,'999','Prince Of Wales / Waterford',45.324799,-75.701683
 1000,'1000','Booth / Daniel Mccann',45.402084,-75.706215
@@ -637,6 +645,8 @@
 1221,'1221','Longfields / Chapman Mills',45.269066,-75.735054
 1222,'1222','Woodridge / Bayshore',45.348553,-75.806938
 1223,'1223','Stittsville Main / Hobin',45.265312,-75.928894
+1224,'1224','Prince Of Wales / Rideau Shr',45.349586,-75.703247
+1225,'1225','Prince Of Wales / Rideau Shr',45.349655,-75.70295
 1226,'1226','Blair / Meadowbrook',45.427551,-75.600594
 1227,'1227','Longfields / Chapman Mills',45.268211,-75.734665
 1228,'1228','Queen / O''connor',45.421658,-75.698463
@@ -696,6 +706,7 @@
 1287,'1287','Weslock / Walden',45.329613,-75.915314
 1288,'1288','Walden / Ad. 141',45.328838,-75.920746
 1289,'1289','Walden / Slade',45.32843,-75.919685
+1290,'1290','Trim / Innes',45.470417,-75.454231
 1292,'1292','Walden / Ironside',45.327522,-75.92379
 1293,'1293','Walden / Ironside',45.327469,-75.923706
 1294,'1294','Walden / Bryant',45.325718,-75.924286
@@ -906,6 +917,7 @@
 1536,'1536','Innovation / Terry Fox',45.34483,-75.930626
 1537,'1537','Queenston / Gertie',45.197681,-75.838264
 1538,'1538','Queenston / Oradea',45.197289,-75.838638
+1539,'1539','Montréal / Shefford',45.449856,-75.588692
 1540,'1540','Huntsville / Drumheller',45.316502,-75.936523
 1541,'1541','Huntsville / Drumheller',45.317177,-75.936432
 1542,'1542','Jockvale / Blackleaf',45.252975,-75.725494
@@ -964,9 +976,13 @@
 1603,'1603','Eagleson / Shatner',45.307369,-75.878487
 1604,'1604','Prince Of Wales / Rideau Hts',45.338078,-75.701225
 1605,'1605','Prince Of Wales / Stephanie',45.342216,-75.699654
+1606,'1606','Prince Of Wales / Rideau Hts',45.341213,-75.700478
+1607,'1607','Prince Of Wales / Hunt Club',45.335781,-75.700912
 1608,'1608','Macfarlane / Greenside',45.328938,-75.706482
 1609,'1609','Macfarlane / Brisbane',45.32782,-75.70858
 1610,'1610','Cassidy / Bell H.S.',45.326256,-75.807732
+1611,'1611','Prince Of Wales / Colonnade',45.347641,-75.701691
+1612,'1612','Prince Of Wales / Colonnade',45.346062,-75.701073
 1613,'1613','Merivale / Pineglen',45.321556,-75.71656
 1614,'1614','Merivale / Pineglen',45.321159,-75.716461
 1615,'1615','Merivale / Jamie',45.333145,-75.723
@@ -1192,6 +1208,7 @@
 1860,'1860','Charlemagne / Watters',45.477486,-75.479591
 1861,'1861','Earl Mulligan / Woodgate',45.294006,-75.731705
 1862,'1862','Earl Mulligan / Woodpark',45.294003,-75.731323
+1866,'1866','Innes / Pépin',45.427593,-75.574509
 1867,'1867','1010 Teron',45.327938,-75.897675
 1868,'1868','Riverside / Terminal',45.412342,-75.658981
 1869,'1869','Riverside / Terminal',45.4123,-75.659683
@@ -1312,6 +1329,13 @@
 2064,'2064','760 Eagleson (Superstore)',45.284374,-75.866112
 2065,'2065','Cambrian / Kilbirnie',45.255299,-75.730988
 2067,'2067','Kilbirnie / Cheyenne',45.252857,-75.729736
+2071,'2071','Centrepointe / Tallwood',45.340321,-75.761719
+2072,'2072','Centrepointe / Abordale',45.338272,-75.763123
+2073,'2073','Centrepointe / Dalecroft',45.337833,-75.766708
+2074,'2074','Centrepointe / Stonebriar',45.338753,-75.769821
+2075,'2075','Centrepointe / Summerwalk',45.341076,-75.772461
+2076,'2076','Centrepointe / Cimarron',45.343239,-75.773262
+2078,'2078','Baseline / Cobden',45.346489,-75.77507
 2081,'2081','Pagé / Nature Trl',45.438988,-75.522606
 2082,'2082','Fernbank / Etta',45.246567,-75.914536
 2083,'2083','Fernbank / Etta',45.245987,-75.915176
@@ -1662,6 +1686,7 @@
 2560,'2560','Canotek / Rainbow',45.452682,-75.586975
 2561,'2561','Canotek / Ad. 5350',45.453945,-75.584702
 2562,'2562','La Vérendrye / Gatineau Vw',45.452534,-75.601036
+2563,'2563','Montréal / Miss Ottawa',45.44838,-75.592079
 2564,'2564','Montréal / Ad. 2038',45.446293,-75.596779
 2565,'2565','Montréal / Foxborough',45.445518,-75.598885
 2566,'2566','Montréal / Bethamy',45.445564,-75.597977
@@ -3377,6 +3402,13 @@
 6036,'6036','Meadowlands / Prince Of Wales',45.367901,-75.702606
 6037,'6037','Meadowlands / Debra',45.367695,-75.702568
 6039,'6039','Meadowlands / Sullivan',45.343601,-75.752716
+6040,'6040','Prince Of Wales / Normandy',45.364964,-75.700798
+6041,'6041','Prince Of Wales / Normandy',45.363804,-75.700676
+6042,'6042','Prince Of Wales / Falaise',45.360912,-75.700264
+6043,'6043','Prince Of Wales / Melfa',45.36388,-75.700401
+6044,'6044','Prince Of Wales / Normandy',45.357666,-75.700813
+6045,'6045','Prince Of Wales / Borden Side',45.354523,-75.703979
+6046,'6046','Prince Of Wales / Rideau Hts',45.338692,-75.701553
 6047,'6047','Colonnade / Ad. 60',45.345387,-75.714111
 6048,'6048','Colonnade / Ad. 100',45.346657,-75.705521
 6049,'6049','Colonnade / Ad. 120',45.343563,-75.705452
@@ -3395,6 +3427,14 @@
 6067,'6067','Amberwood / Fifeshire',45.323891,-75.703979
 6068,'6068','Amberwood / Fifeshire',45.322453,-75.705544
 6069,'6069','Amberwood / Calais',45.32098,-75.710052
+6070,'6070','Amberwood / Lacewood',45.320564,-75.709778
+6071,'6071','Amberwood / Weatherwood',45.321507,-75.712173
+6072,'6072','Amberwood / Erinlea',45.319145,-75.713036
+6073,'6073','Tennyson / Denewood',45.323101,-75.708504
+6074,'6074','Mayo / Tennyson',45.324799,-75.709297
+6075,'6075','Tennyson / Cordell',45.323265,-75.708511
+6076,'6076','Tennyson / Mayo',45.324593,-75.709274
+6077,'6077','Mayo / Brisbane',45.325237,-75.707809
 6081,'6081','Macfarlane / Brisbane',45.327671,-75.709343
 6082,'6082','Macfarlane / Pineglen',45.326351,-75.712364
 6083,'6083','Macfarlane / Belledune',45.325321,-75.714622
@@ -3595,6 +3635,12 @@
 6330,'6330','Longleaf / Gladewoods',45.441319,-75.531204
 6331,'6331','Longleaf / Montclair',45.440319,-75.531326
 6332,'6332','Longleaf / Apple Leaf',45.438503,-75.530235
+6333,'6333','Orleans / Crk Xing',45.438114,-75.526711
+6334,'6334','Orléans / Valleywood Pathway',45.439461,-75.527405
+6335,'6335','Orléans / Silverbirch',45.441441,-75.528557
+6336,'6336','Orléans / Longleaf',45.44194,-75.52919
+6337,'6337','Orléans / Oakbrook',45.440247,-75.528046
+6338,'6338','Orléans / Valleywood',45.438972,-75.527298
 6339,'6339','Crk Xing / Orléans',45.437595,-75.52636
 6340,'6340','Crk Xing / Pagé',45.438297,-75.52282
 6341,'6341','Crk Xing / Rolling Brk',45.438255,-75.523529
@@ -3841,6 +3887,11 @@
 6705,'6705','Prince Of Wales / Sanford',45.372189,-75.708435
 6706,'6706','Prince Of Wales / Dynes',45.370174,-75.703529
 6707,'6707','Prince Of Wales / Meadowlands',45.368893,-75.701584
+6708,'6708','Prince Of Wales / Melfa',45.367432,-75.701187
+6709,'6709','Prince Of Wales / Normandy',45.35791,-75.700912
+6711,'6711','Prince Of Wales / Borden Side',45.354385,-75.703781
+6712,'6712','Prince Of Wales / Falaise',45.360882,-75.699951
+6713,'6713','Prince Of Wales / Melfa',45.365944,-75.700691
 6714,'6714','Meadowlands / Claymore',45.366497,-75.704979
 6715,'6715','Meadowlands / Claymore',45.366276,-75.705719
 6716,'6716','Meadowlands / Valmarie',45.363815,-75.708931
@@ -4762,6 +4813,8 @@
 7949,'7949','Grey Nuns / Harvest',45.469006,-75.542809
 7950,'7950','Ogilvie / Naskapi',45.448769,-75.594872
 7951,'7951','Ogilvie / Lassiter',45.45002,-75.59581
+7952,'7952','Montréal / Sinclair',45.448624,-75.591026
+7953,'7953','Montréal / Laporte',45.447498,-75.593575
 7954,'7954','Des Épinettes / Silver Bark',45.461128,-75.508499
 7955,'7955','Des Épinettes / Lamoureux',45.467148,-75.49295
 7956,'7956','Prestwick / Ad. 1833',45.462311,-75.492424
@@ -5258,6 +5311,7 @@
 8724,'8724','St Laurent / Hemlock',45.450047,-75.652
 8725,'8725','St Laurent / Mdw',45.448627,-75.651276
 8727,'8727','Lorry Greenberg/Hunter''s Gln/Greenboro Ctre',45.363094,-75.63456
+8728,'8728','Montréal / R.R. 174',45.450859,-75.585121
 8729,'8729','Brittany / Bangs',45.446041,-75.646164
 8730,'8730','Brittany / Montréal',45.442875,-75.642357
 8731,'8731','Montréal / Hillside',45.442112,-75.64399
@@ -5455,5 +5509,6 @@
 500002,'','Cambrian Loop',45.24884,-75.747719
 500081,'','Agri-Food Canada',45.284187,-75.767387
 600557,'','Holly Acres / Ramp',45.343594,-75.811386
+700367,'xxxx','Richardson / All Saints H.S.',45.323116,-75.924141
 800005,'','Eagleson / Eagleson Pk & Ride',45.319054,-75.885208
 1100003,'','Leitrim / Anderson',45.360485,-75.534218
