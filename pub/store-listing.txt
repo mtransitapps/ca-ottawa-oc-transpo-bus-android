@@ -14,7 +14,7 @@ This application adds Ottawa OC Transpo buses information to MonTransit.
 
 This app contains the bus schedule (offline and real-time) and the latest news from www.octranspo1.com, YouTube and @OC_Transpo and @OCTranspoLive on Twitter.
 
-OC Transpo serves Ottawa in Ontario, Canada.
+OC Transpo buses serve Ottawa in Ontario, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
