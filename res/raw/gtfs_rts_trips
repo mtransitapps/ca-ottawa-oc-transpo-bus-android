@@ -108,6 +108,8 @@
 10501,0,'Tunney''s Pasture',105
 10600,0,'Elmvale',106
 10601,0,'Hurdman',106
+10700,0,'Bayview',107
+10701,0,'South Keys',107
 11101,0,'Baseline',111
 11100,0,'Billings Bridge',111
 11201,0,'Billings Bridge',112
@@ -247,12 +249,6 @@
 26301,0,'Stittsville',263
 28300,0,'Downtown / Ctre-ville',283
 28301,0,'Richmond',283
-40100,0,'Centre Canadian Tire Centre',401
-40200,0,'Centre Canadian Tire Centre',402
-40300,0,'Centre Canadian Tire Centre',403
-40400,0,'Centre Canadian Tire Centre',404
-40500,0,'Centre Canadian Tire Centre',405
-40600,0,'Centre Canadian Tire Centre',406
 45000,0,'Lansdowne',450
 45100,0,'Lansdowne',451
 45200,0,'Lansdowne',452
