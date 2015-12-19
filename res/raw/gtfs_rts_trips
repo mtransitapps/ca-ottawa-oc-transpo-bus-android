@@ -2,7 +2,7 @@
 100,0,'South Keys',1
 201,0,'Bayshore',2
 200,0,'Downtown / Ctre-ville',2
-400,0,'Hurdman',4
+400,0,'Carleton',4
 401,0,'Rideau',4
 500,0,'Billings Bridge',5
 501,0,'St-Laurent',5
@@ -22,64 +22,64 @@
 1600,0,'Main',16
 1801,0,'Rideau',18
 1800,0,'St-Laurent',18
-2000,0,'Downtown / Ctre-ville',20
+2000,0,'Albert Bay',20
 2001,0,'Orléans',20
-2100,0,'Downtown / Ctre-ville',21
+2100,0,'Albert Bay',21
 2101,0,'Orléans',21
-2200,0,'Downtown / Ctre-ville',22
+2200,0,'Albert Bay',22
 2201,0,'Millennium',22
+2400,0,'Albert Bay',24
 2401,0,'Beacon Hill',24
-2400,0,'Downtown / Ctre-ville',24
 2700,0,'Gatineau',27
 2701,0,'Orléans',27
-3000,0,'Downtown / Ctre-ville',30
+3000,0,'Albert Bay',30
 3001,0,'Jeanne d''Arc',30
-3100,0,'Downtown / Ctre-ville',31
+3100,0,'Albert Bay',31
 3101,0,'Jeanne d''Arc',31
-3400,0,'Downtown / Ctre-ville',34
+3400,0,'Albert Bay',34
 3401,0,'Jeanne d''Arc',34
-3500,0,'Downtown / Ctre-ville',35
+3500,0,'Albert Bay',35
 3501,0,'Orléans',35
-3700,0,'Downtown / Ctre-ville',37
+3700,0,'Albert Bay',37
 3701,0,'Jeanne d''Arc',37
-3800,0,'Downtown / Ctre-ville',38
+3800,0,'Albert Bay',38
 3801,0,'Jeanne d''Arc',38
 4001,0,'Blossom Park',40
 4000,0,'Gatineau',40
-4100,0,'Downtown / Ctre-ville',41
+4100,0,'Hurdman',41
 4101,0,'Walkley',41
 4301,0,'Conroy',43
-4300,0,'Downtown / Ctre-ville',43
-6000,0,'Downtown / Ctre-ville',60
+4300,0,'Hurdman',43
 6001,0,'Kanata',60
-6100,0,'Downtown / Ctre-ville',61
+6000,0,'Mackenzie King',60
 6101,0,'Kanata',61
-6200,0,'Downtown/Ctre-ville',62
+6100,0,'Mackenzie King',61
 6201,0,'Kanata',62
-6400,0,'Downtown / Ctre-ville',64
+6200,0,'Mackenzie King',62
 6401,0,'Kanata',64
-6500,0,'Downtown / Ctre-ville',65
+6400,0,'Mackenzie King',64
 6501,0,'Kanata',65
-6600,0,'Downtown/Ctre-ville',66
+6500,0,'Mackenzie King',65
 6601,0,'Kanata',66
-6700,0,'Downtown / Ctre-ville',67
+6600,0,'Mackenzie King',66
+6700,0,'Mackenzie King',67
 6701,0,'Pinecrest',67
-6800,0,'Downtown / Ctre-ville',68
 6801,0,'Kanata',68
+6800,0,'Mackenzie King',68
 6901,0,'Bells Corners',69
-6900,0,'Downtown / Ctre-ville',69
+6900,0,'Mackenzie King',69
 7001,0,'Barrhaven',70
-7000,0,'Downtown / Ctre-ville',70
+7000,0,'Mackenzie King',70
 7101,0,'Barrhaven',71
-7100,0,'Downtown / Ctre-ville',71
+7100,0,'Mackenzie King',71
 7201,0,'Barrhaven',72
-7200,0,'Downtown / Ctre-ville',72
+7200,0,'Mackenzie King',72
 7301,0,'Barrhaven',73
-7300,0,'Downtown / Ctre-ville',73
+7300,0,'Mackenzie King',73
 7701,0,'Barrhaven',77
-7700,0,'Downtown / Ctre-ville',77
+7700,0,'Mackenzie King',77
 8501,0,'Bayshore',85
-8500,0,'Mackenzie King',85
+8500,0,'Lees',85
 8601,0,'Baseline  Colonnade',86
 8600,0,'Elmvale',86
 8701,0,'Baseline',87
@@ -104,16 +104,20 @@
 9900,0,'Greenboro',99
 10101,0,'Bayshore',101
 10100,0,'St-Laurent',101
+10301,0,'Bayshore',103
+10300,0,'Place d''Orléans',103
+10401,0,'Carleton',104
+10400,0,'Place d''Orléans',104
 10500,0,'Gatineau',105
 10501,0,'Tunney''s Pasture',105
-10600,0,'Elmvale',106
 10601,0,'Hurdman',106
+10600,0,'St-Laurent',106
 11101,0,'Baseline',111
 11100,0,'Billings Bridge',111
 11201,0,'Billings Bridge',112
 11200,0,'Elmvale',112
 11401,0,'Greenboro',114
-11400,0,'Hurdman',114
+11400,0,'St-Laurent',114
 11600,0,'Greenboro',116
 11601,0,'Merivale',116
 11800,0,'Hurdman',118
@@ -216,7 +220,7 @@
 18901,0,'Greenboro',189
 18900,0,'Riverview',189
 19200,0,'Hawthorne',192
-19201,0,'Hurdman',192
+19201,0,'St-Laurent',192
 19301,0,'Blair',193
 19300,0,'Place d''Orléans',193
 19401,0,'Blair',194
@@ -233,29 +237,29 @@
 20401,0,'Greely Metcalfe',204
 20500,0,'Carlingwood',205
 20501,0,'North Gower',205
+22100,0,'Albert Bay',221
 22101,0,'Cumberland',221
-22100,0,'Downtown / Ctre-ville',221
-23100,0,'Downtown / Ctre-ville',231
+23100,0,'Albert Bay',231
 23101,0,'Navan',231
-23200,0,'Downtown / Ctre-ville',232
+23200,0,'Albert Bay',232
 23201,0,'Vars',232
-26100,0,'Downtown / Ctre-ville',261
+26100,0,'Mackenzie King',261
 26101,0,'Stittsville',261
-26200,0,'Downtown / Ctre-ville',262
+26200,0,'Mackenzie King',262
 26201,0,'Stittsville',262
-26300,0,'Downtown / Ctre-ville',263
+26300,0,'Mackenzie King',263
 26301,0,'Stittsville',263
-28300,0,'Downtown / Ctre-ville',283
+28300,0,'Mackenzie King',283
 28301,0,'Richmond',283
 60200,0,'De La Salle',602
-60201,0,'Hurdman',602
+60201,0,'Mackenzie King',602
 61100,0,'Gisèle Lalonde',611
 61101,0,'Orléans',611
 61201,0,'Orléans',612
 61200,0,'Special',612
 61300,0,'Hurdman',613
 61800,0,'Louis Riel',618
-61801,0,'Place D''Orleans',618
+61801,0,'Place D''Orléans',618
 61901,0,'Blair',619
 61900,0,'Louis Riel',619
 62201,0,'Renaud',622
@@ -263,7 +267,7 @@
 63200,0,'Gisèle Lalonde',632
 63201,0,'Orléans',632
 63300,0,'L. B. Pearson',633
-63301,0,'St-Laurent',633
+63301,0,'St Laurent',633
 64000,0,'Brookfield',640
 64001,0,'South Keys',640
 64100,0,'Louis Riel',641
@@ -276,7 +280,7 @@
 66501,0,'Kanata',665
 66901,0,'Bayshore',669
 66900,0,'Bell',669
-67001,0,'Nepean S',670
+67001,0,'Nepean S.',670
 67000,0,'St. Pius',670
 67400,0,'All Saints',674
 67401,0,'Kanata',674
