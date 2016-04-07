@@ -227,6 +227,16 @@
 19400,0,'Canotek',194
 19900,0,'Barrhaven',199
 19901,0,'Place d''Orléans',199
+20100,0,'Bayshore Carlingwd',201
+20101,0,'Richmond Stittsville',201
+20201,0,'Cumberland',202
+20200,0,'St Laurent Pl Orlns',202
+20300,0,'Carlingwd Bayshore',203
+20301,0,'Dunrobin Stittsville',203
+20400,0,'Billings Brdg S. Keys',204
+20401,0,'Greely Metcalfe',204
+20500,0,'Carlingwood',205
+20501,0,'North Gower',205
 22100,0,'Albert Bay',221
 22101,0,'Cumberland',221
 23100,0,'Albert Bay',231
@@ -247,10 +257,6 @@
 40400,0,'Centre Canadian Tire Centre',404
 40500,0,'Centre Canadian Tire Centre',405
 40600,0,'Centre Canadian Tire Centre',406
-50500,0,'Downtown Ctre-ville',505
-50501,0,'Lac Dow Dow''s Lake',505
-50600,0,'0',506
-50601,0,'1',506
 60200,0,'De La Salle',602
 60201,0,'Mackenzie King',602
 61100,0,'Gisèle Lalonde',611
