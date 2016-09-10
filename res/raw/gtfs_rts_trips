@@ -213,6 +213,7 @@
 18100,0,'Kanata N.',181
 18200,0,'Kanata',182
 18201,0,'Tunney''s Pasture',182
+18500,0,'Experimental Farm Ferme Expérimentale',185
 18601,0,'Barrhaven Centre',186
 18600,0,'Manotick',186
 18901,0,'Greenboro',189
@@ -223,8 +224,20 @@
 19300,0,'Place d''Orléans',193
 19401,0,'Blair',194
 19400,0,'Canotek',194
+19801,0,'Place d''Orléans',198
+19800,0,'Île Petrie Island',198
 19900,0,'Barrhaven',199
 19901,0,'Place d''Orléans',199
+20100,0,'Bayshore Carlingwd',201
+20101,0,'Richmond Stittsville',201
+20201,0,'Cumberland',202
+20200,0,'St Laurent Pl Orlns',202
+20300,0,'Carlingwd Bayshore',203
+20301,0,'Dunrobin Stittsville',203
+20400,0,'Billings Brdg S. Keys',204
+20401,0,'Greely Metcalfe',204
+20500,0,'Carlingwood',205
+20501,0,'North Gower',205
 22100,0,'Albert Bay',221
 22101,0,'Cumberland',221
 22200,0,'Albert Bay',222
@@ -239,6 +252,12 @@
 26301,0,'Stittsville',263
 28300,0,'Mackenzie King',283
 28301,0,'Richmond',283
+40100,0,'Centre Canadian Tire Centre',401
+40200,0,'Centre Canadian Tire Centre',402
+40300,0,'Centre Canadian Tire Centre',403
+40400,0,'Centre Canadian Tire Centre',404
+40500,0,'Centre Canadian Tire Centre',405
+40600,0,'Centre Canadian Tire Centre',406
 60200,0,'De La Salle',602
 60201,0,'Mackenzie King',602
 61100,0,'Gisèle Lalonde',611
