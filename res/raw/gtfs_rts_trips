@@ -225,16 +225,6 @@
 19400,0,'Canotek',194
 19900,0,'Barrhaven',199
 19901,0,'Place d''Orléans',199
-20100,0,'Bayshore Carlingwd',201
-20101,0,'Richmond Stittsville',201
-20201,0,'Cumberland',202
-20200,0,'St Laurent Pl Orlns',202
-20300,0,'Carlingwd Bayshore',203
-20301,0,'Dunrobin Stittsville',203
-20400,0,'Billings Brdg S. Keys',204
-20401,0,'Greely Metcalfe',204
-20500,0,'Carlingwood',205
-20501,0,'North Gower',205
 22100,0,'Albert Bay',221
 22101,0,'Cumberland',221
 22200,0,'Albert Bay',222
@@ -249,6 +239,12 @@
 26301,0,'Stittsville',263
 28300,0,'Mackenzie King',283
 28301,0,'Richmond',283
+40100,0,'Scotiabank Place',401
+40200,0,'Scotiabank Place',402
+40300,0,'Scotiabank Place',403
+40400,0,'Scotiabank Place',404
+40500,0,'Scotiabank Place',405
+40600,0,'Scotiabank Place',406
 50800,0,'0',508
 50801,0,'1',508
 60200,0,'De La Salle',602
@@ -292,7 +288,6 @@
 67801,0,'Orléans',678
 68100,0,'Bell HS',681
 68101,0,'Kanata',681
-69101,0,'Bayshore',691
 69100,0,'Deslauriers',691
 69801,0,'Blohm',698
 69800,0,'Ridgemont & St Pats',698
