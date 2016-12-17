@@ -245,8 +245,6 @@
 40400,0,'Scotiabank Place',404
 40500,0,'Scotiabank Place',405
 40600,0,'Scotiabank Place',406
-50800,0,'0',508
-50801,0,'1',508
 60200,0,'De La Salle',602
 60201,0,'Mackenzie King',602
 61100,0,'Gisèle Lalonde',611
@@ -288,6 +286,7 @@
 67801,0,'Orléans',678
 68100,0,'Bell HS',681
 68101,0,'Kanata',681
+69101,0,'Bayshore',691
 69100,0,'Deslauriers',691
 69801,0,'Blohm',698
 69800,0,'Ridgemont & St Pats',698
