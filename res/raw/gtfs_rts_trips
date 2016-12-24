@@ -5,7 +5,7 @@
 400,0,'Carleton',4
 401,0,'Rideau',4
 500,0,'Billings Bridge',5
-501,0,'St-Laurent',5
+501,0,'Rideau',5
 600,0,'Hurdman',6
 601,0,'Tunney''s Pasture',6
 700,0,'Carleton',7
@@ -22,62 +22,24 @@
 1600,0,'Main',16
 1801,0,'Rideau',18
 1800,0,'St-Laurent',18
-2000,0,'Albert Bay',20
-2001,0,'Orléans',20
-2100,0,'Albert Bay',21
-2101,0,'Orléans',21
+1900,0,'Bank',19
+1901,0,'St-Laurent',19
 2200,0,'Albert Bay',22
 2201,0,'Millennium',22
-2400,0,'Albert Bay',24
-2401,0,'Beacon Hill',24
-2700,0,'Gatineau',27
-2701,0,'Orléans',27
-3000,0,'Albert Bay',30
-3001,0,'Jeanne d''Arc',30
-3100,0,'Albert Bay',31
-3101,0,'Jeanne d''Arc',31
+3000,0,'Albert  Bay',30
+3001,0,'Millennium',30
+3300,0,'Albert / Bank',33
+3301,0,'Portobello',33
 3400,0,'Albert Bay',34
-3401,0,'Jeanne d''Arc',34
-3500,0,'Albert Bay',35
-3501,0,'Orléans',35
-3700,0,'Albert Bay',37
-3701,0,'Jeanne d''Arc',37
+3401,0,'Renaud',34
 3800,0,'Albert Bay',38
 3801,0,'Jeanne d''Arc',38
-4001,0,'Blossom Park',40
-4000,0,'Gatineau',40
 4100,0,'Hurdman',41
 4101,0,'Walkley',41
-4301,0,'Conroy',43
-4300,0,'Hurdman',43
-6001,0,'Kanata',60
-6000,0,'Mackenzie King',60
-6101,0,'Kanata',61
-6100,0,'Mackenzie King',61
-6201,0,'Kanata',62
-6200,0,'Mackenzie King',62
-6401,0,'Kanata',64
+6301,0,'Innovation',63
+6300,0,'Mackenzie King',63
+6401,0,'Innovation',64
 6400,0,'Mackenzie King',64
-6501,0,'Kanata',65
-6500,0,'Mackenzie King',65
-6601,0,'Kanata',66
-6600,0,'Mackenzie King',66
-6700,0,'Mackenzie King',67
-6701,0,'Pinecrest',67
-6801,0,'Kanata',68
-6800,0,'Mackenzie King',68
-6901,0,'Bells Corners',69
-6900,0,'Mackenzie King',69
-7001,0,'Barrhaven',70
-7000,0,'Mackenzie King',70
-7101,0,'Barrhaven',71
-7100,0,'Mackenzie King',71
-7201,0,'Barrhaven',72
-7200,0,'Mackenzie King',72
-7301,0,'Barrhaven',73
-7300,0,'Mackenzie King',73
-7701,0,'Barrhaven',77
-7700,0,'Mackenzie King',77
 8501,0,'Bayshore',85
 8500,0,'Lees',85
 8601,0,'Baseline  Colonnade',86
@@ -88,8 +50,6 @@
 9100,0,'Orléans',91
 9200,0,'St-Laurent',92
 9201,0,'Stittsville',92
-9301,0,'Kanata N. Innovation',93
-9300,0,'Lincoln Fields',93
 9401,0,'Millennium',94
 9400,0,'Riverview',94
 9501,0,'Barrhaven Centre',95
@@ -102,9 +62,9 @@
 9801,0,'Tunney''s Pasture',98
 9901,0,'Barrhaven Centre',99
 9900,0,'Greenboro',99
-10101,0,'Moodie',101
+10101,0,'Bayshore',101
 10100,0,'St-Laurent',101
-10301,0,'Moodie',103
+10301,0,'Bayshore',103
 10300,0,'Place d''Orléans',103
 10401,0,'Carleton',104
 10400,0,'Place d''Orléans',104
@@ -122,8 +82,6 @@
 11601,0,'Merivale',116
 11800,0,'Hurdman',118
 11801,0,'Kanata',118
-12001,0,'Place d''Orléans',120
-12000,0,'Portobello',120
 12100,0,'Blair',121
 12101,0,'Hurdman',121
 12200,0,'Millennium',122
@@ -137,8 +95,6 @@
 12801,0,'Blair',128
 12900,0,'Carson''s',129
 12901,0,'Hurdman',129
-13001,0,'Blair',130
-13000,0,'Millennium',130
 13101,0,'Chapel Hill',131
 13100,0,'Convent Glen',131
 13200,0,'Place d''Orléans',132
@@ -150,8 +106,6 @@
 13601,0,'Place d''Orléans',136
 13600,0,'Tenth Line',136
 13700,0,'Queenswood Hghts',137
-14001,0,'Hurdman',140
-14000,0,'McCarthy',140
 14400,0,'Leitrim',144
 14401,0,'South Keys',144
 14601,0,'Hurdman',146
@@ -185,7 +139,8 @@
 16400,0,'Hope Side',164
 16401,0,'Terry Fox',164
 16500,0,'Innovation',165
-16501,0,'Terry Fox',165
+16601,0,'Eagleson',166
+16600,0,'Innovation',166
 16701,0,'Blackstone',167
 16700,0,'Terry Fox',167
 16800,0,'Bridlewood',168
@@ -209,8 +164,6 @@
 17800,0,'Lincoln Fields',178
 18000,0,'Bayshore',180
 18001,0,'Haanel',180
-18101,0,'Eagleson',181
-18100,0,'Kanata N.',181
 18200,0,'Kanata',182
 18201,0,'Tunney''s Pasture',182
 18601,0,'Barrhaven Centre',186
@@ -229,22 +182,62 @@
 22101,0,'Cumberland',221
 22200,0,'Albert Bay',222
 22201,0,'Vars',222
+22400,0,'Albert Bay',224
+22401,0,'Beacon Hill',224
 22800,0,'Albert Bay',228
 22801,0,'Navan',228
+23100,0,'Albert Bay',231
+23101,0,'Jeanne d''Arc',231
+23200,0,'Albert Bay',232
+23201,0,'Orléans',232
+23300,0,'Albert / Bay',233
+23301,0,'Orléans',233
+23400,0,'Gatineau',234
+23401,0,'Orléans',234
+23500,0,'Albert Bay',235
+23501,0,'Esprit',235
+23700,0,'Albert Bay',237
+23701,0,'Jeanne d''Arc',237
+25201,0,'Bells Corners',252
+25200,0,'Mackenzie King',252
+25601,0,'Kanata',256
+25600,0,'Mackenzie King',256
 26100,0,'Mackenzie King',261
 26101,0,'Stittsville',261
 26200,0,'Mackenzie King',262
 26201,0,'Stittsville',262
 26300,0,'Mackenzie King',263
 26301,0,'Stittsville',263
+26401,0,'Kanata',264
+26400,0,'Mackenzie King',264
+26501,0,'Kanata',265
+26500,0,'Mackenzie King',265
+26701,0,'Kanata',267
+26700,0,'Mackenzie King',267
+26801,0,'Kanata',268
+26800,0,'Mackenzie King',268
+26901,0,'Kanata',269
+26900,0,'Mackenzie King',269
+27001,0,'Barrhaven',270
+27000,0,'Mackenzie King',270
+27101,0,'Barrhaven',271
+27100,0,'Mackenzie King',271
+27201,0,'Barrhaven',272
+27200,0,'Mackenzie King',272
+27301,0,'Barrhaven',273
+27300,0,'Mackenzie King',273
+27701,0,'Barrhaven',277
+27700,0,'Mackenzie King',277
+28200,0,'Mackenzie King',282
+28201,0,'Pinecrest',282
 28300,0,'Mackenzie King',283
 28301,0,'Richmond',283
-40100,0,'Scotiabank Place',401
-40200,0,'Scotiabank Place',402
-40300,0,'Scotiabank Place',403
-40400,0,'Scotiabank Place',404
-40500,0,'Scotiabank Place',405
-40600,0,'Scotiabank Place',406
+29001,0,'Hurdman',290
+29000,0,'McCarthy',290
+29301,0,'Blossom Park',293
+29300,0,'Gatineau',293
+29801,0,'Conroy',298
+29800,0,'Hurdman',298
 60200,0,'De La Salle',602
 60201,0,'Mackenzie King',602
 61100,0,'Gisèle Lalonde',611
@@ -258,6 +251,8 @@
 61900,0,'Louis Riel',619
 62201,0,'Renaud',622
 62200,0,'Special',622
+63000,0,'Colonel By',630
+63001,0,'Gloucester H.S',630
 63200,0,'Gisèle Lalonde',632
 63201,0,'Orléans',632
 63300,0,'L. B. Pearson',633
@@ -266,12 +261,14 @@
 64001,0,'South Keys',640
 64100,0,'Louis Riel',641
 64101,0,'Orléans',641
-64400,0,'Canterbury H.S',644
+64400,0,'Canterbury',644
 64401,0,'Greenboro',644
 64800,0,'Louis Riel',648
 64801,0,'Orléans',648
 64901,0,'Greenboro',649
 64900,0,'Hillcrest',649
+66000,0,'Bell H.S',660
+66001,0,'Innovation',660
 66100,0,'Bell',661
 66101,0,'Terry Fox',661
 66500,0,'Bell',665
@@ -289,4 +286,4 @@
 69101,0,'Bayshore',691
 69100,0,'Deslauriers',691
 69801,0,'Blohm',698
-69800,0,'Ridgemont & St Pats',698
+69800,0,'St Patrick / Ridgemont',698
