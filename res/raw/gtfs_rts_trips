@@ -238,6 +238,22 @@
 29300,0,'Gatineau',293
 29801,0,'Conroy',298
 29800,0,'Hurdman',298
+30100,0,'Bayshore Carlingwd',301
+30101,0,'Richmond Stittsville',301
+30201,0,'Cumberland',302
+30200,0,'St Laurent Pl Orlns',302
+30300,0,'Carlingwd Bayshore',303
+30301,0,'Dunrobin Stittsville',303
+30400,0,'Billings Brdg S. Keys',304
+30401,0,'Greely Metcalfe',304
+30500,0,'Carlingwood',305
+30501,0,'North Gower',305
+40100,0,'Scotiabank Place',401
+40200,0,'Scotiabank Place',402
+40300,0,'Scotiabank Place',403
+40400,0,'Scotiabank Place',404
+40500,0,'Scotiabank Place',405
+40600,0,'Scotiabank Place',406
 60200,0,'De La Salle',602
 60201,0,'Mackenzie King',602
 61100,0,'Gisèle Lalonde',611
@@ -251,8 +267,8 @@
 61900,0,'Louis Riel',619
 62201,0,'Renaud',622
 62200,0,'Special',622
-63000,0,'Colonel By',630
-63001,0,'Gloucester H.S',630
+63000,0,'Blair / Colonel By / Gloucester',630
+63001,0,'Millennium',630
 63200,0,'Gisèle Lalonde',632
 63201,0,'Orléans',632
 63300,0,'L. B. Pearson',633
