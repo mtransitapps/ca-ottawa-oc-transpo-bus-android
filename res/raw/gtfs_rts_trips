@@ -36,9 +36,9 @@
 3801,0,'Jeanne d''Arc',38
 4100,0,'Hurdman',41
 4101,0,'Walkley',41
-6301,0,'Innovation',63
+6301,0,'Innovation & Briarbrook',63
 6300,0,'Mackenzie King',63
-6401,0,'Innovation',64
+6401,0,'Innovation & Morgan''s Grant',64
 6400,0,'Mackenzie King',64
 8501,0,'Bayshore',85
 8500,0,'Lees',85
@@ -248,12 +248,14 @@
 30401,0,'Greely Metcalfe',304
 30500,0,'Carlingwood',305
 30501,0,'North Gower',305
-40100,0,'Scotiabank Place',401
-40200,0,'Scotiabank Place',402
-40300,0,'Scotiabank Place',403
-40400,0,'Scotiabank Place',404
-40500,0,'Scotiabank Place',405
-40600,0,'Scotiabank Place',406
+40100,0,'Canadian Tire Ctr',401
+40200,0,'Canadian Tire Ctr',402
+40300,0,'Canadian Tire Ctr',403
+40400,0,'Canadian Tire Ctr',404
+40500,0,'Canadian Tire Ctr',405
+40600,0,'Canadian Tire Ctr',406
+50500,0,'Downtown Ctre-ville',505
+50501,0,'Lac Dow Dow''s Lake',505
 60200,0,'De La Salle',602
 60201,0,'Mackenzie King',602
 61100,0,'Gisèle Lalonde',611
