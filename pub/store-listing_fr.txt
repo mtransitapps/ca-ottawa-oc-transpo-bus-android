@@ -5,7 +5,7 @@ Autobus OC Transpo d'Ottawa pour MonTransit.
 Horaire. Mise à jour. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 16 juin 2017 au 24 juin 2017.
+Horaires du 25 juin 2017 au 2 septembre 2017.
 Nouvelles de www.octranspo1.com.
 Tweets de @OC_Transpo et @OCTranspoDirect.
 ----------
