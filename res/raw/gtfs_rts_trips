@@ -80,8 +80,8 @@
 8600,0,'Elmvale',86
 8701,0,'Baseline',87
 8700,0,'Greenboro',87
-8801,0,'Hurdman',88
-8800,0,'Terry Fox',88
+8800,0,'Hurdman',88
+8801,0,'Terry Fox',88
 9101,0,'Baseline',91
 9100,0,'Orléans',91
 9201,0,'Hurdman',92
@@ -149,6 +149,7 @@
 16400,0,'Hope Side',164
 16401,0,'Terry Fox',164
 16500,0,'Innovation',165
+16501,0,'Terry Fox',165
 16601,0,'Eagleson',166
 16600,0,'Kanata N.',166
 16701,0,'Blackstone',167
