@@ -2,8 +2,8 @@
 401,0,'Rideau',4
 500,0,'Billings Bridge',5
 501,0,'Rideau Centre',5
+600,0,'Greenboro',6
 601,0,'Rockcliffe',6
-600,0,'South Keys',6
 700,0,'Carleton',7
 701,0,'St-Laurent',7
 901,0,'Hurdman',9
@@ -85,8 +85,8 @@
 8600,0,'Elmvale',86
 8701,0,'Baseline',87
 8700,0,'South Keys',87
-8801,0,'Hurdman',88
-8800,0,'Terry Fox',88
+8800,0,'Hurdman',88
+8801,0,'Terry Fox',88
 9101,0,'Baseline',91
 9100,0,'Orléans',91
 9201,0,'Hurdman',92
@@ -267,7 +267,7 @@
 64801,0,'Orléans',648
 64901,0,'Greenboro',649
 64900,0,'Hilcrest',649
-66000,0,'Bell High School',660
+66000,0,'Bell H.S',660
 66001,0,'Innovation',660
 66100,0,'Bell',661
 66101,0,'Terry Fox',661
@@ -286,4 +286,4 @@
 69101,0,'Bayshore',691
 69100,0,'Deslauriers',691
 69801,0,'Blohm',698
-69800,0,'St. Patrick''s High School',698
+69800,0,'St. Patrick H.S',698
