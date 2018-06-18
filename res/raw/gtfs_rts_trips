@@ -16,9 +16,9 @@
 1400,0,'St-Laurent',14
 1601,0,'Britannia',16
 1600,0,'Main',16
-1700,0,'Rideau',17
+1700,0,'Parliament',17
 1701,0,'Wateridge',17
-1801,0,'Rideau',18
+1801,0,'Parliament',18
 1800,0,'St-Laurent',18
 1900,0,'Bank',19
 1901,0,'St-Laurent',19
@@ -94,6 +94,8 @@
 8700,0,'Greenboro',87
 8800,0,'Hurdman',88
 8801,0,'Terry Fox',88
+8901,0,'Colonnade',89
+8900,0,'Tunney''s Pasture',89
 9101,0,'Baseline',91
 9100,0,'Orléans',91
 9200,0,'Greenboro',92
@@ -122,8 +124,6 @@
 10501,0,'Tunney''s Pasture',105
 10601,0,'Hurdman',106
 10600,0,'St-Laurent',106
-10700,0,'Bayview',107
-10701,0,'South Keys',107
 11101,0,'Baseline',111
 11100,0,'Billings Bridge',111
 11201,0,'Billings Bridge',112
@@ -138,6 +138,10 @@
 13400,0,'Renaud',134
 13500,0,'Esprit',135
 13501,0,'Place d''Orléans',135
+13901,0,'Place d''Orléans',139
+13900,0,'Île Petrie Island',139
+15101,0,'Carlingwood',151
+15100,0,'Tunney''s Pasture',151
 15201,0,'Lincoln Fields',152
 15200,0,'Moodie',152
 15300,0,'Carlingwood',153
@@ -155,6 +159,7 @@
 16400,0,'Hope Side',164
 16401,0,'Terry Fox',164
 16500,0,'Innovation',165
+16501,0,'Terry Fox',165
 16601,0,'Eagleson',166
 16600,0,'Innovation',166
 16701,0,'Blackstone',167
@@ -175,8 +180,9 @@
 17600,0,'Manotick',176
 17900,0,'CitiGate',179
 17901,0,'Fallowfield',179
+18500,0,'Experimental Farm Ferme Expérimentale',185
 18600,0,'Lincoln Fields',186
-18601,0,'Merivale',186
+18601,0,'Merivale / Slack',186
 18701,0,'Amberwood',187
 18700,0,'Baseline',187
 19700,0,'Uplands Greenboro',197
