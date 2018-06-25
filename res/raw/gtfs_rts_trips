@@ -41,8 +41,8 @@
 3100,0,'Place d''Orléans',31
 3200,0,'Place d''Orléans',32
 3201,0,'Sunview',32
+3301,0,'Orléans',33
 3300,0,'Place D''Orléans',33
-3301,0,'Portobello',33
 3400,0,'Albert Bay',34
 3401,0,'Renaud',34
 3700,0,'Queenswood Heights',37
@@ -88,7 +88,7 @@
 8400,0,'Centrepointe - Baseline',84
 8501,0,'Bayshore',85
 8500,0,'Lees',85
-8601,0,'Baseline  Colonnade',86
+8601,0,'Baseline',86
 8600,0,'Elmvale',86
 8701,0,'Baseline',87
 8700,0,'Greenboro',87
@@ -276,55 +276,3 @@
 40400,0,'Canadian Tire Centre',404
 40500,0,'Canadian Tire Centre',405
 40600,0,'Canadian Tire Centre',406
-60200,0,'De La Salle',602
-60201,0,'Mackenzie King',602
-61100,0,'Gisèle Lalonde',611
-61101,0,'Orléans',611
-61201,0,'Orléans',612
-61200,0,'Special',612
-61300,0,'Hurdman',613
-61800,0,'Louis Riel',618
-61801,0,'Millennium',618
-61901,0,'Blair',619
-61900,0,'Louis Riel',619
-62201,0,'Renaud',622
-62200,0,'Special',622
-63000,0,'Blair / Colonel By / Gloucester HS',630
-63001,0,'Millennium',630
-63200,0,'Gisèle Lalonde',632
-63201,0,'Orléans',632
-63300,0,'L. B. Pearson',633
-63301,0,'St Laurent',633
-63400,0,'Mer bleue',634
-63401,0,'Place d''Orléans',634
-63601,0,'Place d''Orléans',636
-64000,0,'Brookfield',640
-64001,0,'South Keys',640
-64100,0,'Louis Riel',641
-64101,0,'Orléans',641
-64400,0,'Canterbury',644
-64401,0,'Greenboro',644
-64800,0,'Louis Riel',648
-64801,0,'Orléans',648
-64901,0,'Greenboro',649
-64900,0,'Hillcrest H.S',649
-66000,0,'Bell H.S',660
-66001,0,'Innovation',660
-66100,0,'Bell H.S',661
-66101,0,'Terry Fox',661
-66500,0,'Bell H.S',665
-66501,0,'Kanata',665
-66901,0,'Bayshore',669
-66900,0,'Bell H.S',669
-67001,0,'Nepean S.',670
-67000,0,'St. Pius',670
-67400,0,'All Saints',674
-67401,0,'Kanata',674
-67800,0,'Louis Riel',678
-67801,0,'Orléans',678
-68100,0,'Bell HS',681
-68101,0,'Kanata',681
-69101,0,'Bayshore',691
-69100,0,'Deslauriers',691
-69801,0,'Blohm',698
-69800,0,'St Patrick H.S',698
