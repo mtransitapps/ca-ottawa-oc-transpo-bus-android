@@ -41,8 +41,8 @@
 3100,0,'Place d''Orléans',31
 3200,0,'Place d''Orléans',32
 3201,0,'Sunview',32
-3301,0,'Orléans',33
 3300,0,'Place D''Orléans',33
+3301,0,'Portobello',33
 3400,0,'Albert Bay',34
 3401,0,'Renaud',34
 3700,0,'Queenswood Heights',37
@@ -270,9 +270,3 @@
 30401,0,'Greely Metcalfe',304
 30500,0,'Carlingwood',305
 30501,0,'North Gower',305
-40100,0,'Canadian Tire Centre',401
-40200,0,'Canadian Tire Centre',402
-40300,0,'Canadian Tire Centre',403
-40400,0,'Canadian Tire Centre',404
-40500,0,'Canadian Tire Centre',405
-40600,0,'Canadian Tire Centre',406
