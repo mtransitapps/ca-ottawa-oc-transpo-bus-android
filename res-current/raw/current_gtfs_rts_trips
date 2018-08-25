@@ -8,6 +8,8 @@
 701,0,'St-Laurent',7
 901,0,'Hurdman',9
 900,0,'Rideau',9
+1000,0,'Carleton',10
+1001,0,'Rideau',10
 1101,0,'Bayshore',11
 1100,0,'Rideau',11
 1200,0,'Blair',12
@@ -22,6 +24,8 @@
 1800,0,'St-Laurent',18
 1900,0,'Bank',19
 1901,0,'St-Laurent',19
+2001,0,'St-Laurent',20
+2000,0,'Vanier',20
 2101,0,'Blair',21
 2100,0,'Canotek',21
 2200,0,'Albert Bay',22
@@ -124,8 +128,6 @@
 10501,0,'Tunney''s Pasture',105
 10601,0,'Hurdman',106
 10600,0,'St-Laurent',106
-10700,0,'Bayview',107
-10701,0,'South Keys',107
 11101,0,'Baseline',111
 11100,0,'Billings Bridge',111
 11201,0,'Billings Bridge',112
@@ -140,6 +142,8 @@
 13400,0,'Renaud',134
 13500,0,'Esprit',135
 13501,0,'Place d''Orléans',135
+13801,0,'Place d''Orléans',138
+13800,0,'St-Louis',138
 13901,0,'Place d''Orléans',139
 13900,0,'Île Petrie Island',139
 15101,0,'Carlingwood',151
@@ -272,9 +276,82 @@
 30401,0,'Greely Metcalfe',304
 30500,0,'Carlingwood',305
 30501,0,'North Gower',305
+40100,0,'Canadian Tire Centre',401
+40200,0,'Canadian Tire Centre',402
+40300,0,'Canadian Tire Centre',403
+40400,0,'Canadian Tire Centre',404
+40500,0,'Canadian Tire Centre',405
+40600,0,'Canadian Tire Centre',406
 45000,0,'Lansdowne',450
 45100,0,'Lansdowne',451
 45200,0,'Lansdowne',452
 45400,0,'Lansdowne',454
 45500,0,'Lansdowne',455
 45600,0,'Lansdowne',456
+60200,0,'De La Salle',602
+60201,0,'Mackenzie King',602
+61100,0,'Gisèle Lalonde',611
+61101,0,'Orléans',611
+61201,0,'Orléans',612
+61200,0,'Special',612
+61300,0,'Hurdman',613
+61800,0,'Louis Riel',618
+61801,0,'Millennium',618
+61901,0,'Blair',619
+61900,0,'Louis Riel',619
+62201,0,'Renaud',622
+62200,0,'Special',622
+62400,0,'Gloucester H.S',624
+62401,0,'Rideau',624
+63000,0,'Blair / Colonel By / Gloucester HS',630
+63001,0,'Millennium',630
+63101,0,'Chapel Hill',631
+63100,0,'Colonel By / Gloucester HS',631
+63200,0,'Gisèle Lalonde',632
+63201,0,'Orléans',632
+63300,0,'L. B. Pearson',633
+63301,0,'St Laurent',633
+63400,0,'Mer bleue',634
+63401,0,'Place d''Orléans',634
+63500,0,'Cairine Wilson H.S',635
+63501,0,'Orleans',635
+63601,0,'Place d''Orléans',636
+63801,0,'Orléans',638
+64000,0,'Brookfield',640
+64001,0,'South Keys',640
+64100,0,'Louis Riel',641
+64101,0,'Orléans',641
+64400,0,'Canterbury',644
+64401,0,'Greenboro',644
+64500,0,'Hurdman',645
+64800,0,'Louis Riel',648
+64801,0,'Orléans',648
+64901,0,'Greenboro',649
+64900,0,'Hillcrest H.S',649
+65801,0,'Bell H.S',658
+65800,0,'Grandview',658
+66000,0,'Bell H.S',660
+66001,0,'Innovation',660
+66100,0,'Bell H.S',661
+66101,0,'Terry Fox',661
+66500,0,'Bell H.S',665
+66501,0,'Kanata',665
+66901,0,'Bayshore',669
+66900,0,'Bell H.S',669
+67001,0,'Nepean S.',670
+67000,0,'St. Pius',670
+67400,0,'All Saints',674
+67401,0,'Kanata',674
+67800,0,'Louis Riel',678
+67801,0,'Orléans',678
+68100,0,'Bell HS',681
+68101,0,'Kanata',681
+68601,0,'Baseline',686
+68900,0,'Billings Bridge',689
+68901,0,'Omer-Deslaurier H.S',689
+69101,0,'Bayshore',691
+69100,0,'Omer-Deslaurier H.S',691
+69601,0,'Greenboro',696
+69600,0,'Omer-Deslaurier H.S',696
+69801,0,'Blohm',698
+69800,0,'St Patrick H.S',698
