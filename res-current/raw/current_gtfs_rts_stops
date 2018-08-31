@@ -134,6 +134,7 @@
 526,'0526','Pkwy / Earl Of March H.S.',45.324115,-75.894758
 531,'0531','Charlemagne / St Peters H.S.',45.475826,-75.478267
 540,'0540','Canterbury / Canterbury H.S.',45.388609,-75.625336
+547,'0547','Provence / Innes',45.468409,-75.460049
 549,'0549','Kender / Ogilvie',45.456029,-75.599042
 550,'0550','Ogilvie / Kender',45.45583,-75.59893
 570,'0570','Palladium / Cyclone Taylor',45.296832,-75.921008
@@ -376,7 +377,7 @@
 940,'0940','Northside / Thorncliff',45.329308,-75.815135
 941,'0941','Baseline / Vly Stream',45.333257,-75.80608
 943,'0943','Baseline / Sioux',45.334524,-75.802936
-944,'0944','Westcliffe / Oberon',45.317572,-75.840952
+944,'0944','Westcliffe / Oberon',45.317693,-75.841074
 945,'0945','Baseline / Sioux',45.334386,-75.803668
 946,'0946','Baseline / Q.C.H.',45.333395,-75.806436
 947,'0947','Queensway Carleton / Emergency',45.335092,-75.805918
@@ -3705,13 +3706,13 @@
 6267,'6267','Perth / Cockburn',45.196461,-75.835402
 6268,'6268','Shea / Perth',45.200897,-75.829177
 6269,'6269','Fortune / Hamilton',45.189377,-75.842917
-6270,'6270','Fortune / Martin',45.187842,-75.841013
-6271,'6271','Fortune / Royal York St West',45.185153,-75.83757
+6270,'6270','Fortune / Martin',45.187805,-75.841018
+6271,'6271','Fortune / Royal York St West',45.185143,-75.837606
 6272,'6272','Fortune / Hamliton',45.18983,-75.843421
-6273,'6273','Fortune / Martin',45.188325,-75.841478
-6274,'6274','Royal York St West / Fortune',45.185313,-75.837313
-6275,'6275','Royal York St West / Fowler',45.186837,-75.834789
-6276,'6276','Royal York St West / Fowler',45.186696,-75.835198
+6273,'6273','Fortune / Martin',45.188347,-75.841446
+6274,'6274','Royal York St West / Fortune',45.185335,-75.837346
+6275,'6275','Royal York St West / Fowler',45.18683,-75.834791
+6276,'6276','Royal York St West / Fowler',45.186709,-75.835241
 6277,'6277','Strachan / Lennox',45.188626,-75.83599
 6278,'6278','Mcbean / Strachan',45.189956,-75.833871
 6279,'6279','Strachan / Mcbean',45.18992,-75.834078
@@ -5627,6 +5628,5 @@
 600557,'','Holly Acres / Ramp',45.343602,-75.81139
 700367,'','Richardson / All Saints H.S.',45.323124,-75.924146
 900010,'','Canadian Tire Ctr',45.29888,-75.926601
-1200028,'','Off Stop For Riverside',45.397015,-75.669314
 2100777,'','C.C Mer Bleue',45.435137,-75.505614
 2200160,'','Laurier / Cumberland',45.424736,-75.684647
