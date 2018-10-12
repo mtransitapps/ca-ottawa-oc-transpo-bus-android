@@ -144,8 +144,8 @@
 15100,0,'Tunney''s Pasture',151
 15201,0,'Lincoln Fields',152
 15200,0,'Moodie',152
-15300,0,'Carlingwood',153
-15301,0,'Lincoln Fields',153
+15301,0,'Bayshore',153
+15300,0,'Tunney''s Pasture',153
 15401,0,'Lincoln Fields',154
 15400,0,'Queensway Terrace',154
 15501,0,'Bayshore',155
@@ -287,8 +287,8 @@
 61901,0,'Blair',619
 61900,0,'Louis Riel',619
 62000,0,'St-Laurent',620
+62200,0,'Colonel By / Gloucester',622
 62201,0,'Renaud',622
-62200,0,'Special',622
 62400,0,'Gloucester H.S',624
 62401,0,'Rideau',624
 63000,0,'Blair / Colonel By / Gloucester HS',630
