@@ -536,7 +536,7 @@
 1112,'1112','Goulbourn Forced / Badgeley',45.324101,-75.92869
 1113,'1113','Longfields / Kilspindie',45.249987,-75.717509
 1114,'1114','Corlyn / Huntley',45.229578,-75.898972
-1115,'1115','Earl Armstrong / Riverview P&r',45.268978,-75.697369
+1115,'1115','Earl Armstrong / Riverview P&r',45.270228,-75.693908
 1116,'1116','Longfields / Mountshannon',45.285469,-75.741671
 1117,'1117','Leikin / Crestway',45.286133,-75.70823
 1118,'1118','Leikin / Crestway',45.286376,-75.708201
@@ -691,7 +691,7 @@
 1280,'1280','Mountshannon / Earl Mulligan',45.292568,-75.734748
 1281,'1281','Mountshannon / St Luke School',45.29022,-75.734767
 1282,'1282','Mountshannon / Woodford',45.291171,-75.734321
-1283,'1283','Mountshannon / Longfields',45.288777,-75.734251
+1283,'1283','Mountshannon / Longfields',45.288744,-75.734295
 1284,'1284','Weslock / Zokol',45.328291,-75.913901
 1285,'1285','Weslock / Zokol',45.327271,-75.913299
 1286,'1286','Weslock / Walden',45.329738,-75.915213
@@ -745,7 +745,7 @@
 1342,'1342','Heron At Mooney''s Bay Stn.',45.377167,-75.685497
 1343,'1343','Fallowfield / Fallowfield Sta',45.297194,-75.73475
 1344,'1344','Fallowfield / Fallowfield Sta',45.297395,-75.733867
-1346,'1346','Oriska / Sutcliffe',45.293712,-75.740291
+1346,'1346','Oriska / Sutcliffe',45.293633,-75.740003
 1347,'1347','Johnwoods / Hazeldean',45.277899,-75.922393
 1352,'1352','Bank / Conroy',45.336228,-75.602712
 1353,'1353','Featherston / Connecticut',45.383403,-75.63899
@@ -775,7 +775,7 @@
 1384,'1384','Campeau / Huntmar',45.300492,-75.935118
 1385,'1385','Fitzgerald / Ad. 16',45.324986,-75.836031
 1386,'1386','Campeau / Huntmar',45.300311,-75.934636
-1389,'1389','Earl Armstrong / Wild Shr Pathway',45.269674,-75.695525
+1389,'1389','Earl Armstrong / Wild Shr Pathway',45.270098,-75.694547
 1391,'1391','Baseline / Cedarview',45.333234,-75.809691
 1392,'1392','Rolland / Neighbourhood Way',45.409455,-75.653453
 1393,'1393','Cassidy / Bruin',45.326349,-75.808014
@@ -2095,7 +2095,7 @@
 3037,'3037','Greenboro 1a',45.360092,-75.658796
 3038,'3038','South Keys 1b',45.353851,-75.65545
 3039,'3039','Airport Stop',45.322241,-75.665876
-3040,'3040','Riverview 1a',45.268855,-75.697842
+3040,'3040','Riverview 1a',45.268521,-75.695029
 3041,'3041','Leitrim 1a',45.314277,-75.630919
 3042,'3042','Moodie B',45.341032,-75.836466
 3043,'3043','Fallowfield 1a',45.299762,-75.735263
@@ -2106,8 +2106,8 @@
 3048,'3048','Nepean Woods 2a',45.274449,-75.717169
 3049,'3049','Beatrice 2a',45.271504,-75.726825
 3050,'3050','Bayshore 1a',45.345512,-75.809559
-3051,'3051','Queen / Lyon',45.418736,-75.705047
-3052,'3052','Queen / O''connor',45.421361,-75.698927
+3051,'3051','Lyon B',45.418736,-75.705047
+3052,'3052','Parliament/Parlement A',45.421361,-75.698927
 3055,'3055','Eagleson 3a',45.317824,-75.884481
 3057,'3057','Innovation A',45.343064,-75.932125
 3058,'3058','Terry Fox 3c',45.309285,-75.906975
@@ -2315,7 +2315,7 @@
 3638,'3638','Hawthorne/ Ad. 3101',45.386401,-75.604018
 3641,'3641','Coronation / Neighbourhood',45.410293,-75.652418
 3643,'3643','Orchardview / Gardenway',45.466092,-75.477534
-3644,'3644','Carling / Melrose',45.392466,-75.719071
+3644,'3644','Carling / Melrose South',45.392466,-75.719071
 3645,'3645','Chesterton / Mulvagh',45.352567,-75.728733
 3653,'3653','Ogilvie / Kender',45.45593,-75.599069
 3655,'3655','Carrière / Orléans',45.46566,-75.527032
@@ -2564,7 +2564,6 @@
 4201,'4201','Tylee / Curtis',45.336722,-75.668687
 4202,'4202','Tylee / De Niverville',45.336351,-75.66956
 4203,'4203','Mcgill / Ad. 64',45.333079,-75.671253
-4205,'4205','Croil / Paul Benoit',45.33103,-75.674141
 4206,'4206','Woodward / Maitland',45.368703,-75.752948
 4213,'4213','Uplands / Research',45.331163,-75.657847
 4214,'4214','Research / 2nd',45.32697,-75.664097
@@ -2901,8 +2900,8 @@
 4647,'4647','Earl Armstrong / Sandy Forest Pathway',45.27599,-75.680208
 4648,'4648','Earl Armstrong / Canyon Walk',45.277688,-75.676998
 4649,'4649','Earl Armstrong / Portico',45.277652,-75.676322
-4650,'4650','Earl Armstrong / Pathway',45.278801,-75.673808
-4651,'4651','Earl Armstrong / Limebank',45.278645,-75.673048
+4650,'4650','Earl Armstrong / Eye Bright Pathway',45.279076,-75.672811
+4651,'4651','Earl Armstrong / Eye Bright Pathway',45.278763,-75.672582
 4652,'4652','Ralph Hennessey / Cambie',45.271793,-75.68074
 4653,'4653','Cambie / Ralph Hennessey',45.271499,-75.680583
 4655,'4655','Earl Armstrong / Ralph Hennessey',45.274651,-75.68342
@@ -3851,7 +3850,7 @@
 6531,'6531','Maisonneuve / Papineau',45.429797,-75.713457
 6532,'6532','Maisonneuve / Allumettières',45.431864,-75.713084
 6533,'6533','Allumettières / Laurier',45.43233,-75.710163
-6534,'6534','Laurier / Maisonneuve',45.424821,-75.715005
+6534,'6534','Laurier / Maisonneuve',45.424857,-75.716078
 6537,'6537','Stittsville Main / Flewellyn',45.235306,-75.906782
 6538,'6538','Huntley Rd / Corlyn',45.229518,-75.899596
 6539,'6539','Stittsville Main / Flewellyn',45.235776,-75.907071
@@ -3876,7 +3875,7 @@
 6560,'6560','Springbrook / Hazeldean',45.273925,-75.925268
 6570,'6570','Kimini / Fallowfield',45.226141,-75.892233
 6571,'6571','Longfields / Woodroffe',45.290504,-75.729402
-6573,'6573','Longfields / Woodroffe',45.290374,-75.729363
+6573,'6573','Longfields / Woodroffe',45.290327,-75.729447
 6574,'6574','Oriska / Sutcliffe',45.293404,-75.7399
 6575,'6575','Longfields / Strandherd',45.273315,-75.738091
 6576,'6576','Chapman Mills / Woodroffe',45.274094,-75.718757
@@ -4459,7 +4458,7 @@
 7361,'7361','Parkdale / Carling',45.391136,-75.723483
 7362,'7362','Holland / Kenilworth',45.394112,-75.728398
 7363,'7363','Holland / Ruskin',45.392323,-75.727387
-7365,'7365','Carling / Melrose',45.392735,-75.719106
+7365,'7365','Carling / Melrose South',45.392735,-75.719106
 7367,'7367','Carling / Sherwood',45.395437,-75.712887
 7368,'7368','Carling / Sherwood',45.39544,-75.712018
 7369,'7369','Carling / O-Train Sta',45.396565,-75.709448
@@ -4479,9 +4478,9 @@
 7385,'7385','Lanark / Champlain',45.398647,-75.752783
 7386,'7386','Ellendale / Clearview',45.399562,-75.75097
 7387,'7387','Clearview / Isl Pk',45.401514,-75.749463
-7388,'7388','Clearview / Patricia',45.402786,-75.748501
+7388,'7388','Clearview / Patricia North',45.402786,-75.748501
 7389,'7389','Clearview / Isl Pk',45.401938,-75.749649
-7390,'7390','Clearview / Patricia',45.402815,-75.748807
+7390,'7390','Clearview / Patricia North',45.402815,-75.748807
 7391,'7391','Clearview / Carleton',45.403977,-75.744998
 7392,'7392','Northwestern / Amanda',45.401598,-75.741746
 7393,'7393','Keyworth / Amanda',45.39999,-75.744795
