@@ -142,8 +142,8 @@
 13800,0,'St-Louis',138
 15201,0,'Lincoln Fields',152
 15200,0,'Moodie',152
-15301,0,'Bayshore',153
-15300,0,'Tunney''s Pasture',153
+15300,0,'Carlingwood',153
+15301,0,'Lincoln Fields',153
 15401,0,'Lincoln Fields',154
 15400,0,'Queensway Terrace',154
 15501,0,'Bayshore',155
@@ -239,6 +239,8 @@
 27200,0,'Mackenzie King',272
 27300,0,'Mackenzie King',273
 27301,0,'Tartan',273
+27501,0,'Cambrian',275
+27500,0,'Mackenzie King',275
 27700,0,'Mackenzie King',277
 27701,0,'Nepean Woods',277
 27800,0,'Mackenzie King',278
@@ -257,7 +259,7 @@
 29400,0,'Hurdman',294
 29900,0,'LeBreton',299
 29901,0,'Manotick',299
-30100,0,'Bayshore Carlingwd',301
+30100,0,'Bayshore Carlingwood',301
 30101,0,'Richmond Stittsville',301
 30201,0,'Cumberland',302
 30200,0,'St Laurent Pl Orlns',302
@@ -275,6 +277,8 @@
 40600,0,'Canadian Tire Centre',406
 60200,0,'De La Salle',602
 60201,0,'Mackenzie King',602
+60900,0,'De La Salle H.S',609
+60901,0,'Hurdman',609
 61100,0,'Gisèle Lalonde',611
 61101,0,'Orléans',611
 61201,0,'Orléans',612
