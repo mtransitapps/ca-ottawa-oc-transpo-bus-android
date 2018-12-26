@@ -48,7 +48,7 @@
 3400,0,'Albert Bay',34
 3401,0,'Renaud',34
 3700,0,'Queenswood Heights',37
-3800,0,'Albert / Bay',38
+3800,0,'Blair',38
 3801,0,'Place d''Orléans',38
 4001,0,'Greenboro',40
 4000,0,'St-Laurent',40
@@ -288,9 +288,9 @@
 61801,0,'Millennium',618
 61901,0,'Blair',619
 61900,0,'Louis Riel',619
-62000,0,'St-Laurent',620
-62200,0,'Colonel By / Gloucester',622
+62000,0,'St- Laurent',620
 62201,0,'Renaud',622
+62200,0,'Special',622
 62400,0,'Gloucester H.S',624
 62401,0,'Rideau',624
 63000,0,'Blair / Colonel By / Gloucester HS',630
