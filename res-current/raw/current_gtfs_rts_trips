@@ -48,8 +48,8 @@
 3400,0,'Albert / Bay',34
 3401,0,'Renaud',34
 3700,0,'Queenswood Heights',37
+3801,0,' Jeanne D''Arc / Trim',38
 3800,0,'Blair',38
-3801,0,'Place d''Orléans',38
 4001,0,'Greenboro',40
 4000,0,'St-Laurent',40
 4200,0,'Blair',42
@@ -215,6 +215,8 @@
 25200,0,'Mackenzie King',252
 25601,0,'Bridlewood',256
 25600,0,'Mackenzie King',256
+25701,0,'Bridlewood',257
+25700,0,'Mackenzie King',257
 26100,0,'Mackenzie King',261
 26101,0,'Stittsville Main',261
 26200,0,'Mackenzie King',262
@@ -269,12 +271,6 @@
 30401,0,'Greely Metcalfe',304
 30500,0,'Carlingwood',305
 30501,0,'North Gower',305
-40100,0,'Canadian Tire Centre',401
-40200,0,'Canadian Tire Centre',402
-40300,0,'Canadian Tire Centre',403
-40400,0,'Canadian Tire Centre',404
-40500,0,'Canadian Tire Centre',405
-40600,0,'Canadian Tire Centre',406
 60200,0,'De La Salle',602
 60201,0,'Mackenzie King',602
 60900,0,'De La Salle H.S',609
