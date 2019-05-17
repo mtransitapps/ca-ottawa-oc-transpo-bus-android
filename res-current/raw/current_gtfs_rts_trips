@@ -45,7 +45,7 @@
 3201,0,'Sunview',32
 3300,0,'Place D''Orléans',33
 3301,0,'Portobello',33
-3400,0,'Albert / Bay',34
+3400,0,'Albert Bay',34
 3401,0,'Renaud',34
 3700,0,'Queenswood Heights',37
 3801,0,' Jeanne D''Arc / Trim',38
@@ -231,8 +231,6 @@
 26700,0,'Mackenzie King',267
 26801,0,'Kanata Lakes',268
 26800,0,'Mackenzie King',268
-26901,0,'Bridlewood',269
-26900,0,'Mackenzie King',269
 27001,0,'Cedarview',270
 27000,0,'Mackenzie King',270
 27100,0,'Mackenzie King',271
@@ -271,6 +269,8 @@
 30401,0,'Greely Metcalfe',304
 30500,0,'Carlingwood',305
 30501,0,'North Gower',305
+40300,0,'Canadian Tire Centre',403
+40400,0,'Canadian Tire Centre',404
 60200,0,'De La Salle',602
 60201,0,'Mackenzie King',602
 60900,0,'De La Salle H.S',609
