@@ -204,7 +204,7 @@
 23300,0,'Albert / Bay',233
 23301,0,'Portobello',233
 23400,0,'Gatineau',234
-23401,0,'Tenth line',234
+23401,0,'Tenth Line',234
 23500,0,'Albert / Bay',235
 23501,0,'Gardenway',235
 23600,0,'Albert / Bay',236
@@ -271,6 +271,12 @@
 30501,0,'North Gower',305
 40300,0,'Canadian Tire Centre',403
 40400,0,'Canadian Tire Centre',404
+45000,0,'Lansdowne',450
+45100,0,'Lansdowne',451
+45200,0,'Lansdowne',452
+45400,0,'Lansdowne',454
+45500,0,'Lansdowne',455
+45600,0,'Lansdowne',456
 60200,0,'De La Salle',602
 60201,0,'Mackenzie King',602
 60900,0,'De La Salle H.S',609
