@@ -48,8 +48,8 @@
 3400,0,'Albert Bay',34
 3401,0,'Renaud',34
 3700,0,'Queenswood Heights',37
-3801,0,' Jeanne D''Arc / Trim',38
 3800,0,'Blair',38
+3801,0,'Jeanne d''Arc',38
 4001,0,'Greenboro',40
 4000,0,'St-Laurent',40
 4200,0,'Blair',42
@@ -140,6 +140,8 @@
 13501,0,'Place d''Orléans',135
 13801,0,'Place d''Orléans',138
 13800,0,'St-Louis',138
+13901,0,'Place d''Orléans',139
+13900,0,'Île Petrie Island',139
 15201,0,'Lincoln Fields',152
 15200,0,'Moodie',152
 15301,0,'Bayshore',153
@@ -178,6 +180,7 @@
 17600,0,'Manotick',176
 17900,0,'CitiGate',179
 17901,0,'Fallowfield',179
+18500,0,'Experimental Farm Ferme Expérimentale',185
 18600,0,'Lincoln Fields',186
 18601,0,'Merivale / Slack',186
 18701,0,'Amberwood',187
