@@ -262,7 +262,7 @@
 29400,0,'Hurdman',294
 29900,0,'LeBreton',299
 29901,0,'Manotick',299
-30100,0,'Bayshore Carlingwd',301
+30100,0,'Bayshore Carlingwood',301
 30101,0,'Richmond Stittsville',301
 30201,0,'Cumberland',302
 30200,0,'St Laurent Pl Orlns',302
@@ -278,11 +278,5 @@
 40400,0,'Canadian Tire Centre',404
 40500,0,'Canadian Tire Centre',405
 40600,0,'Canadian Tire Centre',406
-45000,0,'Lansdowne',450
-45100,0,'Lansdowne',451
-45200,0,'Lansdowne',452
-45400,0,'Lansdowne',454
-45500,0,'Lansdowne',455
-45600,0,'Lansdowne',456
 70200,0,'Bayview',702
-70201,0,'South Keys',702
+70201,0,'Carling',702
