@@ -58,7 +58,7 @@
 3800,0,'Blair',38
 3801,0,'Jeanne D''Arc / Trim',38
 3900,0,'Blair',39
-3901,0,'Millennium',39
+3901,0,'N Millennium',39
 4001,0,'Greenboro',40
 4000,0,'St-Laurent',40
 4200,0,'Blair',42
@@ -86,25 +86,25 @@
 5500,0,'Elmvale',55
 5600,0,'King Edward',56
 5601,0,'Tunney''s Pasture',56
-5701,0,'Bells Corners',57
+5701,0,'N Bayshore',57
 5700,0,'Tunney''s Pasture',57
 5800,0,'Moodie',58
 5801,0,'Tunney''s Pasture',58
 6100,0,'St-Laurent',61
-6101,0,'Stittsville',61
+6101,0,'Terry Fox',61
 6200,0,'St-Laurent',62
 6201,0,'Stittsville',62
 6300,0,'Briarbrook Via Innovation',63
 6301,0,'Tunney''s Pasture Via Briarbrook',63
 6400,0,'Morgan''s Grant Via Innovation',64
 6401,0,'Tunney''s Pasture Via Morgan''s Grant',64
-6601,0,'Gatineau',66
 6600,0,'Kanata',66
+6601,0,'Tunney''s Pasture',66
 7300,0,'Leikin',73
 7301,0,'Tunney''s Pasture',73
 7400,0,'Riverview',74
 7401,0,'Tunney''s Pasture',74
-7501,0,'Barrhaven Centre',75
+7501,0,'N Barrhaven Centre',75
 7500,0,'Tunney''s Pasture',75
 8000,0,'Barrhaven Centre',80
 8001,0,'Tunney''s Pasture',80
@@ -172,8 +172,6 @@
 13501,0,'Place D''Orléans',135
 13800,0,'Innes',138
 13801,0,'Place D''Orléans',138
-13901,0,'Place D''Orléans',139
-13900,0,'Île Petrie Island',139
 14001,0,'Billings Bridge',140
 14000,0,'Heron Park',140
 14100,0,'Kaladar',141
@@ -215,13 +213,12 @@
 17600,0,'Manotick',176
 17900,0,'CitiGate',179
 17901,0,'Fallowfield',179
-18500,0,'Experimental Farm Ferme Expérimentale',185
 18600,0,'Lincoln Fields',186
 18601,0,'Merivale / Slack',186
 18701,0,'Amberwood',187
 18700,0,'Baseline',187
-19000,0,'Hurdman',190
-19001,0,'Mooney''s Bay',190
+19001,0,'Hurdman',190
+19000,0,'Mooney''s Bay',190
 19700,0,'Uplands Greenboro',197
 19801,0,'Greenboro',198
 19800,0,'Riverview',198
@@ -317,6 +314,12 @@
 30401,0,'Greely Metcalfe',304
 30500,0,'Carlingwood',305
 30501,0,'North Gower',305
+40100,0,'Canadian Tire Centre',401
+40200,0,'Canadian Tire Centre',402
+40300,0,'Canadian Tire Centre',403
+40400,0,'Canadian Tire Centre',404
+40500,0,'Canadian Tire Centre',405
+40600,0,'Canadian Tire Centre',406
 45000,0,'Lansdowne',450
 45100,0,'Lansdowne',451
 45200,0,'Lansdowne',452
