@@ -35,8 +35,8 @@
 2501,0,'Millennium',25
 2601,0,'Blair',26
 2600,0,'Pineview',26
-2703,0,'St-Laurent',27
-2704,0,'Wateridge',27
+2701,0,'St-Laurent',27
+2700,0,'Wateridge',27
 2800,0,'Blackburn Hamlet',28
 2801,0,'Blair',28
 3000,0,'Blair',30
@@ -92,9 +92,9 @@
 6100,0,'Tunney''s Pasture',61
 6201,0,'Stittsville',62
 6200,0,'Tunney''s Pasture',62
-6300,0,'Briarbrook Via Innovation',63
+6300,0,'Briarbrook',63
 6301,0,'Tunney''s Pasture',63
-6400,0,'Morgan''s Grant Via Innovation',64
+6400,0,'Morgan''s Grant',64
 6401,0,'Tunney''s Pasture',64
 6600,0,'Kanata-Solandt',66
 6601,0,'Tunney''s Pasture',66
@@ -112,7 +112,7 @@
 8200,0,'Lincoln Fields & Tunney''s Pasture',82
 8300,0,'Tunney''s Pasture',83
 8301,0,'Viewmount',83
-8402,0,'Centrepointe',84
+8400,0,'Centrepointe',84
 8401,0,'Tunney''s Pasture',84
 8501,0,'Bayshore',85
 8500,0,'Gatineau',85
@@ -136,9 +136,8 @@
 9701,0,'Hurdman',97
 9800,0,'Hawthorne',98
 9801,0,'Hurdman',98
-9904,0,'Barrhaven',99
-9903,0,'Greenboro',99
-10401,0,'Navette Hurdman Shuttle',104
+9900,0,'Barrhaven',99
+9901,0,'Greenboro & Hurdman',99
 11101,0,'Baseline',111
 11100,0,'Carleton',111
 11401,0,'Carlington',114
@@ -276,7 +275,7 @@
 30100,0,'Bayshore Carlingwd',301
 30101,0,'Richmond Stittsville',301
 30201,0,'Cumberland',302
-30200,0,'St Laurent Pl Orlns',302
+30200,0,'St-Laurent Pl Orlns',302
 30300,0,'Carlingwd Bayshore',303
 30301,0,'Dunrobin Stittsville',303
 30400,0,'Billings Brdg S. Keys',304
@@ -300,23 +299,23 @@
 61901,0,'Blair',619
 61900,0,'Louis Riel',619
 62000,0,'St-Laurent',620
-62200,0,'Colonel By / Gloucester H.S & Lester B. Pearson',622
+62200,0,'Colonel By / Gloucester HS & LB Pearson',622
 62201,0,'Renaud',622
-62400,0,'Gloucester H.S',624
+62400,0,'Gloucester HS',624
 62401,0,'Rideau',624
-63000,0,'Blair / Colonel By / Gloucester H.S',630
+63000,0,'Blair / Colonel By / Gloucester HS',630
 63001,0,'Millennium',630
 63101,0,'Chapel Hill',631
-63100,0,'Colonel By / Gloucester H.S',631
+63100,0,'Colonel By / Gloucester HS',631
 63200,0,'Gisèle Lalonde',632
 63201,0,'Orléans',632
-63300,0,'Lester B. Pearson',633
+63300,0,'LB Pearson',633
 63301,0,'St-Laurent',633
 63400,0,'Mer Bleue',634
 63401,0,'Place D''Orléans',634
-63500,0,'Cairine Wilson H.S',635
+63500,0,'Cairine Wilson HS',635
 63501,0,'Orleans',635
-63602,0,'Place d''Orléans',636
+63601,0,'Place D''Orléans',636
 63801,0,'Orléans',638
 63900,0,'Gisèle Lalonde',639
 63901,0,'Place D''Orléans',639
@@ -331,28 +330,28 @@
 64801,0,'Orléans',648
 64901,0,'Greenboro',649
 64900,0,'Hillcrest',649
-65801,0,'Bell H.S',658
+65801,0,'Bell HS',658
 65800,0,'Grandview',658
-66000,0,'Bell H.S',660
+66000,0,'Bell HS',660
 66001,0,'Innovation',660
-66100,0,'Bell H.S',661
+66100,0,'Bell HS',661
 66101,0,'Terry Fox',661
-66500,0,'Bell H.S',665
+66500,0,'Bell HS',665
 66501,0,'Kanata',665
 66901,0,'Bayshore',669
-66900,0,'Bell H.S',669
+66900,0,'Bell HS',669
 67001,0,'Nepean S.',670
 67000,0,'St. Pius',670
 67400,0,'All Saints',674
 67401,0,'Kanata',674
 67800,0,'Louis Riel',678
 67801,0,'Orléans',678
-68100,0,'Bell H.S',681
+68100,0,'Bell HS',681
 68101,0,'Kanata',681
 68601,0,'Baseline',686
 68900,0,'Billings Bridge',689
-68901,0,'Omer-Deslaurier H.S',689
+68901,0,'Omer-Deslaurier HS',689
 69101,0,'Bayshore',691
-69100,0,'Omer-Deslaurier H.S',691
+69100,0,'Omer-Deslaurier HS',691
 69801,0,'Blohm',698
-69800,0,'St Patrick H.S',698
+69800,0,'St Patrick HS',698
