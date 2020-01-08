@@ -86,8 +86,8 @@
 5601,0,'Tunney''s Pasture',56
 5701,0,'Bells Corners',57
 5700,0,'Tunney''s Pasture',57
+5801,0,'Lincoln Fields',58
 5800,0,'Moodie',58
-5801,0,'Tunney''s Pasture',58
 6101,0,'Stittsville',61
 6100,0,'Tunney''s Pasture',61
 6201,0,'Stittsville',62
@@ -284,6 +284,7 @@
 30500,0,'Carlingwood',305
 30501,0,'North Gower',305
 40401,0,'Canadian Tire Centre',404
+40400,0,'Scotiabank Place',404
 40501,0,'Canadian Tire Centre',405
 40600,0,'Canadian Tire Centre',406
 60200,0,'De La Salle',602
