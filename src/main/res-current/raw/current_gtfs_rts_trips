@@ -17,7 +17,7 @@
 1500,0,'Blair',15
 1501,0,'Gatineau',15
 1600,0,'Main',16
-1601,0,'Westboro',16
+1601,0,'Tunney''s Pasture',16
 1700,0,'Gatineau',17
 1701,0,'Wateridge',17
 1801,0,'Parliament / Parlement',18
@@ -109,7 +109,7 @@
 8101,0,'Clyde',81
 8100,0,'Tunney''s Pasture',81
 8201,0,'Bayshore',82
-8200,0,'Tunney''s Pasture',82
+8200,0,'Lincoln Fields & Tunney''s Pasture',82
 8300,0,'Tunney''s Pasture',83
 8301,0,'Viewmount',83
 8400,0,'Centrepointe',84
@@ -138,7 +138,6 @@
 9801,0,'Hurdman',98
 9900,0,'Barrhaven',99
 9901,0,'Greenboro & Hurdman',99
-10401,0,'Navette Hurdman Shuttle',104
 11101,0,'Baseline',111
 11100,0,'Carleton',111
 11401,0,'Carlington',114
@@ -283,8 +282,7 @@
 30401,0,'Greely Metcalfe',304
 30500,0,'Carlingwood',305
 30501,0,'North Gower',305
-40401,0,'Canadian Tire Centre',404
-40400,0,'Scotiabank Place',404
+40400,0,'Canadian Tire Centre',404
 40501,0,'Canadian Tire Centre',405
 40600,0,'Canadian Tire Centre',406
 60200,0,'De La Salle',602
