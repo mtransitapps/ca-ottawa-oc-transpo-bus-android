@@ -1,4 +1,4 @@
-0,'0','Samuel Genest',45.443378,-75.629309
+0,'0000','Samuel Genest',45.443378,-75.629309
 99,'0099','Carlingwood Mall - Rexall',45.372253,-75.768998
 239,'0239','Famille-Laporte / Old Montréal',45.494681,-75.468034
 240,'0240','De La Famille-Laporte / De La Minoterie Rdg',45.497031,-75.470582
@@ -204,7 +204,7 @@
 674,'0674','Strandherd / Andora',45.266352,-75.755205
 676,'0676','Beatrice / Chapman Mills',45.271866,-75.725914
 678,'0678','Spratt / Golden Eye',45.282188,-75.685876
-689,'0689','Longfield - Davidson Hts H.S.',45.27852,-75.741259
+689,'0689','Longfield - Davidson Hts H.S.',45.278448,-75.741234
 691,'0691','Spratt / Canyon Walk',45.284781,-75.681084
 692,'0692','Spratt / 1st Shoreline',45.277372,-75.68815
 694,'0694','River / Ad. 335',45.316025,-75.692521
@@ -5645,7 +5645,6 @@
 9999,'9999','Agri-Food Canada',45.284198,-75.767392
 600557,'','Holly Acres / Ramp',45.343602,-75.81139
 700367,'','Richardson / All Saints H.S.',45.323124,-75.924146
-900010,'','Canadian Tire Ctr',45.298735,-75.926914
 1400004,'','Winterlude Somerset W',45.420394,-75.685446
 1400005,'','Winterlude Waverley St.',45.41845,-75.681441
 1400006,'','Winterlude Argyle Ave.',45.41376,-75.683719
@@ -5670,6 +5669,7 @@
 2100777,'','C.C Mer Bleue',45.435137,-75.505614
 2300030,'','Wellington / Lyon',45.419763,-75.706773
 2400211,'','Promenade / Terrasses #2',45.424986,-75.721203
+2500001,'','Longfield - Davidson Hts H.S.',45.27852,-75.741259
 9900002,'','Winterlude Pretoria Bridge',45.411089,-75.683937
 9900003,'','Winterlude Paterson Crk',45.410025,-75.683556
 9900004,'','Winterlude Lansdowne Td Pl',45.399433,-75.680371
