@@ -138,6 +138,7 @@
 9801,0,'Hurdman',98
 9900,0,'Barrhaven',99
 9901,0,'Greenboro & Hurdman',99
+10401,0,'Navette Hurdman Shuttle',104
 11101,0,'Baseline',111
 11100,0,'Carleton',111
 11401,0,'Carlington',114
@@ -282,13 +283,13 @@
 30401,0,'Greely Metcalfe',304
 30500,0,'Carlingwood',305
 30501,0,'North Gower',305
-40400,0,'Canadian Tire Centre',404
-40500,0,'Canadian Tire Centre',405
-40600,0,'Canadian Tire Centre',406
-50500,0,'Downtown / Centre-Ville',505
-50501,0,'Lac Dow / Dow''s Lake',505
-50601,0,'City Hall / Hôtel De Ville',506
-50600,0,'Parc Jacques-Cartier Park',506
+40400,0,'Centre Canadian Tire Centre',404
+40500,0,'Centre Canadian Tire Centre',405
+40600,0,'Centre Canadian Tire Centre',406
+50500,0,'Downtown Ctre-Ville',505
+50501,0,'Lac Dow Dow''s Lake',505
+50601,0,'Downtown / Centre-Ville',506
+50600,0,'Parc Jacques Cartier Park',506
 60200,0,'De La Salle',602
 60201,0,'Mackenzie King',602
 60900,0,'De La Salle',609
@@ -321,8 +322,8 @@
 63501,0,'Orléans',635
 63601,0,'Place D''Orléans',636
 63801,0,'Orléans',638
-63901,0,'Gisèle Lalonde',639
-63900,0,'Place D''Orléans',639
+63900,0,'Gisèle Lalonde',639
+63901,0,'Place D''Orléans',639
 64000,0,'Brookfield',640
 64001,0,'South Keys',640
 64100,0,'Louis Riel',641
