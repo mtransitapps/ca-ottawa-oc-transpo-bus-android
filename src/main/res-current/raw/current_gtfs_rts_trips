@@ -22,9 +22,9 @@
 1601,0,'Tunney''s Pasture',16
 1700,0,'Gatineau',17
 1701,0,'Wateridge',17
-1801,0,'Parliament / Parlement',18
+1801,0,'Parliament ~ Parlement',18
 1800,0,'St-Laurent',18
-1900,0,'Parliament / Parlement',19
+1900,0,'Parliament ~ Parlement',19
 1901,0,'St-Laurent',19
 2001,0,'St-Laurent',20
 2000,0,'Vanier',20
@@ -187,7 +187,6 @@
 17600,0,'Manotick',176
 17900,0,'CitiGate',179
 17901,0,'Fallowfield',179
-18500,0,'Experimental Farm / Ferme Expérimentale',185
 18600,0,'Lincoln Fields',186
 18601,0,'Merivale / Slack',186
 18701,0,'Amberwood',187
@@ -261,7 +260,7 @@
 27500,0,'Tunney''s Pasture',275
 27701,0,'Nepean Woods',277
 27700,0,'Tunney''s Pasture',277
-27801,0,'Riverside South / Sud',278
+27801,0,'Riverside South ~ Riverside Sud',278
 27800,0,'Tunney''s Pasture',278
 28201,0,'Trend-Arlington',282
 28200,0,'Tunney''s Pasture',282
@@ -287,3 +286,73 @@
 30401,0,'Greely / Metcalfe',304
 30500,0,'Carlingwood',305
 30501,0,'North Gower / Manotick',305
+60200,0,'De La Salle',602
+60201,0,'Mackenzie King',602
+60900,0,'De La Salle',609
+60901,0,'Elmvale',609
+61100,0,'Gisèle Lalonde',611
+61101,0,'Orléans',611
+61201,0,'Orléans',612
+61200,0,'Special',612
+61300,0,'Hurdman',613
+61800,0,'Louis Riel',618
+61801,0,'Millennium',618
+61901,0,'Blair',619
+61900,0,'Louis Riel',619
+62000,0,'St-Laurent',620
+62201,0,'Renaud',622
+62200,0,'Special',622
+62400,0,'Gloucester HS',624
+62401,0,'Rideau',624
+63000,0,'Blair / Colonel By / Gloucester HS',630
+63001,0,'Millennium',630
+63101,0,'Chapel Hill',631
+63100,0,'Colonel By / Gloucester HS',631
+63200,0,'Gisèle Lalonde',632
+63201,0,'Orléans',632
+63300,0,'LB Pearson',633
+63301,0,'St-Laurent',633
+63400,0,'Mer Bleue',634
+63401,0,'Place D''Orléans',634
+63500,0,'Cairine Wilson HS',635
+63501,0,'Orléans',635
+63601,0,'Place D''Orléans',636
+63801,0,'Orléans',638
+63900,0,'Gisèle Lalonde',639
+63901,0,'Place D''Orléans',639
+64000,0,'Brookfield',640
+64001,0,'South Keys',640
+64100,0,'Louis Riel',641
+64101,0,'Orléans',641
+64400,0,'Canterbury',644
+64401,0,'Greenboro',644
+64500,0,'Hurdman',645
+64800,0,'Louis Riel',648
+64801,0,'Orléans',648
+64901,0,'Greenboro',649
+64900,0,'Hillcrest',649
+65801,0,'Bell HS',658
+65800,0,'Grandview',658
+66000,0,'Bell HS',660
+66001,0,'Innovation',660
+66100,0,'Bell HS',661
+66101,0,'Terry Fox',661
+66500,0,'Bell HS',665
+66501,0,'Kanata',665
+66901,0,'Bayshore',669
+66900,0,'Bell',669
+67001,0,'Nepean S.',670
+67000,0,'St. Pius',670
+67400,0,'All Saints',674
+67401,0,'Kanata',674
+67800,0,'Louis Riel',678
+67801,0,'Orléans',678
+68100,0,'Bell HS',681
+68101,0,'Kanata',681
+68601,0,'Baseline',686
+68900,0,'Billings Bridge',689
+68901,0,'Omer-Deslaurier HS',689
+69101,0,'Bayshore',691
+69100,0,'Deslauriers',691
+69801,0,'Blohm',698
+69800,0,'St Patrick HS',698
