@@ -521,8 +521,8 @@
 1075,'1075','Longfields / Mountshannon',45.288857,-75.733631
 1076,'1076','Ey Ctr',45.33131,-75.657463
 1077,'1077','Uplands / Breadner',45.334851,-75.660064
-1078,'1078','Piperville / Carlsbad Spgs Community Ctr',45.366449,-75.463412
-1079,'1079','Piperville / Carlsbad Spgs Community Ctr',45.366402,-75.463158
+1078,'1078','Piperville / Carlsbad Spgs CC',45.366449,-75.463412
+1079,'1079','Piperville / Carlsbad Spgs CC',45.366402,-75.463158
 1080,'1080','Research / 1st',45.327856,-75.662132
 1081,'1081','Paul Benoit / Silver Star',45.326511,-75.667816
 1082,'1082','Huntmar / Palladium',45.294263,-75.927294
@@ -710,7 +710,7 @@
 1278,'1278','Castlefrank / Katimavik',45.309201,-75.898987
 1279,'1279','Montréal / Bradley',45.437323,-75.658618
 1280,'1280','Mountshannon / Earl Mulligan',45.292568,-75.734748
-1281,'1281','Mountshannon / St Luke School',45.29022,-75.734767
+1281,'1281','Mountshannon / St Luke S',45.29022,-75.734767
 1282,'1282','Mountshannon / Woodford',45.291171,-75.734321
 1283,'1283','Mountshannon / Longfields',45.288744,-75.734295
 1284,'1284','Weslock / Zokol',45.328291,-75.913901
@@ -1726,7 +1726,7 @@
 2540,'2540','La Vérendrye / Gatineau Vw',45.452549,-75.60168
 2541,'2541','La Vérendrye / Gatineau Vw',45.453226,-75.604201
 2542,'2542','La Vérendrye / Deerhurst',45.453138,-75.603333
-2543,'2543','La Vérendrye / Thomas D''arcy McGee School',45.45444,-75.605256
+2543,'2543','La Vérendrye / Thomas D''arcy McGee S',45.45444,-75.605256
 2544,'2544','La Vérendrye / Glenfern',45.457495,-75.605885
 2545,'2545','La Vérendrye / Kings Grv',45.459881,-75.607113
 2546,'2546','La Vérendrye / Quincy',45.460748,-75.607585
@@ -2820,7 +2820,7 @@
 4534,'4534','Southmore / Buxton',45.359004,-75.678827
 4535,'4535','Fairlawn / Lenester',45.367367,-75.769242
 4536,'4536','Fairlawn / Lenester',45.366781,-75.769148
-4537,'4537','Woodroffe / D Roy Kennedy School',45.364284,-75.769818
+4537,'4537','Woodroffe / D Roy Kennedy S',45.364284,-75.769818
 4538,'4538','Woodroffe / Hwy 417',45.362379,-75.76886
 4539,'4539','Woodroffe / Hwy 417',45.359906,-75.767781
 4540,'4540','Woodroffe / Adirondack',45.353196,-75.764026
@@ -3585,8 +3585,8 @@
 6108,'6108','Burnbank / Crawley',45.31747,-75.728342
 6109,'6109','Grenfell / Capital',45.32088,-75.72165
 6110,'6110','Grenfell / Burnbank',45.319606,-75.722165
-6111,'6111','Slack / Merivale School',45.323283,-75.725737
-6112,'6112','Slack / Merivale School',45.323455,-75.725773
+6111,'6111','Slack / Merivale S',45.323283,-75.725737
+6112,'6112','Slack / Merivale S',45.323455,-75.725773
 6117,'6117','Pratt / Grenfell',45.313949,-75.729384
 6124,'6124','Hunt Club / Riverside',45.335223,-75.691789
 6126,'6126','Brittany / Kristin',45.444047,-75.642811
@@ -3984,7 +3984,7 @@
 6686,'6686','Grv / Grosvenor',45.391225,-75.68458
 6687,'6687','Grv / Bank',45.392233,-75.682165
 6689,'6689','Sunnyside / Bronson',45.390261,-75.69333
-6690,'6690','St Laurent / Queen E School',45.438205,-75.645021
+6690,'6690','St Laurent / Queen E S',45.438205,-75.645021
 6691,'6691','St Laurent / Guy',45.433904,-75.642607
 6692,'6692','St Laurent / Guy',45.434557,-75.643338
 6693,'6693','St Laurent / Ad 938',45.430617,-75.641046
@@ -5450,7 +5450,7 @@
 8723,'8723','McArthur / Vanier',45.431265,-75.662942
 8724,'8724','St Laurent / Hemlock',45.450054,-75.652002
 8725,'8725','St Laurent / Mdw',45.448636,-75.651281
-8727,'8727','Greenboro Community Ctre',45.363105,-75.634563
+8727,'8727','Greenboro CC',45.363105,-75.634563
 8728,'8728','Montréal / RR 174',45.45087,-75.585125
 8729,'8729','Brittany / Bangs',45.446051,-75.646168
 8730,'8730','Brittany / Montréal',45.442882,-75.642356
@@ -5464,7 +5464,7 @@
 8739,'8739','Montréal / De L''eglise',45.439675,-75.651403
 8740,'8740','Montréal / De L''église',45.439592,-75.651264
 8741,'8741','Montréal / Cantin',45.43905,-75.653278
-8742,'8742','Greenboro Community Ctre',45.362972,-75.634769
+8742,'8742','Greenboro CC',45.362972,-75.634769
 8743,'8743','Bridle Path / Equus',45.3492,-75.649834
 8745,'8745','Montfort / Ste Anne',45.439118,-75.658914
 8746,'8746','Blair / Seguin',45.444818,-75.614126
@@ -5610,7 +5610,7 @@
 9004,'9004','Mer Bleue / Innes',45.45405,-75.503822
 9005,'9005','Heron / Alta Vista',45.379102,-75.660762
 9006,'9006','Cameron / Sparkle',45.517587,-75.410964
-9007,'9007','Greely Community Ctr',45.261568,-75.555859
+9007,'9007','Greely CC',45.261568,-75.555859
 9039,'9039','Colonnade / 147 Colonnade',45.343391,-75.705378
 9041,'9041','Colonnade / 106 Colonnade',45.346773,-75.705216
 9042,'9042','Colonnade / 82 Colonnade',45.347408,-75.709839
