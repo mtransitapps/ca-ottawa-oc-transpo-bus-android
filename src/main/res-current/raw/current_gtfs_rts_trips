@@ -11,9 +11,9 @@
 1000,0,'Hurdman',10
 1001,0,'Lyon',10
 1101,0,'Bayshore',11
-1100,0,'Parliament ~ Parlement',11
+1100,0,'Parliament',11
 1200,0,'Blair',12
-1201,0,'Parliament ~ Parlement',12
+1201,0,'Parliament',12
 1400,0,'St-Laurent',14
 1401,0,'Tunney''s Pasture',14
 1500,0,'Blair',15
@@ -22,9 +22,9 @@
 1601,0,'Tunney''s Pasture',16
 1700,0,'Gatineau',17
 1701,0,'Wateridge',17
-1801,0,'Parliament ~ Parlement',18
+1801,0,'Parliament',18
 1800,0,'St-Laurent',18
-1900,0,'Parliament ~ Parlement',19
+1900,0,'Parliament',19
 1901,0,'St-Laurent',19
 2001,0,'St-Laurent',20
 2000,0,'Vanier',20
@@ -65,7 +65,7 @@
 4201,0,'Hurdman',42
 4400,0,'Billings Bridge',44
 4401,0,'Hurdman',44
-4500,0,'Hospital ~ Hôpital',45
+4500,0,'Hospital',45
 4501,0,'Hurdman',45
 4601,0,'Billings Bridge',46
 4600,0,'Hurdman',46
@@ -134,7 +134,7 @@
 9300,0,'Leitrim',93
 9600,0,'Hurdman / Greenboro',96
 9601,0,'Merivale / 96b Hunt Club',96
-9700,0,'Airport ~ Aéroport',97
+9700,0,'Airport',97
 9701,0,'Hurdman',97
 9800,0,'Hawthorne',98
 9801,0,'Hurdman',98
@@ -277,7 +277,7 @@
 30100,0,'Bayshore / Carlingwood',301
 30101,0,'Richmond / Stittsville',301
 30201,0,'Cumberland',302
-30200,0,'St-Laurent / Place D''Orléans',302
+30200,0,'St Laurent / Place D''Orléans',302
 30300,0,'Bayshore / Carlingwood',303
 30301,0,'Dunrobin / Carp / Stittsville',303
 30400,0,'Billings Bridge / S Keys',304
@@ -309,7 +309,7 @@
 63200,0,'Gisèle Lalonde',632
 63201,0,'Orléans',632
 63300,0,'LB Pearson',633
-63301,0,'St-Laurent',633
+63301,0,'St Laurent',633
 63400,0,'Mer Bleue',634
 63401,0,'Place D''Orléans',634
 63500,0,'Cairine Wilson HS',635

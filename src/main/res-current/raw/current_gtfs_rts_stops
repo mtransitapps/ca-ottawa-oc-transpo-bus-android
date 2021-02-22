@@ -984,7 +984,7 @@
 1587,'1587','Heron / Riverside',45.377091,-75.690069
 1588,'1588','Colonnade / Ad 146',45.34291,-75.707503
 1589,'1589','Hazeldean / Stittsville Main',45.272754,-75.928657
-1591,'1591','Ring Rd / Rehab (Toh)',45.402968,-75.649785
+1591,'1591','Ring Rd / Rehab (TOH)',45.402968,-75.649785
 1592,'1592','Carp / McCooeye',45.267483,-75.931004
 1593,'1593','Abbott / Granite Rdg',45.268594,-75.904808
 1594,'1594','Hazeldean / Carp',45.268233,-75.938885
@@ -1187,7 +1187,7 @@
 1803,'1803','Castlefrank / Abbeyhill',45.293433,-75.882042
 1804,'1804','Lakeridge / Vistapark',45.448778,-75.475398
 1805,'1805','Innes / Dorima',45.462749,-75.482058
-1806,'1806','Ring Rd / Toh General Campus',45.39993,-75.648735
+1806,'1806','Ring Rd / TOH General Campus',45.39993,-75.648735
 1807,'1807','Gladstone / Rosemount',45.40046,-75.725054
 1808,'1808','Ring Rd / Childrens Hosp',45.400849,-75.652401
 1809,'1809','Viseneau / D''amour',45.453933,-75.516238
@@ -4251,7 +4251,7 @@
 7041,'7041','Greenfield / Greenfield',45.417341,-75.678404
 7042,'7042','Greenfield / Havelock',45.414905,-75.680343
 7043,'7043','Greenfield / Havelock',45.414715,-75.68027
-7044,'7044','Ring Rd / Toh General Campus',45.399679,-75.648561
+7044,'7044','Ring Rd / TOH General Campus',45.399679,-75.648561
 7045,'7045','Ring Rd / Cheo Hosp',45.400694,-75.652444
 7046,'7046','Montfort / Alfred',45.439448,-75.656059
 7047,'7047','Montfort / Pk',45.438911,-75.661397
@@ -4399,7 +4399,7 @@
 7231,'7231','Ring Rd / Ronald McDonald House',45.402166,-75.653431
 7232,'7232','Ring Rd',45.403666,-75.64856
 7233,'7233','Ring Rd / Cancer Ctr',45.40214,-75.645227
-7234,'7234','Ring Rd / Toh General Campus',45.400001,-75.647445
+7234,'7234','Ring Rd / TOH General Campus',45.400001,-75.647445
 7235,'7235','Smyth / Valour',45.398748,-75.658505
 7236,'7236','Smyth / Barnhart',45.398922,-75.65536
 7237,'7237','Smyth / Barnhart',45.398838,-75.654978
@@ -4982,10 +4982,10 @@
 8013,'8013','Carling / Norfolk',45.39813,-75.706808
 8014,'8014','Carling / O-Train Sta (A)',45.396844,-75.709617
 8015,'8015','Maple Dr / Central Experimental Farm',45.393806,-75.716575
-8016,'8016','Carling / Toh Civic Campus',45.391769,-75.721265
+8016,'8016','Carling / TOH Civic Campus',45.391769,-75.721265
 8017,'8017','Carling / Holland',45.389864,-75.725646
 8019,'8019','Carling / Holland',45.389692,-75.725559
-8020,'8020','Carling / Toh Civic Campus',45.391567,-75.721031
+8020,'8020','Carling / TOH Civic Campus',45.391567,-75.721031
 8021,'8021','Maple Dr / Central Experimental Farm',45.394025,-75.715373
 8023,'8023','Carling / Preston',45.397291,-75.707816
 8025,'8025','Southpark / Innes',45.431367,-75.566921
