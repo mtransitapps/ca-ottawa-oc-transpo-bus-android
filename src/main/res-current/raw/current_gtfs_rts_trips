@@ -136,7 +136,7 @@
 9701,0,'Hurdman',97
 9800,0,'Hawthorne',98
 9801,0,'Hurdman',98
-9900,0,'Centre Barrhaven Centre',99
+9900,0,'Barrhaven Centre',99
 9901,0,'Greenboro & Hurdman',99
 11001,0,'Fallowfield',110
 11000,0,'Innovation',110
@@ -266,6 +266,15 @@
 30401,0,'Greely / Metcalfe',304
 30500,0,'Carlingwood',305
 30501,0,'N Gower / Manotick',305
+40400,0,'Centre Canadian Tire Centre',404
+40500,0,'Centre Canadian Tire Centre',405
+40600,0,'Centre Canadian Tire Centre',406
+45000,0,'Lansdowne',450
+45100,0,'Lansdowne',451
+45200,0,'Lansdowne',452
+45400,0,'Lansdowne',454
+45500,0,'Lansdowne',455
+45600,0,'Lansdowne',456
 60200,0,'De La Salle',602
 60201,0,'MacKenzie King',602
 60900,0,'De La Salle',609
@@ -339,6 +348,8 @@
 68100,0,'Bell HS',681
 68101,0,'Kanata',681
 68601,0,'Baseline',686
+68800,0,'Merivale HS',688
+68801,0,'Terry Fox',688
 68900,0,'Billings Bridge',689
 68901,0,'Omer-Deslaurier HS',689
 69101,0,'Bayshore',691
@@ -347,3 +358,5 @@
 69800,0,'St Patrick HS',698
 69901,0,'Findlay Creek',699
 69900,0,'Pierre-De-Blois',699
+1800000101,0,'Blair',18000001
+1800000100,0,'Tunney''s Pasture',18000001
