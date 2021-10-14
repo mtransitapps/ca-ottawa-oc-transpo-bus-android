@@ -1,2 +1,1 @@
-Ottawa OC Transpo buses for MonTransit.
-Schedule. Real-time status. News.
+Ottawa OC Transpo buses for MonTransit: schedule, real-time statuses & news.

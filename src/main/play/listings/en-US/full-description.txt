@@ -1,12 +1,12 @@
 This application adds Ottawa OC Transpo buses information to MonTransit.
 
-This app contains the bus schedule (offline and real-time) and the latest news from www.octranspo.com, YouTube and @OC_Transpo and @OCTranspoLive on Twitter.
+This app contains the bus schedule (offline and real-time) and the latest news from www.octranspo.com and @OC_Transpo and @OCTranspoLive on Twitter.
 
 OC Transpo buses serve Ottawa in Ontario, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link https://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -19,4 +19,4 @@ https://github.com/mtransitapps/ca-ottawa-oc-transpo-bus-android
 This app is not related with OC Transpo.
 
 Permissions:
-- Other: required to load OC Transpo Live Next Bus Arrivals & read news from www.octranspo.com, YouTube and Twitter.
+- Other: required to load OC Transpo Live Next Bus Arrivals & read news from www.octranspo.com and Twitter.
