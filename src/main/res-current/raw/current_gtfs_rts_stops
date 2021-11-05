@@ -335,8 +335,8 @@
 816,'0816','Glamorgan / Rothesay',45.286873,-75.877078
 822,'0822','Beaverbrook / Leacock',45.328609,-75.900617
 823,'0823','Forest Vly / Ridgelea',45.454581,-75.541671
-824,'0824','Chapman Mills / Clarity',45.262085,-75.756899
-825,'0825','Chapman Mills / Clarity',45.261603,-75.756737
+824,'0824','Chapman Mills / Waterlilly',45.26281,-75.758082
+825,'0825','Chapman Mills / Clarity',45.26232,-75.757354
 826,'0826','Eagleson / Kakulu',45.309891,-75.880142
 827,'0827','Hazeldean / Castlefrank',45.299089,-75.886756
 828,'0828','Hazeldean / Irwin Gt',45.302449,-75.880682
@@ -2236,7 +2236,6 @@
 3391,'3391','Kennevale / Lamplighters',45.266006,-75.773679
 3392,'3392','Kennevale / Lamplighters',45.266124,-75.773843
 3393,'3393','Kennevale / Cobble Hl',45.265315,-75.775382
-3394,'3394','Kennevale / Cobble Hl',45.265158,-75.776149
 3395,'3395','Term / Trainyards',45.415017,-75.646329
 3396,'3396','Term / Trainyards',45.41519,-75.645381
 3397,'3397','Term / Walmart Ent',45.414778,-75.649348
@@ -5644,8 +5643,8 @@
 9884,'9884','Queen Mary / Bernard',45.425754,-75.641786
 9999,'9999','Agri-Food Canada',45.284198,-75.767392
 400145,'','Holy Trinity HS',45.30784,-75.900457
-400237,'','Pierre-De-Blois',45.261653,-75.756756
-400238,'','Pierre-De-Blois',45.262013,-75.756822
+400237,'','Pierre-De-Blois',45.262421,-75.757502
+400238,'','Pierre-De-Blois',45.262892,-75.758173
 400240,'','Louis Riel HS',45.441047,-75.571834
 700367,'','Richardson / All Saints HS',45.323124,-75.924146
 2100777,'','CC Mer Bleue',45.435137,-75.505614
