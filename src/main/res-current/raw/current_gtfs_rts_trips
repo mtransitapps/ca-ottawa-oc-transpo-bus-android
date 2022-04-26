@@ -98,6 +98,8 @@
 6401,0,'Tunney''s Pasture',64
 6601,0,'Gatineau',66
 6600,0,'Kanata-Solandt',66
+6701,0,'Cope',67
+6700,0,'Terry Fox',67
 7300,0,'Leikin',73
 7301,0,'Tunney''s Pasture',73
 7400,0,'Nepean Woods',74
@@ -169,8 +171,6 @@
 16501,0,'Terry Fox',165
 16601,0,'Eagleson',166
 16600,0,'Innovation',166
-16701,0,'Cope',167
-16700,0,'Terry Fox',167
 16800,0,'Bridlewood',168
 16801,0,'Terry Fox',168
 17001,0,'Barrhaven Centre',170
@@ -210,7 +210,7 @@
 23601,0,'Esprit',236
 23700,0,'Blair',237
 23701,0,'Jeanne D''Arc',237
-25201,0,'Cope',252
+25201,0,'Templeford',252
 25200,0,'Tunney''s Pasture',252
 25601,0,'Bridlewood',256
 25600,0,'Tunney''s Pasture',256
@@ -327,7 +327,7 @@
 66401,0,'Terry Fox',664
 66500,0,'Bell HS',665
 66501,0,'Kanata',665
-66700,0,'Holy Trinity',667
+66700,0,'Holy Trinity HS',667
 66701,0,'Summergaze',667
 66801,0,'Bridlewood',668
 66800,0,'Holy Trinity HS',668
