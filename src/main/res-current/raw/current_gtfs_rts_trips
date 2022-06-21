@@ -150,6 +150,8 @@
 13101,0,'Fallingbrook',131
 13800,0,'Innes',138
 13801,0,'Place D''Orléans',138
+13900,0,'Petrie Island',139
+13901,0,'Place D''Orléans',139
 14001,0,'Billings Bridge',140
 14000,0,'Heron Park',140
 14100,0,'Kaladar',141
@@ -266,9 +268,6 @@
 30401,0,'Osgoode / Greely / Metcalfe',304
 30500,0,'Carlingwood',305
 30501,0,'N Gower / Manotick',305
-40400,0,'Centre Canadian Tire Centre',404
-40500,0,'Centre Canadian Tire Centre',405
-40600,0,'Centre Canadian Tire Centre',406
 45000,0,'Lansdowne',450
 45100,0,'Lansdowne',451
 45200,0,'Lansdowne',452
