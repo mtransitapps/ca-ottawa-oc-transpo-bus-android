@@ -270,8 +270,6 @@
 30500,0,'Carlingwood',305
 30501,0,'N Gower / Manotick',305
 40400,0,'Centre Canadian Tire Centre',404
-40500,0,'Centre Canadian Tire Centre',405
-40600,0,'Centre Canadian Tire Centre',406
 45000,0,'Lansdowne',450
 45100,0,'Lansdowne',451
 45200,0,'Lansdowne',452
@@ -301,25 +299,9 @@
 64500,0,'Hurdman',645
 64800,0,'Louis Riel',648
 64801,0,'Orléans',648
-65801,0,'Bell HS',658
-66000,0,'Bell HS',660
-66001,0,'Innovation',660
-66100,0,'Bell HS',661
-66101,0,'Terry Fox',661
-66400,0,'Earl Of March HS',664
-66401,0,'Terry Fox',664
-66500,0,'Bell HS',665
-66501,0,'Kanata',665
-66901,0,'Bayshore',669
-66900,0,'Bell',669
 67500,0,'Bell HS / Franco-Ouest',675
-67501,0,'Cambrian',675
 67800,0,'Louis Riel',678
 67801,0,'Orléans',678
-68000,0,'Merivale HS',680
-68001,0,'Riverside S',680
-68100,0,'Bell HS',681
-68101,0,'Kanata',681
 68601,0,'Baseline',686
 68900,0,'Billings Bridge',689
 68901,0,'Omer-Deslaurier HS',689
