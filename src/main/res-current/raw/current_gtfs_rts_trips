@@ -180,7 +180,7 @@
 17101,0,'Barrhaven Centre',171
 17100,0,'Fallowfield',171
 17300,0,'Barrhaven Centre',173
-17301,0,'Bayshore',173
+17301,0,'Fallowfield',173
 17501,0,'Barrhaven Centre',175
 17500,0,'Golflinks',175
 17601,0,'Barrhaven Centre',176
@@ -270,6 +270,8 @@
 30500,0,'Carlingwood',305
 30501,0,'N Gower / Manotick',305
 40400,0,'Centre Canadian Tire Centre',404
+40500,0,'Centre Canadian Tire Centre',405
+40600,0,'Centre Canadian Tire Centre',406
 60200,0,'De La Salle',602
 60201,0,'MacKenzie King',602
 60900,0,'De La Salle',609
@@ -282,6 +284,7 @@
 61801,0,'Millennium',618
 61901,0,'Blair',619
 61900,0,'Louis Riel',619
+62800,0,'Louis RIel',628
 63200,0,'Gisèle Lalonde',632
 63201,0,'Orléans',632
 63400,0,'Mer Bleue',634
@@ -303,5 +306,3 @@
 69100,0,'Deslauriers',691
 69901,0,'Findlay Creek',699
 69900,0,'Pierre-De-Blois',699
-1800000101,0,'Blair',18000001
-1800000100,0,'Tunney''s Pasture',18000001
