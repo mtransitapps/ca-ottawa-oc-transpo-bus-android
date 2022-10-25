@@ -65,7 +65,7 @@
 371,'0371','Fernbank / Cherry',45.249718,-75.909397
 380,'0380','Huntmar / Maple Grv',45.288756,-75.920274
 381,'0381','Amberwood / Merivale',45.317416,-75.71384
-382,'0382','Montreal / Vanier',45.434564,-75.664981
+382,'0382','Montreal / Vanier',45.43458,-75.665262
 383,'0383','Beaverbrook / Leacock',45.328688,-75.900144
 385,'0385','Johnston / Pennard',45.368999,-75.633344
 386,'0386','Johnston / Zaidan',45.36823,-75.631625
@@ -204,7 +204,7 @@
 623,'0623','Fringewood / Woodwind',45.275017,-75.909989
 624,'0624','Longfields / Cambrian',45.256575,-75.728402
 630,'0630','Eagleson / Cadence',45.284481,-75.86595
-631,'0631','Montreal / Olmstead',45.435752,-75.662134
+631,'0631','Montreal / Olmstead',45.43587,-75.662005
 633,'0633','Bridgestone / Windways',45.277693,-75.858978
 634,'0634','Bridgestone / Windways',45.277678,-75.859488
 635,'0635','Bridgestone / Foxhall',45.288171,-75.857903
@@ -325,7 +325,7 @@
 804,'0804','Rideau Vly / Prince Of Wales',45.247008,-75.710978
 805,'0805','Katimavik / Terry Fox',45.302743,-75.906692
 806,'0806','Katimavik / McGibbon',45.306813,-75.902033
-807,'0807','Montreal / Lafontaine',45.438063,-75.655728
+807,'0807','Montreal / Lafontaine',45.438345,-75.65502
 808,'0808','Eagleson / Hazeldean',45.303599,-75.876602
 809,'0809','McLean / Bravar',45.244414,-75.701625
 814,'0814','Sheldrake / Morton',45.289175,-75.883389
@@ -389,10 +389,12 @@
 898,'0898','Crystal Beach / Solva',45.347907,-75.834794
 899,'0899','Crystal Beach / Corkstown',45.344501,-75.830954
 900,'0900','Granite Rdg / Cinnabar',45.26997,-75.906791
-901,'0901','Montreal / Marier',45.436259,-75.661558
+901,'0901','Montreal / Marier',45.436114,-75.661734
 902,'0902','Corkstown / Carling',45.34785,-75.822096
 903,'0903','Crystal Beach / Stillwater',45.345123,-75.831074
 904,'0904','Crystal Beach / Solva',45.348096,-75.834702
+905,'0905','Palldium / Campeau',45.296904,-75.941498
+906,'0906','Palladium / Campeau',45.296082,-75.941066
 907,'0907','Corkstown / Carling',45.347804,-75.821931
 908,'0908','Carling / Sunny Brae',45.352416,-75.834894
 909,'0909','Carling / James Cummings',45.352598,-75.843009
@@ -410,8 +412,8 @@
 923,'0923','Old Richmond / Tanglewood',45.319658,-75.826693
 924,'0924','Old Richmond / Moodie',45.315376,-75.828772
 925,'0925','Moodie / Tyrell',45.316942,-75.830029
-926,'0926','Montreal / De L''église',45.439552,-75.652131
-927,'0927','Montréal / Notre Dame Cemetery',45.44031,-75.649681
+926,'0926','Montreal / De L''église',45.439394,-75.652324
+927,'0927','Montréal / Notre Dame Cemetery',45.440282,-75.64959
 928,'0928','Mustang / Galaxie',45.419701,-75.439643
 930,'0930','Robertson / Fitzgerald',45.319536,-75.83973
 932,'0932','Robertson / Moodie',45.322484,-75.832133
@@ -735,7 +737,7 @@
 1275,'1275','Riverstone / Fencerow',45.260238,-75.728429
 1276,'1276','Kilbirnie / Cedardown',45.244897,-75.721241
 1278,'1278','Castlefrank / Katimavik',45.309201,-75.898987
-1279,'1279','Montréal / Bradley',45.437323,-75.658618
+1279,'1279','Montréal / Bradley',45.437281,-75.65869
 1280,'1280','Mountshannon / Earl Mulligan',45.292568,-75.734748
 1281,'1281','Mountshannon / St Luke S',45.29022,-75.734767
 1282,'1282','Mountshannon / Woodford',45.291171,-75.734321
@@ -961,7 +963,7 @@
 1540,'1540','Huntsville / Drumheller',45.316511,-75.936529
 1541,'1541','Huntsville / Drumheller',45.317184,-75.936435
 1542,'1542','Longfields / Blackleaf',45.253006,-75.725476
-1543,'1543','Montréal / Granville',45.438277,-75.655859
+1543,'1543','Montréal / Granville',45.438242,-75.655828
 1544,'1544','Montfort / Granville',45.43912,-75.65669
 1545,'1545','Granville / Montréal',45.438199,-75.656244
 1546,'1546','Somerset W / Lyon',45.413275,-75.701588
@@ -993,7 +995,7 @@
 1572,'1572','Cahill / Marlin',45.359646,-75.643601
 1573,'1573','Charlemagne / Bottriel',45.468841,-75.48613
 1574,'1574','Tremblay / Ave U',45.419246,-75.63911
-1575,'1575','Montréal / Montgomery',45.433232,-75.668664
+1575,'1575','Montréal / Montgomery',45.433351,-75.66845
 1576,'1576','St Laurent / Montréal',45.441181,-75.647021
 1577,'1577','Piperville / Landry Pk',45.346487,-75.513826
 1578,'1578','Cahill / Verdon',45.359682,-75.643703
@@ -2219,7 +2221,7 @@
 3347,'3347','Cresthaven / Grovemont',45.271021,-75.712965
 3348,'3348','Cresthaven / Strandherd',45.272646,-75.709171
 3350,'3350','Cresthaven / Grovemont',45.271166,-75.713064
-3351,'3351','Cresthaven / Villandry',45.274168,-75.708625
+3351,'3351','Cresthaven / Barnstone',45.273521,-75.7085
 3352,'3352','Cresthaven / Fairpark',45.274991,-75.709315
 3353,'3353','Cresthaven / Woodroffe',45.270949,-75.715604
 3358,'3358','Beaverbrook / Gow Pk Path',45.327465,-75.903767
@@ -4268,8 +4270,8 @@
 7050,'7050','Marier / Montfort',45.438869,-75.663529
 7051,'7051','Vanier / Deschamps',45.436563,-75.669052
 7052,'7052','Vanier / Montréal',45.435088,-75.666426
-7058,'7058','Montréal / Lacasse',45.437259,-75.658213
-7060,'7060','Montréal / Notre Dame Cemetery',45.440199,-75.649273
+7058,'7058','Montréal / Lacasse',45.437339,-75.658133
+7060,'7060','Montréal / Notre Dame Cemetery',45.440141,-75.649545
 7061,'7061','McArthur / Olmstead',45.431239,-75.660642
 7063,'7063','McArthur / Lacasse',45.431715,-75.656788
 7064,'7064','McArthur / Lafontaine',45.431678,-75.654271
@@ -5463,7 +5465,7 @@
 8735,'8735','Birch / Hemlock',45.449296,-75.662701
 8736,'8736','Sandridge / Kilbarry',45.456005,-75.657193
 8738,'8738','Montréal / Langs',45.444848,-75.63573
-8740,'8740','Montréal / De L''église',45.439592,-75.651264
+8740,'8740','Montréal / De L''église',45.439568,-75.651315
 8742,'8742','Greenboro CC',45.362972,-75.634769
 8743,'8743','Bridle Path / Equus',45.3492,-75.649834
 8745,'8745','Montfort / Ste Anne',45.439118,-75.658914
@@ -5491,9 +5493,9 @@
 8776,'8776','Ogilvie / Eastvale',45.45233,-75.596723
 8777,'8777','McArthur / Mayfield',45.431087,-75.665705
 8780,'8780','N River / Montréal',45.43245,-75.669979
-8781,'8781','Montréal / N River',45.433077,-75.669524
+8781,'8781','Montréal / N River',45.433083,-75.669535
 8782,'8782','Ogilvie / Naskapi',45.449568,-75.595706
-8783,'8783','Montréal / Vanier',45.434234,-75.666548
+8783,'8783','Montréal / Vanier',45.434206,-75.666641
 8786,'8786','N River / Selkirk',45.432006,-75.669474
 8788,'8788','Springfield / Beechwood',45.440053,-75.676328
 8789,'8789','Maple Ln / Springfield',45.446327,-75.677599
@@ -5568,7 +5570,7 @@
 8944,'8944','Vanier / Pathway',45.437735,-75.67403
 8945,'8945','Vanier / McArthur',45.431716,-75.664354
 8946,'8946','Watters / Varennes',45.481378,-75.476327
-8947,'8947','Montréal / Emond',45.435224,-75.664149
+8947,'8947','Montréal / Emond',45.435182,-75.664122
 8949,'8949','Gladstone / Preston',45.404788,-75.711773
 8951,'8951','Albion / Brampton',45.348685,-75.639976
 8952,'8952','Innes / Rondel',45.435629,-75.554504
