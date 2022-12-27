@@ -3,6 +3,10 @@
 97,'0097','Grandview / Carling',45.354896,-75.849951
 98,'0098','Louis Riel HS',45.440845,-75.572167
 99,'0099','Carlingwood Mall - Rexall',45.372253,-75.768998
+200,'0200','Perseus / Nokomis',45.25236,-75.755359
+201,'0201','Perseus / Nokomis',45.25217,-75.755192
+202,'0202','Apolune / Flagstaff',45.249943,-75.754587
+203,'0203','Apolune / Flagstaff',45.249834,-75.75484
 239,'0239','Famille-Laporte / Old Montréal',45.494681,-75.468034
 240,'0240','De La Famille-Laporte / De La Minoterie Rdg',45.497031,-75.470582
 241,'0241','De La Famille-Laporte / Mishawashkode',45.497347,-75.47048
@@ -231,6 +235,7 @@
 669,'0669','Cambrian / Regatta',45.252091,-75.73863
 670,'0670','Cambrian / Regatta',45.251628,-75.739464
 671,'0671','Cambrian / River Mist',45.251242,-75.740811
+672,'0672','Cambrian / River Mist',45.250787,-75.741561
 673,'0673','Strandherd / Andora',45.266436,-75.755366
 674,'0674','Strandherd / Andora',45.266352,-75.755205
 675,'0675','Famille-Laporte / Honfleur',45.500302,-75.468625
@@ -4208,6 +4213,10 @@
 6961,'6961','Brian Coburn / Portobello',45.454442,-75.465608
 6962,'6962','Fitzgerald / Robertson',45.320959,-75.836895
 6963,'6963','Stittsville Main / Denali',45.278556,-75.931824
+6964,'6964','Cambrian / Grand Canal',45.250039,-75.743897
+6965,'6965','Cambrian / Grand Canal',45.249906,-75.743613
+6966,'6966','Cambrian / Seeley''s Bay',45.248974,-75.746648
+6967,'6967','Cambrian / Sealley''s Bay',45.249111,-75.745637
 6970,'6970','Mer Bleue / Navan',45.426085,-75.487714
 6971,'6971','Mer Bleue / Innes',45.454138,-75.503539
 6972,'6972','Porcupine / Cricket',45.426429,-76.023823
