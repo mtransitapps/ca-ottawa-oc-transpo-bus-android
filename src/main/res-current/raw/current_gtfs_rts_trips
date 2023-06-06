@@ -269,15 +269,6 @@
 30401,0,'Osgoode / Greely / Metcalfe',304
 30500,0,'Carlingwood',305
 30501,0,'N Gower / Manotick',305
-40400,0,'Centre Canadian Tire Centre',404
-40500,0,'Centre Canadian Tire Centre',405
-40600,0,'Centre Canadian Tire Centre',406
-45000,0,'Lansdowne',450
-45100,0,'Lansdowne',451
-45200,0,'Lansdowne',452
-45400,0,'Lansdowne',454
-45500,0,'Lansdowne',455
-45600,0,'Lansdowne',456
 60200,0,'De La Salle',602
 60201,0,'MacKenzie King',602
 60900,0,'De La Salle',609
@@ -374,3 +365,5 @@
 69800,0,'St Patrick HS',698
 69901,0,'Findlay Creek',699
 69900,0,'Pierre-De-Blois',699
+1800000101,0,'Blair',18000001
+1800000100,0,'Tunney''s Pasture',18000001
