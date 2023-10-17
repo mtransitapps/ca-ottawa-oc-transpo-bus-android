@@ -82,7 +82,7 @@
 5400,0,'Tunney''s Pasture',54
 5500,0,'Elmvale',55
 5501,0,'Westgate',55
-5600,0,'King Edward',56
+5600,0,'King Edward & Civic',56
 5601,0,'Tunney''s Pasture',56
 5701,0,'Crystal Bay',57
 5700,0,'Tunney''s Pasture',57
@@ -99,7 +99,7 @@
 6601,0,'Gatineau',66
 6600,0,'Kanata-Solandt',66
 6701,0,'Cope',67
-6700,0,'Terry Fox & Tunney''s Pasture',67
+6700,0,'Terry Fox',67
 7300,0,'Leikin',73
 7301,0,'Tunney''s Pasture',73
 7400,0,'Riverview',74
@@ -269,12 +269,6 @@
 40400,0,'Centre Canadian Tire Centre',404
 40500,0,'Centre Canadian Tire Centre',405
 40600,0,'Centre Canadian Tire Centre',406
-45000,0,'Lansdowne',450
-45100,0,'Lansdowne',451
-45200,0,'Lansdowne',452
-45400,0,'Lansdowne',454
-45500,0,'Lansdowne',455
-45600,0,'Lansdowne',456
 60200,0,'De La Salle',602
 60201,0,'MacKenzie King',602
 60900,0,'De La Salle',609
@@ -320,6 +314,8 @@
 64400,0,'Canterbury',644
 64401,0,'Greenboro',644
 64500,0,'Hurdman',645
+64600,0,'Canterbury HS',646
+64601,0,'Terry Fox',646
 64800,0,'Louis Riel',648
 64801,0,'Orléans',648
 64901,0,'Greenboro',649
