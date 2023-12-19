@@ -1,197 +1,197 @@
-2,'2','Bayview <> S Keys','65A233'
-5,'5','Billings Bridge <> Rideau','6E6E70'
-6,'6','Greenboro <> Rockcliffe','D74100'
-7,'7','Carleton <> St-Laurent','D74100'
-9,'9','Rideau <> Hurdman','6E6E70'
-10,'10','Hurdman <> Lyon','D74100'
-11,'11','Parliament <> Bayshore','D74100'
-12,'12','Blair <> Parliament','D74100'
-14,'14','St-Laurent <> Tunney''s Pasture','D74100'
-15,'15','Blair <> Gatineau','A1A1A1'
-16,'16','Main <> Tunney''s Pasture','6E6E70'
-18,'18','St-Laurent <> Parliament','6E6E70'
-19,'19','Parliament <> St-Laurent / Hurdman','6E6E70'
-20,'20','Vanier <> St-Laurent','6E6E70'
-21,'21','Canotek <> Blair','A1A1A1'
-23,'23','Rothwell Heights & Blair','A1A1A1'
-24,'24','Beacon Hill <> St-Laurent','6E6E70'
-25,'25','La Cité <> Millennium','D74100'
-26,'26','Pineview <> Blair','6E6E70'
-27,'27','Wateridge <> St-Laurent','A1A1A1'
-28,'28','Blackburn Hamlet <> Blair','6E6E70'
-30,'30','Blair <> Millennium','6E6E70'
-31,'31','Place D''Orléans <> Blair','A1A1A1'
-32,'32','Blair <> Chapel Hill','A1A1A1'
-33,'33','Blair <> Portobello','A1A1A1'
-34,'34','Blair <> Renaud','6E6E70'
-35,'35','Blair <> Esprit','6E6E70'
-37,'37','Queenswood Heights <> Place D''Orléans','A1A1A1'
-38,'38','Blair <> Jeanne D''Arc / Trim','6E6E70'
-39,'39','Blair <> Millennium','0056B8'
-40,'40','St-Laurent <> Greenboro','D74100'
-42,'42','Blair <> Hurdman','6E6E70'
-44,'44','Billings Bridge <> Hurdman','D74100'
-45,'45','Hospital <> Hurdman','0056B8'
-46,'46','Hurdman <> Billings Bridge','6E6E70'
-47,'47','Hawthorne <> St-Laurent','A1A1A1'
-48,'48','Elmvale <> Hurdman','6E6E70'
-49,'49','Elmvale <> Hurdman','6E6E70'
-50,'50','Tunney''s Pasture <> Lincoln Fields','6E6E70'
-51,'51','Tunney''s Pasture <> Britannia','D74100'
-53,'53','Tunney''s Pasture <> Carlington','D74100'
-54,'54','Tunney''s Pasture','6E6E70'
-55,'55','Elmvale <> Westgate','6E6E70'
-56,'56','King Edward & Civic <> Tunney''s Pasture','A1A1A1'
-57,'57','Tunney''s Pasture <> Crystal Bay','0056B8'
-58,'58','Crystal Bay <> Lincoln Fields','6E6E70'
-61,'61','Tunney''s Pasture <> Stittsville','0056B8'
-62,'62','Tunney''s Pasture <> Stittsville','0056B8'
-63,'63','Briarbrook <> Tunney''s Pasture','0056B8'
-64,'64','Morgan''s Grant <> Tunney''s Pasture','6E6E70'
-66,'66','Kanata-Solandt <> Gatineau','A1A1A1'
-67,'67','Terry Fox <> Cope','A1A1A1'
-73,'73','Leikin <> Tunney''s Pasture','A1A1A1'
-74,'74','Riverview <> Tunney''s Pasture','0056B8'
-75,'75','Tunney''s Pasture <> Barrhaven Centre','0056B8'
-80,'80','Barrhaven Centre <> Tunney''s Pasture','D74100'
-81,'81','Tunney''s Pasture <> Clyde','6E6E70'
-82,'82','Lincoln Fields & Tunney''s Pasture <> Bayshore','6E6E70'
-83,'83','Baseline <> Viewmount','6E6E70'
-84,'84','Centrepointe <> Baseline','6E6E70'
-85,'85','Gatineau <> Bayshore','D74100'
-86,'86','Tunney''s Pasture <> Baseline','6E6E70'
-87,'87','Tunney''s Pasture <> Baseline','D74100'
-88,'88','Hurdman <> Terry Fox','D74100'
-89,'89','Tunney''s Pasture <> Colonnade','6E6E70'
-90,'90','Greenboro <> Hurdman','D74100'
-92,'92','Greenboro <> Hurdman','6E6E70'
-93,'93','Leitrim <> Greenboro / Hurdman','6E6E70'
-96,'96','Hurdman / Greenboro <> Merivale / 96b Hunt Club','6E6E70'
-97,'97','Airport <> Hurdman','0056B8'
-98,'98','Hawthorne <> Hurdman','0056B8'
-99,'99','Barrhaven Centre <> Greenboro & Hurdman','0056B8'
-110,'110','Innovation <> Fallowfield','A1A1A1'
-111,'111','Carleton <> Baseline','D74100'
-114,'114','Rideau <> Carlington','A1A1A1'
-131,'131','Chapel Hill <> Fallingbrook','6E6E70'
-138,'138','Innes <> Place D''Orléans','6E6E70'
-140,'140','Herongate <> Billings Bridge','A1A1A1'
-141,'141','Heron Park','A1A1A1'
-153,'153','Tunney''s Pasture <> Lincoln Fields','A1A1A1'
-154,'154','Queensway Terrace <> Lincoln Fields','A1A1A1'
-155,'155','Queensway Terrace <> Bayshore','A1A1A1'
-158,'158','Bayshore <> Haanel','A1A1A1'
-161,'161','Bridlewood <> Terry Fox','A1A1A1'
-162,'162','Stittsville <> Terry Fox','A1A1A1'
-164,'164','Hope Side <> Terry Fox','A1A1A1'
-165,'165','Innovation <> Terry Fox','A1A1A1'
-166,'166','Innovation <> Eagleson','A1A1A1'
-168,'168','Bridlewood <> Terry Fox','6E6E70'
-170,'170','Fallowfield <> Barrhaven Centre','6E6E70'
-171,'171','Fallowfield <> Barrhaven Centre','6E6E70'
-173,'173','Barrhaven Centre <> Fallowfield','A1A1A1'
-175,'175','Golflinks <> Barrhaven Centre','6E6E70'
-176,'176','Manotick <> Barrhaven Centre','A1A1A1'
-186,'186','Lincoln Fields <> Merivale','A1A1A1'
-187,'187','Baseline <> Amberwood','A1A1A1'
-190,'190','Mooney''s Bay <> Hurdman','A1A1A1'
-197,'197','Uplands Greenboro','6E6E70'
-198,'198','Riverview <> Greenboro','A1A1A1'
-199,'199','Leikin <> Hurdman','A1A1A1'
-221,'221','Blair <> Cumberland','A85B8C'
-222,'222','Blair <> Vars','A85B8C'
-228,'228','Blair <> Navan / Sarsfield','A85B8C'
-231,'231','Blair <> Meadowglen','A85B8C'
-232,'232','Blair <> Queenswood Heights','A85B8C'
-234,'234','Blair <> Tenth Line','A85B8C'
-236,'236','Blair <> Esprit','A85B8C'
-237,'237','Blair <> Jeanne D''Arc','A85B8C'
-252,'252','Tunney''s Pasture <> Templeford','A85B8C'
-256,'256','Tunney''s Pasture <> Bridlewood','A85B8C'
-257,'257','Tunney''s Pasture <> Bridlewood','A85B8C'
-258,'258','Grandview <> Tunney''s Pasture','A85B8C'
-261,'261','Tunney''s Pasture <> Stittsville Main','A85B8C'
-262,'262','Tunney''s Pasture <> W Ridge','A85B8C'
-263,'263','Tunney''s Pasture <> Stanley Corners','A85B8C'
-264,'264','Tunney''s Pasture <> Terry Fox','A85B8C'
-265,'265','Tunney''s Pasture <> Beaverbrook','A85B8C'
-267,'267','Tunney''s Pasture <> Glen Cairn','A85B8C'
-268,'268','Tunney''s Pasture <> Kanata Lakes','A85B8C'
-270,'270','Tunney''s Pasture <> Cedarview','A85B8C'
-271,'271','Tunney''s Pasture <> Stoneway','A85B8C'
-272,'272','Tunney''s Pasture <> Cobble Hill','A85B8C'
-273,'273','Tunney''s Pasture <> Tartan','A85B8C'
-277,'277','Tunney''s Pasture <> Nepean Woods','A85B8C'
-278,'278','Tunney''s Pasture <> Riverside S','A85B8C'
-282,'282','Tunney''s Pasture <> Trend-Arlington','A85B8C'
-283,'283','Tunney''s Pasture <> Richmond / Munster','A85B8C'
-290,'290','McCarthy <> Hurdman','A85B8C'
-291,'291','Hurdman <> Herongate','A85B8C'
-294,'294','Hurdman <> Findlay Creek','A85B8C'
-299,'299','Hurdman <> Manotick','A85B8C'
-301,'301','Bayshore / Carlingwood <> Richmond / Stittsville','A1A1A1'
-302,'302','St Laurent / Place D''Orléans <> Cumberland','A1A1A1'
-303,'303','Bayshore / Carlingwood <> Dunrobin / Carp / Stittsville','A1A1A1'
-304,'304','Billings Bridge / S Keys <> Osgoode / Greely / Metcalfe','A1A1A1'
-305,'305','Carlingwood <> N Gower / Manotick','A1A1A1'
-404,'404','Centre Canadian Tire Centre','A1A1A1'
-405,'405','Centre Canadian Tire Centre','A1A1A1'
-406,'406','Centre Canadian Tire Centre','A1A1A1'
-602,'602','De La Salle <> MacKenzie King','A1A1A1'
-609,'609','De La Salle <> Elmvale','A1A1A1'
-611,'611','Gisèle Lalonde <> Orléans','A1A1A1'
-612,'612','Béatrice Desloges / Gisele Lalonde <> Renaud','A1A1A1'
-613,'613','Hurdman','A1A1A1'
-615,'615','Parliament','A1A1A1'
-616,'616','Gloucester HS <> Parliament','A1A1A1'
-618,'618','Louis Riel <> Millennium','A1A1A1'
-619,'619','Louis Riel <> Blair','A1A1A1'
-620,'620','St-Laurent','A1A1A1'
-622,'622','Colonel By / Gloucester HS / Lester B Pearson <> Renaud','A1A1A1'
-624,'624','Gloucester HS <> Rideau','A1A1A1'
-628,'628','Louis-Riel','A1A1A1'
-630,'630','Blair / Colonel By / Gloucester HS <> Millennium','A1A1A1'
-631,'631','Colonel By / Gloucester HS <> Chapel Hill','A1A1A1'
-632,'632','Gisèle Lalonde <> Orléans','A1A1A1'
-633,'633','Lester B Pearson <> St-Laurent','A1A1A1'
-634,'634','Mer Bleue <> Place D''Orléans','A1A1A1'
-635,'635','Cairine Wilson HS <> Orléans','A1A1A1'
-636,'636','Place D''Orléans','A1A1A1'
-638,'638','Orléans','A1A1A1'
-639,'639','Gisèle Lalonde <> Place D''Orléans','A1A1A1'
-640,'640','Brookfield <> S Keys','A1A1A1'
-641,'641','Louis Riel <> Orléans','A1A1A1'
-644,'644','Canterbury <> Greenboro','A1A1A1'
-645,'645','Hurdman','A1A1A1'
-646,'646','Canterbury HS <> Terry Fox','A1A1A1'
-648,'648','Louis Riel <> Orléans','A1A1A1'
-649,'649','Hillcrest <> Greenboro','A1A1A1'
-658,'658','Bell HS <> Grandview','A1A1A1'
-660,'660','Innovation <> Bell HS','A1A1A1'
-661,'661','Terry Fox <> Bell HS','A1A1A1'
-664,'664','Kanata Lakes <> Earl Of March HS','A1A1A1'
-665,'665','Kanata <> Bell HS','A1A1A1'
-667,'667','Summergaze <> Holy Trinity HS','A1A1A1'
-668,'668','Bridlewood <> Holy Trinity HS','A1A1A1'
-669,'669','Bayshore <> Bell','A1A1A1'
-670,'670','Nepean S <> St Pius','A1A1A1'
-671,'671','Half Moon Bay <> John McCrae HS','A1A1A1'
-672,'672','Golflinks <> John McCrae HS','A1A1A1'
-674,'674','Kanata <> All Saints','A1A1A1'
-675,'675','Cambrian <> Bell HS / Franco-Ouest','A1A1A1'
-676,'676','Riverview <> Mother Teresa HS','A1A1A1'
-677,'677','Larkin <> St Joseph HS','A1A1A1'
-678,'678','Orléans <> Louis Riel','A1A1A1'
-679,'679','Cobble Hill <> St Joseph HS','A1A1A1'
-680,'680','Riverside S <> Merivale HS','A1A1A1'
-681,'681','Kanata <> Bell HS','A1A1A1'
-682,'682','Fallowfield <> Cedarview MS','A1A1A1'
-683,'683','Half Moon Bay <> Cedarview MS','A1A1A1'
-686,'686','Baseline','A1A1A1'
-688,'688','Terry Fox <> Merivale HS','A1A1A1'
-689,'689','Omer-Deslaurier HS <> Billings Bridge','A1A1A1'
-691,'691','Bayshore <> Deslauriers','A1A1A1'
-693,'693','St Francis Xavier HS <> Blossom Park','A1A1A1'
-698,'698','Blohm <> St Patrick HS','A1A1A1'
-699,'699','Findlay Creek <> Pierre-De-Blois','A1A1A1'
-5000001,'E1','Shuttle / Navette-Express Blair <> Shuttle / Navette-Express Downtown / Centre-Ville','DA291C'
+2,'2','Bayview <> S Keys','65A233',47567325,3
+5,'5','Billings Bridge <> Rideau','6E6E70',50337888,3
+6,'6','Greenboro <> Rockcliffe','D74100',51261409,3
+7,'7','Carleton <> St-Laurent','D74100',52184930,3
+9,'9','Rideau <> Hurdman','6E6E70',54031972,3
+10,'10','Hurdman <> Lyon','D74100',1448548682,3
+11,'11','Parliament <> Bayshore','D74100',1449472203,3
+12,'12','Blair <> Parliament','D74100',1450395724,3
+14,'14','St-Laurent <> Tunney''s Pasture','D74100',1452242766,3
+15,'15','Blair <> Gatineau','A1A1A1',1453166287,3
+16,'16','Main <> Tunney''s Pasture','6E6E70',1454089808,3
+18,'18','St-Laurent <> Parliament','6E6E70',1455936850,3
+19,'19','Parliament <> St-Laurent / Hurdman','6E6E70',1456860371,3
+20,'20','Vanier <> St-Laurent','6E6E70',1477177833,3
+21,'21','Canotek <> Blair','A1A1A1',1478101354,3
+23,'23','Rothwell Heights & Blair','A1A1A1',1479948396,3
+24,'24','Beacon Hill <> St-Laurent','6E6E70',1480871917,3
+25,'25','La Cité <> Millennium','D74100',1481795438,3
+26,'26','Pineview <> Blair','6E6E70',1482718959,3
+27,'27','Wateridge <> St-Laurent','A1A1A1',1483642480,3
+28,'28','Blackburn Hamlet <> Blair','6E6E70',1484566001,3
+30,'30','Blair <> Millennium','6E6E70',1505806984,3
+31,'31','Place D''Orléans <> Blair','A1A1A1',1506730505,3
+32,'32','Blair <> Chapel Hill','A1A1A1',1507654026,3
+33,'33','Blair <> Portobello','A1A1A1',1508577547,3
+34,'34','Blair <> Renaud','6E6E70',1509501068,3
+35,'35','Blair <> Esprit','6E6E70',1510424589,3
+37,'37','Queenswood Heights <> Place D''Orléans','A1A1A1',1512271631,3
+38,'38','Blair <> Jeanne D''Arc / Trim','6E6E70',1513195152,3
+39,'39','Blair <> Millennium','0056B8',1514118673,3
+40,'40','St-Laurent <> Greenboro','D74100',1534436135,3
+42,'42','Blair <> Hurdman','6E6E70',1536283177,3
+44,'44','Billings Bridge <> Hurdman','D74100',1538130219,3
+45,'45','Hospital <> Hurdman','0056B8',1539053740,3
+46,'46','Hurdman <> Billings Bridge','6E6E70',1539977261,3
+47,'47','Hawthorne <> St-Laurent','A1A1A1',1540900782,3
+48,'48','Elmvale <> Hurdman','6E6E70',1541824303,3
+49,'49','Elmvale <> Hurdman','6E6E70',1542747824,3
+50,'50','Tunney''s Pasture <> Lincoln Fields','6E6E70',1563065286,3
+51,'51','Tunney''s Pasture <> Britannia','D74100',1563988807,3
+53,'53','Tunney''s Pasture <> Carlington','D74100',1565835849,3
+54,'54','Tunney''s Pasture','6E6E70',1566759370,3
+55,'55','Elmvale <> Westgate','6E6E70',1567682891,3
+56,'56','King Edward & Civic <> Tunney''s Pasture','A1A1A1',1568606412,3
+57,'57','Tunney''s Pasture <> Crystal Bay','0056B8',1569529933,3
+58,'58','Crystal Bay <> Lincoln Fields','6E6E70',1570453454,3
+61,'61','Tunney''s Pasture <> Stittsville','0056B8',1592617958,3
+62,'62','Tunney''s Pasture <> Stittsville','0056B8',1593541479,3
+63,'63','Briarbrook <> Tunney''s Pasture','0056B8',1594465000,3
+64,'64','Morgan''s Grant <> Tunney''s Pasture','6E6E70',1595388521,3
+66,'66','Kanata-Solandt <> Gatineau','A1A1A1',1597235563,3
+67,'67','Terry Fox <> Cope','A1A1A1',1598159084,3
+73,'73','Leikin <> Tunney''s Pasture','A1A1A1',1623094151,3
+74,'74','Riverview <> Tunney''s Pasture','0056B8',1624017672,3
+75,'75','Tunney''s Pasture <> Barrhaven Centre','0056B8',1624941193,3
+80,'80','Barrhaven Centre <> Tunney''s Pasture','D74100',1648952739,3
+81,'81','Tunney''s Pasture <> Clyde','6E6E70',1649876260,3
+82,'82','Lincoln Fields & Tunney''s Pasture <> Bayshore','6E6E70',1650799781,3
+83,'83','Baseline <> Viewmount','6E6E70',1651723302,3
+84,'84','Centrepointe <> Baseline','6E6E70',1652646823,3
+85,'85','Gatineau <> Bayshore','D74100',1653570344,3
+86,'86','Tunney''s Pasture <> Baseline','6E6E70',1654493865,3
+87,'87','Tunney''s Pasture <> Baseline','D74100',1655417386,3
+88,'88','Hurdman <> Terry Fox','D74100',1656340907,3
+89,'89','Tunney''s Pasture <> Colonnade','6E6E70',1657264428,3
+90,'90','Greenboro <> Hurdman','D74100',1677581890,3
+92,'92','Greenboro <> Hurdman','6E6E70',1679428932,3
+93,'93','Leitrim <> Greenboro / Hurdman','6E6E70',1680352453,3
+96,'96','Hurdman / Greenboro <> Merivale / 96b Hunt Club','6E6E70',1683123016,3
+97,'97','Airport <> Hurdman','0056B8',1684046537,3
+98,'98','Hawthorne <> Hurdman','0056B8',1684970058,3
+99,'99','Barrhaven Centre <> Greenboro & Hurdman','0056B8',1685893579,3
+110,'110','Innovation <> Fallowfield','A1A1A1',1986556091,3
+111,'111','Carleton <> Baseline','D74100',1987479612,3
+114,'114','Rideau <> Carlington','A1A1A1',1990250175,3
+131,'131','Chapel Hill <> Fallingbrook','6E6E70',2044737914,3
+138,'138','Innes <> Place D''Orléans','6E6E70',2051202561,3
+140,'140','Herongate <> Billings Bridge','A1A1A1',2072443544,3
+141,'141','Heron Park','A1A1A1',2073367065,3
+153,'153','Tunney''s Pasture <> Lincoln Fields','A1A1A1',2103843258,3
+154,'154','Queensway Terrace <> Lincoln Fields','A1A1A1',2104766779,3
+155,'155','Queensway Terrace <> Bayshore','A1A1A1',2105690300,3
+158,'158','Bayshore <> Haanel','A1A1A1',2108460863,3
+161,'161','Bridlewood <> Terry Fox','A1A1A1',2130625367,3
+162,'162','Stittsville <> Terry Fox','A1A1A1',2131548888,3
+164,'164','Hope Side <> Terry Fox','A1A1A1',2133395930,3
+165,'165','Innovation <> Terry Fox','A1A1A1',2134319451,3
+166,'166','Innovation <> Eagleson','A1A1A1',2135242972,3
+168,'168','Bridlewood <> Terry Fox','6E6E70',2137090014,3
+170,'170','Fallowfield <> Barrhaven Centre','6E6E70',-2136636299,3
+171,'171','Fallowfield <> Barrhaven Centre','6E6E70',-2135712778,3
+173,'173','Barrhaven Centre <> Fallowfield','A1A1A1',-2133865736,3
+175,'175','Golflinks <> Barrhaven Centre','6E6E70',-2132018694,3
+176,'176','Manotick <> Barrhaven Centre','A1A1A1',-2131095173,3
+186,'186','Lincoln Fields <> Merivale','A1A1A1',-2102466022,3
+187,'187','Baseline <> Amberwood','A1A1A1',-2101542501,3
+190,'190','Mooney''s Bay <> Hurdman','A1A1A1',-2079377997,3
+197,'197','Uplands Greenboro','6E6E70',-2072913350,3
+198,'198','Riverview <> Greenboro','A1A1A1',-2071989829,3
+199,'199','Leikin <> Hurdman','A1A1A1',-2071066308,3
+221,'221','Blair <> Cumberland','A85B8C',-1391354852,3
+222,'222','Blair <> Vars','A85B8C',-1390431331,3
+228,'228','Blair <> Navan / Sarsfield','A85B8C',-1384890205,3
+231,'231','Blair <> Meadowglen','A85B8C',-1362725701,3
+232,'232','Blair <> Queenswood Heights','A85B8C',-1361802180,3
+234,'234','Blair <> Tenth Line','A85B8C',-1359955138,3
+236,'236','Blair <> Esprit','A85B8C',-1358108096,3
+237,'237','Blair <> Jeanne D''Arc','A85B8C',-1357184575,3
+252,'252','Tunney''s Pasture <> Templeford','A85B8C',-1304543878,3
+256,'256','Tunney''s Pasture <> Bridlewood','A85B8C',-1300849794,3
+257,'257','Tunney''s Pasture <> Bridlewood','A85B8C',-1299926273,3
+258,'258','Grandview <> Tunney''s Pasture','A85B8C',-1299002752,3
+261,'261','Tunney''s Pasture <> Stittsville Main','A85B8C',-1276838248,3
+262,'262','Tunney''s Pasture <> W Ridge','A85B8C',-1275914727,3
+263,'263','Tunney''s Pasture <> Stanley Corners','A85B8C',-1274991206,3
+264,'264','Tunney''s Pasture <> Terry Fox','A85B8C',-1274067685,3
+265,'265','Tunney''s Pasture <> Beaverbrook','A85B8C',-1273144164,3
+267,'267','Tunney''s Pasture <> Glen Cairn','A85B8C',-1271297122,3
+268,'268','Tunney''s Pasture <> Kanata Lakes','A85B8C',-1270373601,3
+270,'270','Tunney''s Pasture <> Cedarview','A85B8C',-1249132618,3
+271,'271','Tunney''s Pasture <> Stoneway','A85B8C',-1248209097,3
+272,'272','Tunney''s Pasture <> Cobble Hill','A85B8C',-1247285576,3
+273,'273','Tunney''s Pasture <> Tartan','A85B8C',-1246362055,3
+277,'277','Tunney''s Pasture <> Nepean Woods','A85B8C',-1242667971,3
+278,'278','Tunney''s Pasture <> Riverside S','A85B8C',-1241744450,3
+282,'282','Tunney''s Pasture <> Trend-Arlington','A85B8C',-1218656425,3
+283,'283','Tunney''s Pasture <> Richmond / Munster','A85B8C',-1217732904,3
+290,'290','McCarthy <> Hurdman','A85B8C',-1191874316,3
+291,'291','Hurdman <> Herongate','A85B8C',-1190950795,3
+294,'294','Hurdman <> Findlay Creek','A85B8C',-1188180232,3
+299,'299','Hurdman <> Manotick','A85B8C',-1183562627,3
+301,'301','Bayshore / Carlingwood <> Richmond / Stittsville','A1A1A1',-561109473,3
+302,'302','St Laurent / Place D''Orléans <> Cumberland','A1A1A1',-560185952,3
+303,'303','Bayshore / Carlingwood <> Dunrobin / Carp / Stittsville','A1A1A1',-559262431,3
+304,'304','Billings Bridge / S Keys <> Osgoode / Greely / Metcalfe','A1A1A1',-558338910,3
+305,'305','Carlingwood <> N Gower / Manotick','A1A1A1',-557415389,3
+404,'404','Centre Canadian Tire Centre','A1A1A1',329164771,3
+405,'405','Centre Canadian Tire Centre','A1A1A1',330088292,3
+406,'406','Centre Canadian Tire Centre','A1A1A1',331011813,3
+602,'602','De La Salle <> MacKenzie King','A1A1A1',2102325091,3
+609,'609','De La Salle <> Elmvale','A1A1A1',2108789738,3
+611,'611','Gisèle Lalonde <> Orléans','A1A1A1',2130030721,3
+612,'612','Béatrice Desloges / Gisele Lalonde <> Renaud','A1A1A1',2130954242,3
+613,'613','Hurdman','A1A1A1',2131877763,3
+615,'615','Parliament','A1A1A1',2133724805,3
+616,'616','Gloucester HS <> Parliament','A1A1A1',2134648326,3
+618,'618','Louis Riel <> Millennium','A1A1A1',2136495368,3
+619,'619','Louis Riel <> Blair','A1A1A1',2137418889,3
+620,'620','St-Laurent','A1A1A1',-2137230945,3
+622,'622','Colonel By / Gloucester HS / Lester B Pearson <> Renaud','A1A1A1',-2135383903,3
+624,'624','Gloucester HS <> Rideau','A1A1A1',-2133536861,3
+628,'628','Louis-Riel','A1A1A1',-2129842777,3
+630,'630','Blair / Colonel By / Gloucester HS <> Millennium','A1A1A1',-2108601794,3
+631,'631','Colonel By / Gloucester HS <> Chapel Hill','A1A1A1',-2107678273,3
+632,'632','Gisèle Lalonde <> Orléans','A1A1A1',-2106754752,3
+633,'633','Lester B Pearson <> St-Laurent','A1A1A1',-2105831231,3
+634,'634','Mer Bleue <> Place D''Orléans','A1A1A1',-2104907710,3
+635,'635','Cairine Wilson HS <> Orléans','A1A1A1',-2103984189,3
+636,'636','Place D''Orléans','A1A1A1',-2103060668,3
+638,'638','Orléans','A1A1A1',-2101213626,3
+639,'639','Gisèle Lalonde <> Place D''Orléans','A1A1A1',-2100290105,3
+640,'640','Brookfield <> S Keys','A1A1A1',-2079972643,3
+641,'641','Louis Riel <> Orléans','A1A1A1',-2079049122,3
+644,'644','Canterbury <> Greenboro','A1A1A1',-2076278559,3
+645,'645','Hurdman','A1A1A1',-2075355038,3
+646,'646','Canterbury HS <> Terry Fox','A1A1A1',-2074431517,3
+648,'648','Louis Riel <> Orléans','A1A1A1',-2072584475,3
+649,'649','Hillcrest <> Greenboro','A1A1A1',-2071660954,3
+658,'658','Bell HS <> Grandview','A1A1A1',-2043955324,3
+660,'660','Innovation <> Bell HS','A1A1A1',-2022714341,3
+661,'661','Terry Fox <> Bell HS','A1A1A1',-2021790820,3
+664,'664','Kanata Lakes <> Earl Of March HS','A1A1A1',-2019020257,3
+665,'665','Kanata <> Bell HS','A1A1A1',-2018096736,3
+667,'667','Summergaze <> Holy Trinity HS','A1A1A1',-2016249694,3
+668,'668','Bridlewood <> Holy Trinity HS','A1A1A1',-2015326173,3
+669,'669','Bayshore <> Bell','A1A1A1',-2014402652,3
+670,'670','Nepean S <> St Pius','A1A1A1',-1994085190,3
+671,'671','Half Moon Bay <> John McCrae HS','A1A1A1',-1993161669,3
+672,'672','Golflinks <> John McCrae HS','A1A1A1',-1992238148,3
+674,'674','Kanata <> All Saints','A1A1A1',-1990391106,3
+675,'675','Cambrian <> Bell HS / Franco-Ouest','A1A1A1',-1989467585,3
+676,'676','Riverview <> Mother Teresa HS','A1A1A1',-1988544064,3
+677,'677','Larkin <> St Joseph HS','A1A1A1',-1987620543,3
+678,'678','Orléans <> Louis Riel','A1A1A1',-1986697022,3
+679,'679','Cobble Hill <> St Joseph HS','A1A1A1',-1985773501,3
+680,'680','Riverside S <> Merivale HS','A1A1A1',-1965456039,3
+681,'681','Kanata <> Bell HS','A1A1A1',-1964532518,3
+682,'682','Fallowfield <> Cedarview MS','A1A1A1',-1963608997,3
+683,'683','Half Moon Bay <> Cedarview MS','A1A1A1',-1962685476,3
+686,'686','Baseline','A1A1A1',-1959914913,3
+688,'688','Terry Fox <> Merivale HS','A1A1A1',-1958067871,3
+689,'689','Omer-Deslaurier HS <> Billings Bridge','A1A1A1',-1957144350,3
+691,'691','Bayshore <> Deslauriers','A1A1A1',-1935903367,3
+693,'693','St Francis Xavier HS <> Blossom Park','A1A1A1',-1934056325,3
+698,'698','Blohm <> St Patrick HS','A1A1A1',-1929438720,3
+699,'699','Findlay Creek <> Pierre-De-Blois','A1A1A1',-1928515199,3
+5000001,'E1','Shuttle / Navette-Express Blair <> Shuttle / Navette-Express Downtown / Centre-Ville','DA291C',2022055223,3
