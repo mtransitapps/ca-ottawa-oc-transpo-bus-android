@@ -178,7 +178,7 @@
 17101,0,'Barrhaven Centre',171
 17100,0,'Fallowfield',171
 17300,0,'Barrhaven Centre',173
-17301,0,'Fallowfield',173
+17301,0,'Bayshore',173
 17501,0,'Barrhaven Centre',175
 17500,0,'Golflinks',175
 17601,0,'Barrhaven Centre',176
@@ -311,7 +311,7 @@
 64001,0,'S Keys',640
 64100,0,'Louis Riel',641
 64101,0,'Orléans',641
-64400,0,'Canterbury',644
+64400,0,'Canterbury HS',644
 64401,0,'Greenboro',644
 64500,0,'Hurdman',645
 64600,0,'Canterbury HS',646
@@ -375,5 +375,5 @@
 69800,0,'St Patrick HS',698
 69901,0,'Findlay Creek',699
 69900,0,'Pierre-De-Blois',699
-500000101,0,'Shuttle / Navette-Express Blair',5000001
-500000100,0,'Shuttle / Navette-Express Downtown / Centre-Ville',5000001
+500000101,0,'Shuttle / Navette-Express Downtown / Centre-Ville - Blair',5000001
+500000100,0,'Shuttle / Navette-Express Downtown / Centre-Ville - Tunney''s P',5000001
