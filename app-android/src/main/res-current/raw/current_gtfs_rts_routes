@@ -73,8 +73,10 @@
 110,'110','Innovation <> Fallowfield','A1A1A1',48656,3
 111,'111','Carleton <> Baseline','D74100',48657,3
 114,'114','Rideau <> Carlington','A1A1A1',48660,3
+125,'125','Aviation Museum <> Blair','A1A1A1',48692,3
 131,'131','Chapel Hill <> Fallingbrook','6E6E70',48719,3
 138,'138','Innes <> Place D''Orléans','6E6E70',48726,3
+139,'139','Petrie Island <> Place D''Orléans','A1A1A1',48727,3
 140,'140','Herongate <> Billings Bridge','A1A1A1',48749,3
 141,'141','Heron Park','A1A1A1',48750,3
 153,'153','Tunney''s Pasture <> Lincoln Fields','A1A1A1',48783,3
@@ -92,6 +94,7 @@
 173,'173','Barrhaven Centre <> Bayshore','A1A1A1',48845,3
 175,'175','Golflinks <> Barrhaven Centre','6E6E70',48847,3
 176,'176','Manotick <> Barrhaven Centre','A1A1A1',48848,3
+185,'185','Experimental Farm','A1A1A1',48878,3
 186,'186','Lincoln Fields <> Merivale','A1A1A1',48879,3
 187,'187','Baseline <> Amberwood','A1A1A1',48880,3
 190,'190','Mooney''s Bay <> Hurdman','A1A1A1',48904,3
