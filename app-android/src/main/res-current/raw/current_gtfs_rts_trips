@@ -271,111 +271,11 @@
 30401,0,'Osgoode / Greely / Metcalfe',304
 30500,0,'Carlingwood',305
 30501,0,'N Gower / Manotick',305
-60200,0,'De La Salle',602
-60201,0,'MacKenzie King',602
-60900,0,'De La Salle',609
-60901,0,'Elmvale',609
-61100,0,'Gisèle Lalonde',611
-61101,0,'Orléans',611
-61200,0,'Béatrice Desloges / Gisele Lalonde',612
-61201,0,'Renaud',612
-61300,0,'Hurdman',613
-61501,0,'Parliament',615
-61600,0,'Gloucester HS',616
-61601,0,'Parliament',616
-61800,0,'Louis Riel',618
-61801,0,'Millennium',618
-61901,0,'Blair',619
-61900,0,'Louis Riel',619
-62000,0,'St-Laurent',620
-62200,0,'Colonel By / Gloucester HS / Lester B Pearson',622
-62201,0,'Renaud',622
-62400,0,'Gloucester HS',624
-62401,0,'Rideau',624
-62800,0,'Louis-Riel',628
-63000,0,'Blair / Colonel By / Gloucester HS',630
-63001,0,'Millennium',630
-63101,0,'Chapel Hill',631
-63100,0,'Colonel By / Gloucester HS',631
-63200,0,'Gisèle Lalonde',632
-63201,0,'Orléans',632
-63300,0,'Lester B Pearson',633
-63301,0,'St-Laurent',633
-63400,0,'Mer Bleue',634
-63401,0,'Place D''Orléans',634
-63500,0,'Cairine Wilson HS',635
-63501,0,'Orléans',635
-63601,0,'Place D''Orléans',636
-63801,0,'Orléans',638
-63900,0,'Gisèle Lalonde',639
-63901,0,'Place D''Orléans',639
-64000,0,'Brookfield',640
-64001,0,'S Keys',640
-64100,0,'Louis Riel',641
-64101,0,'Orléans',641
-64400,0,'Canterbury HS',644
-64401,0,'Greenboro',644
-64500,0,'Hurdman',645
-64600,0,'Canterbury HS',646
-64601,0,'Terry Fox',646
-64800,0,'Louis Riel',648
-64801,0,'Orléans',648
-64901,0,'Greenboro',649
-64900,0,'Hillcrest',649
-65801,0,'Bell HS',658
-65800,0,'Grandview',658
-66000,0,'Bell HS',660
-66001,0,'Innovation',660
-66100,0,'Bell HS',661
-66101,0,'Terry Fox',661
-66400,0,'Earl Of March HS',664
-66401,0,'Kanata Lakes',664
-66500,0,'Bell HS',665
-66501,0,'Kanata',665
-66700,0,'Holy Trinity HS',667
-66701,0,'Summergaze',667
-66801,0,'Bridlewood',668
-66800,0,'Holy Trinity HS',668
-66901,0,'Bayshore',669
-66900,0,'Bell',669
-67001,0,'Nepean S',670
-67000,0,'St Pius',670
-67101,0,'Half Moon Bay',671
-67100,0,'John McCrae HS',671
-67201,0,'Golflinks',672
-67200,0,'John McCrae HS',672
-67400,0,'All Saints',674
-67401,0,'Kanata',674
-67500,0,'Bell HS / Franco-Ouest',675
-67501,0,'Cambrian',675
-67600,0,'Mother Teresa HS',676
-67601,0,'Riverview',676
-67701,0,'Larkin',677
-67700,0,'St Joseph HS',677
-67800,0,'Louis Riel',678
-67801,0,'Orléans',678
-67901,0,'Cobble Hill',679
-67900,0,'St Joseph HS',679
-68000,0,'Merivale HS',680
-68001,0,'Riverside S',680
-68100,0,'Bell HS',681
-68101,0,'Kanata',681
-68200,0,'Cedarview MS',682
-68201,0,'Fallowfield',682
-68300,0,'Cedarview MS',683
-68301,0,'Half Moon Bay',683
-68601,0,'Baseline',686
-68800,0,'Merivale HS',688
-68801,0,'Terry Fox',688
-68900,0,'Billings Bridge',689
-68901,0,'Omer-Deslaurier HS',689
-69101,0,'Bayshore',691
-69100,0,'Deslauriers',691
-69300,0,'Blossom Park',693
-69301,0,'St Francis Xavier HS',693
-69801,0,'Blohm',698
-69800,0,'St Patrick HS',698
-69901,0,'Findlay Creek',699
-69900,0,'Pierre-De-Blois',699
+45000,0,'Lansdowne',450
+45100,0,'Lansdowne',451
+45200,0,'Lansdowne',452
+45400,0,'Lansdowne',454
+45500,0,'Lansdowne',455
+45600,0,'Lansdowne',456
 500000101,0,'Shuttle / Navette-Express Blair',5000001
 500000100,0,'Shuttle / Navette-Express Downtown / Centre-Ville',5000001
