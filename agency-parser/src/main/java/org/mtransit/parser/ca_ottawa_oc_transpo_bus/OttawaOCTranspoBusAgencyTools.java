@@ -44,8 +44,11 @@ public class OttawaOCTranspoBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public boolean excludeRoute(@NotNull GRoute gRoute) {
-		if (gRoute.getRouteShortName().equals("1")) {
-			return EXCLUDE; // misclassified as bus(3) instead of rail(2)
+		final String rsn = gRoute.getRouteShortName();
+		switch (rsn) {
+		case "1": // Confederation Line
+		case "2": // Bayview - Greenboro
+			return EXCLUDE; // wrongfully classified as bus
 		}
 		return super.excludeRoute(gRoute);
 	}
