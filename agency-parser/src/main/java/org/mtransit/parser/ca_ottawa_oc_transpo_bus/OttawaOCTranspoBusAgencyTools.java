@@ -151,10 +151,10 @@ public class OttawaOCTranspoBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
 		final String stopCode = getStopCode(gStop);
-		if (stopCode.length() > 0 && CharUtils.isDigitsOnly(stopCode)) {
+		if (!stopCode.isEmpty() && CharUtils.isDigitsOnly(stopCode)) {
 			return Integer.parseInt(stopCode); // using stop code as stop ID
 		}
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String stopId1 = gStop.getStopId();
 		if ("SNO CAFÉ".equalsIgnoreCase(stopId1)) {
 			return 9_900_001;
