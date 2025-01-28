@@ -100,7 +100,7 @@
 6700,0,'Terry Fox',67
 7300,0,'Leikin',73
 7301,0,'Tunney''s Pasture',73
-7400,0,'Riverview',74
+7400,0,'Limebank',74
 7401,0,'Tunney''s Pasture',74
 7501,0,'Barrhaven Centre',75
 7500,0,'Tunney''s Pasture',75
@@ -191,7 +191,7 @@
 19000,0,'Mooney''s Bay',190
 19700,0,'Uplands Greenboro',197
 19801,0,'Greenboro',198
-19800,0,'Riverview',198
+19800,0,'Limebank',198
 19901,0,'Hurdman',199
 19900,0,'Leikin',199
 22100,0,'Blair',221
@@ -269,6 +269,8 @@
 40400,0,'Centre Canadian Tire Centre',404
 40500,0,'Centre Canadian Tire Centre',405
 40600,0,'Centre Canadian Tire Centre',406
+50601,0,'Downtown',506
+50600,0,'Parc Jacques Cartier Park',506
 60200,0,'De La Salle',602
 60201,0,'MacKenzie King',602
 60900,0,'De La Salle',609

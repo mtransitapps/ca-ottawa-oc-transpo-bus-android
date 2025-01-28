@@ -50,7 +50,7 @@
 66,'66','Kanata-Solandt <> Gatineau','A1A1A1',1728,3
 67,'67','Terry Fox <> Cope','A1A1A1',1729,3
 73,'73','Leikin <> Tunney''s Pasture','A1A1A1',1756,3
-74,'74','Riverview <> Tunney''s Pasture','0056B8',1757,3
+74,'74','Limebank <> Tunney''s Pasture','0056B8',1757,3
 75,'75','Tunney''s Pasture <> Barrhaven Centre','0056B8',1758,3
 80,'80','Barrhaven Centre <> Tunney''s Pasture','D74100',1784,3
 81,'81','Tunney''s Pasture <> Clyde','6E6E70',1785,3
@@ -96,7 +96,7 @@
 187,'187','Baseline <> Amberwood','A1A1A1',48880,3
 190,'190','Mooney''s Bay <> Hurdman','A1A1A1',48904,3
 197,'197','Uplands Greenboro','6E6E70',48911,3
-198,'198','Riverview <> Greenboro','A1A1A1',48912,3
+198,'198','Limebank <> Greenboro','A1A1A1',48912,3
 199,'199','Leikin <> Hurdman','A1A1A1',48913,3
 221,'221','Blair <> Cumberland','A85B8C',49649,3
 222,'222','Blair <> Vars','A85B8C',49650,3
@@ -137,6 +137,7 @@
 404,'404','Centre Canadian Tire Centre','A1A1A1',51512,3
 405,'405','Centre Canadian Tire Centre','A1A1A1',51513,3
 406,'406','Centre Canadian Tire Centre','A1A1A1',51514,3
+506,'SNO','Parc Jacques Cartier Park <> Downtown','A1A1A1',52475,3
 602,'602','De La Salle <> MacKenzie King','A1A1A1',53432,3
 609,'609','De La Salle <> Elmvale','A1A1A1',53439,3
 611,'611','Gisèle Lalonde <> Orléans','A1A1A1',53462,3
