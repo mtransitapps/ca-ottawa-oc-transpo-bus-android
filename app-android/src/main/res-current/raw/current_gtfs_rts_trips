@@ -198,6 +198,8 @@
 22101,0,'Cumberland',221
 22200,0,'Blair',222
 22201,0,'Vars',222
+22601,0,'Blair',226
+22600,0,'Chapel Hill',226
 22800,0,'Blair',228
 22801,0,'Navan / Sarsfield',228
 23100,0,'Blair',231
@@ -269,8 +271,6 @@
 40400,0,'Centre Canadian Tire Centre',404
 40500,0,'Centre Canadian Tire Centre',405
 40600,0,'Centre Canadian Tire Centre',406
-50601,0,'Downtown',506
-50600,0,'Parc Jacques Cartier Park',506
 60200,0,'De La Salle',602
 60201,0,'MacKenzie King',602
 60900,0,'De La Salle',609
