@@ -11,7 +11,7 @@
 1000,0,'Hurdman',10
 1001,0,'Main',10
 1101,0,'Bayshore',11
-1100,0,'Laurier',11
+1100,0,'Waller',11
 1200,0,'Blair',12
 1201,0,'Tunney''s Pasture',12
 1300,0,'Gatineau',13
@@ -33,8 +33,8 @@
 2300,0,'Blair',23
 2400,0,'Chapel Hill',24
 2401,0,'St-Laurent',24
-2500,0,'Carson''s / Wateridge',25
 2501,0,'Millennium',25
+2500,0,'Wateridge',25
 2601,0,'Lester B Pearson',26
 2600,0,'Pineview',26
 3000,0,'Blair',30
@@ -79,10 +79,10 @@
 5300,0,'Tunney''s Pasture',53
 5600,0,'King Edward',56
 5601,0,'Tunney''s Pasture',56
-5701,0,'Crystal Bay',57
+5701,0,'Carling Campus',57
 5700,0,'Rideau',57
+5800,0,'Abbott Point Of Care',58
 5801,0,'Bayshore',58
-5800,0,'Crystal Bay',58
 6000,0,'Cope',60
 6001,0,'Tunney''s Pasture',60
 6100,0,'Rideau',61
@@ -124,10 +124,10 @@
 9001,0,'Hurdman',90
 9000,0,'St Patricks',90
 9200,0,'Greenboro',92
-9201,0,'Hurdman',92
-9300,0,'Findlay Creek',93
+9201,0,'Hurdman / Walkley',92
 9301,0,'Leitrim',93
-9401,0,'Findlay Creek',94
+9300,0,'Rotary',93
+9401,0,'Dun Skipper',94
 9400,0,'Leitrim',94
 9800,0,'Hawthorne',98
 9801,0,'Rideau',98
@@ -151,7 +151,7 @@
 15801,0,'Haanel',158
 16100,0,'Hazeldean',161
 16101,0,'Terry Fox',161
-16200,0,'Tanger Outlet Mall',162
+16200,0,'Kanata W / Ouest',162
 16201,0,'Terry Fox',162
 16301,0,'Kittiwake',163
 16300,0,'Terry Fox',163
@@ -215,8 +215,9 @@
 30500,0,'Carlingwood',305
 30501,0,'N Gower / Kars / Manotick',305
 40400,0,'Canadian Tire Centre',404
-40500,0,'Canadian Tire Centre',405
-40600,0,'Canadian Tire Centre',406
+40401,0,'Centre Canadian Tire Centre',404
+40501,0,'Centre Canadian Tire Centre',405
+40601,0,'Centre Canadian Tire Centre',406
 60200,0,'De La Salle',602
 60201,0,'Rideau',602
 60600,0,'Immaculata',606
@@ -353,9 +354,7 @@
 69701,0,'Ridgemont',697
 69801,0,'Blohm',698
 69800,0,'St Pat''s',698
-69901,0,'Findlay Creek',699
 69900,0,'Pierre-De-Blois',699
+69901,0,'Rotary',699
 500000101,0,'Blair',5000001
 500000100,0,'Lyon',5000001
-1800000101,0,'Blair / Cyrville',18000001
-1800000100,0,'St-Laurent / Tunney''s Pasture',18000001

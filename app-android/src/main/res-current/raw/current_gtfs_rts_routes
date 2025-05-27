@@ -144,12 +144,12 @@
 647,'647','Canterbury HS <> Hurdman','B3B3B3',53561,3
 648,'648','Louis Riel <> Orléans','B3B3B3',53562,3
 649,'649','Hillcrest <> Greenboro','B3B3B3',53563,3
-656,'656','AY Jackson <> Hope Side','B3B3B3',53591,3
-657,'657','AY Jackson <> Hope Side','B3B3B3',53592,3
+656,'656','Hope Side <> AY Jackson','B3B3B3',53591,3
+657,'657','Hope Side <> AY Jackson','B3B3B3',53592,3
 658,'658','Grandview / Borden <> Bell HS','B3B3B3',53593,3
 660,'660','Bell HS <> Innovation','B3B3B3',53616,3
 661,'661','Bell HS <> Terry Fox','B3B3B3',53617,3
-662,'662','Holy Trinity <> Bridlewood','B3B3B3',53618,3
+662,'662','Holy Trinity','B3B3B3',53618,3
 663,'663','Earl Of March HS <> Terry Fox','B3B3B3',53619,3
 664,'664','Earl Of March <> Terry Fox','B3B3B3',53620,3
 665,'665','Bell HS <> Bridlewood','B3B3B3',53621,3
@@ -163,7 +163,7 @@
 674,'674','All Saints <> Innovation','B3B3B3',53651,3
 675,'675','Bell HS / Franco-Ouest <> Cambrian','B3B3B3',53652,3
 676,'676','St Mother Teresa HS <> Riverview','B3B3B3',53653,3
-677,'677','Larkin <> St Joseph HS','B3B3B3',53654,3
+677,'677','St Joseph HS <> Larkin','B3B3B3',53654,3
 678,'678','Louis Riel <> Orléans','B3B3B3',53655,3
 679,'679','St Joseph HS <> Cobble Hill','B3B3B3',53656,3
 680,'680','Merivale HS <> Riverside South ~ Riverside Sud','B3B3B3',53678,3
@@ -184,4 +184,3 @@
 698,'698','St Patrick HS <> Blohm','B3B3B3',53717,3
 699,'699','Pierre-Des-Blois <> Findlay Creek','B3B3B3',53718,3
 5000001,'E1','Shuttle/Navette-Express Downtown/Centre-Ville <> Shuttle/Navette-Express Blair','D30F1D',2188,3
-18000001,'R1','Tunney''s Pasture <> Blair','D30F1D',2591,3
