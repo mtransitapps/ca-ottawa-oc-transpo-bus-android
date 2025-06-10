@@ -123,8 +123,8 @@
 8800,0,'Hurdman',88
 9001,0,'Hurdman',90
 9000,0,'St Patricks',90
-9200,0,'Greenboro',92
-9201,0,'Hurdman / Walkley',92
+9201,0,'Hurdman',92
+9200,0,'St Pat''s',92
 9301,0,'Leitrim',93
 9300,0,'Rotary',93
 9401,0,'Dun Skipper',94
@@ -214,10 +214,7 @@
 30401,0,'Osgoode / Metcalfe / Greely',304
 30500,0,'Carlingwood',305
 30501,0,'N Gower / Kars / Manotick',305
-40400,0,'Canadian Tire Centre',404
-40401,0,'Centre Canadian Tire Centre',404
-40501,0,'Centre Canadian Tire Centre',405
-40601,0,'Centre Canadian Tire Centre',406
+40401,0,'Tunney''s Pasture',404
 60200,0,'De La Salle',602
 60201,0,'Rideau',602
 60600,0,'Immaculata',606
@@ -358,3 +355,5 @@
 69901,0,'Rotary',699
 500000101,0,'Blair',5000001
 500000100,0,'Lyon',5000001
+1800000101,0,'Cyrville / Shuttle Express Blair | Navette Express Blair',18000001
+1800000100,0,'St-Laurent / Tunney''s Pasture W | Tunney''s Pasture Ouest',18000001
