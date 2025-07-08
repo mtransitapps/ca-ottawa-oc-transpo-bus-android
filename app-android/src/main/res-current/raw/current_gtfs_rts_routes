@@ -75,7 +75,7 @@
 138,'138','Place D''Orléans <> Hiawatha','6D6E70',48726,3
 139,'139','Petrie Island ~ Île Petrie <> Place D''Orléans','B3B3B3',48727,3
 153,'153','Carlingwood <> Lincoln Fields','B3B3B3',48783,3
-158,'158','Bayshore <> Haanel','6D6E70',48788,3
+158,'158','Bayshore <> Haanel','B3B3B3',48788,3
 161,'161','Hazeldean <> Terry Fox','6D6E70',48812,3
 162,'162','Kanata West~Kanata Ouest <> Terry Fox','6D6E70',48813,3
 163,'163','Terry Fox <> Kittiwake','6D6E70',48814,3
@@ -116,4 +116,4 @@
 455,'455','Lansdowne','B3B3B3',51668,3
 456,'456','Lansdowne','B3B3B3',51669,3
 5000001,'E1','Shuttle/Navette-Express Downtown/Centre-Ville <> Shuttle/Navette-Express Blair','D30F1D',2188,3
-18000001,'R1','Tunney''s Pasture <> Blair','D30F1D',2591,3
+18000001,'R1','Tunney''s Pasture <> Hurdman','DA291C',2591,3
