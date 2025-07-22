@@ -218,6 +218,9 @@
 30401,0,'Osgoode / Metcalfe / Greely',304
 30500,0,'Carlingwood',305
 30501,0,'N Gower / Kars / Manotick',305
+40401,0,'Tunney''s Pasture',404
+40501,0,'Trim',405
+40601,0,'Limebank',406
 45000,0,'Lansdowne',450
 45100,0,'Lansdowne',451
 45200,0,'Lansdowne',452
@@ -226,5 +229,5 @@
 45600,0,'Lansdowne',456
 500000101,0,'Blair',5000001
 500000100,0,'Lyon',5000001
-1800000101,0,'Blair',18000001
-1800000100,0,'Tunney''s Pasture',18000001
+1800000101,0,'Blair E | Blair Est / Cyrville',18000001
+1800000100,0,'Tunney''s Pasture W | Tunney''s Pasture Ouest',18000001
