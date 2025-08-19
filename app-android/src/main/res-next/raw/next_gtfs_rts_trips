@@ -1,0 +1,365 @@
+501,0,'Elmvale',5
+500,0,'Rockcliffe',5
+600,0,'Greenboro',6
+601,0,'Rockcliffe',6
+700,0,'Carleton',7
+701,0,'St-Laurent',7
+801,0,'Dow''s Lake',8
+800,0,'Gatineau',8
+901,0,'Hurdman',9
+900,0,'Rideau',9
+1000,0,'Hurdman',10
+1001,0,'Main',10
+1101,0,'Bayshore',11
+1100,0,'Waller',11
+1200,0,'Blair',12
+1201,0,'Tunney''s Pasture',12
+1300,0,'Gatineau',13
+1301,0,'Tunney''s Pasture',13
+1400,0,'St-Laurent',14
+1401,0,'Tunney''s Pasture',14
+1500,0,'Blair',15
+1501,0,'Parliament',15
+1701,0,'Parliament',17
+1700,0,'Wateridge',17
+1801,0,'Billings Bridge',18
+1800,0,'St-Laurent',18
+1901,0,'Hurdman',19
+1900,0,'Parliament',19
+2000,0,'Rideau',20
+2001,0,'St-Laurent',20
+2101,0,'Blair',21
+2100,0,'Canotek',21
+2300,0,'Blair',23
+2400,0,'Chapel Hill',24
+2401,0,'St-Laurent',24
+2501,0,'Millennium',25
+2500,0,'Wateridge',25
+2601,0,'Lester B Pearson',26
+2600,0,'Pineview',26
+3000,0,'Blair',30
+3001,0,'Millennium',30
+3100,0,'Innes',31
+3101,0,'Place D''Orléans',31
+3200,0,'Blair',32
+3201,0,'Chapel Hill',32
+3300,0,'Blair',33
+3301,0,'Gisèle Lalonde',33
+3400,0,'Blair',34
+3401,0,'Chapel Hill',34
+3501,0,'Avalon',35
+3500,0,'Colonel By',35
+3601,0,'Innes',36
+3600,0,'Place D''Orléans',36
+3800,0,'Blair',38
+3801,0,'Trim',38
+3901,0,'Millennium',39
+3900,0,'Rideau',39
+4001,0,'Greenboro',40
+4000,0,'St-Laurent',40
+4101,0,'Billings Bridge',41
+4100,0,'St-Laurent',41
+4200,0,'Blair',42
+4201,0,'Hurdman',42
+4301,0,'Greenboro',43
+4300,0,'Karsh',43
+4400,0,'Billings Bridge',44
+4401,0,'Hurdman',44
+4500,0,'Hospital',45
+4501,0,'Rideau',45
+4700,0,'Hawthorne',47
+4701,0,'St-Laurent',47
+4801,0,'Carleton',48
+4800,0,'Hurdman',48
+4900,0,'Elmvale',49
+4901,0,'Hurdman',49
+5101,0,'Britannia',51
+5100,0,'Tunney''s Pasture',51
+5301,0,'Baseline',53
+5300,0,'Tunney''s Pasture',53
+5600,0,'King Edward',56
+5601,0,'Tunney''s Pasture',56
+5701,0,'Carling Campus',57
+5700,0,'Rideau',57
+5800,0,'Abbott Point Of Care',58
+5801,0,'Tunney''s Pasture',58
+6000,0,'Cope',60
+6001,0,'Tunney''s Pasture',60
+6100,0,'Rideau',61
+6101,0,'Stittsville',61
+6201,0,'Stittsville',62
+6200,0,'Tunney''s Pasture',62
+6300,0,'Innovation',63
+6301,0,'Tunney''s Pasture',63
+6601,0,'Innovation',66
+6600,0,'Tunney''s Pasture',66
+6701,0,'Cope',67
+6700,0,'Tunney''s Pasture',67
+6800,0,'Baseline',68
+6801,0,'Terry Fox',68
+7000,0,'Fallowfield',70
+7001,0,'Limebank',70
+7300,0,'Limebank',73
+7301,0,'Tunney''s Pasture',73
+7400,0,'Limebank',74
+7401,0,'Tunney''s Pasture',74
+7501,0,'Cambrian',75
+7500,0,'Rideau',75
+8000,0,'Barrhaven Centre',80
+8001,0,'Tunney''s Pasture',80
+8101,0,'Bayshore',81
+8100,0,'Tunney''s Pasture',81
+8200,0,'Baseline',82
+8201,0,'Tunney''s Pasture',82
+8401,0,'Baseline',84
+8400,0,'Centrepointe',84
+8501,0,'Bayshore',85
+8500,0,'Lees',85
+8601,0,'Antares',86
+8600,0,'Tunney''s Pasture',86
+8701,0,'Baseline',87
+8700,0,'Tunney''s Pasture',87
+8801,0,'Bayshore',88
+8800,0,'Hurdman',88
+9001,0,'Hurdman',90
+9000,0,'St Patricks',90
+9201,0,'Hurdman',92
+9200,0,'St Pat''s',92
+9301,0,'Leitrim',93
+9300,0,'Rotary',93
+9401,0,'Dun Skipper',94
+9400,0,'Leitrim',94
+9800,0,'Hawthorne',98
+9801,0,'Hurdman',98
+9900,0,'Barrhaven Centre',99
+9901,0,'Limebank',99
+10500,0,'Airport',105
+10501,0,'St-Laurent',105
+11001,0,'Greenboro',110
+11000,0,'Innovation',110
+11101,0,'Baseline',111
+11100,0,'Carleton',111
+11201,0,'Baseline',112
+11200,0,'Billings Bridge',112
+11601,0,'Baseline',116
+11600,0,'Greenboro',116
+11700,0,'Baseline',117
+11701,0,'Greenboro',117
+12500,0,'Aviation',125
+12501,0,'Blair',125
+13801,0,'Hiawatha',138
+13800,0,'Place D''Orléans',138
+13900,0,'Petrie Island',139
+13901,0,'Place D''Orléans',139
+15300,0,'Carlingwood',153
+15301,0,'Lincoln Fields',153
+15800,0,'Bayshore',158
+15801,0,'Haanel',158
+16101,0,'Earl Of March',161
+16100,0,'Hazeldean',161
+16200,0,'Kanata W / Ouest',162
+16201,0,'Terry Fox',162
+16301,0,'Kimpton',163
+16300,0,'Terry Fox',163
+16500,0,'Innovation',165
+16501,0,'Terry Fox',165
+16800,0,'Hope Side',168
+16801,0,'Terry Fox',168
+17301,0,'Barrhaven Centre',173
+17300,0,'Citigate',173
+18701,0,'Amberwood',187
+18700,0,'Baseline',187
+18901,0,'Baseline',189
+18900,0,'Colonnade',189
+19700,0,'Greenboro',197
+19801,0,'Greenboro',198
+19800,0,'Limebank',198
+22100,0,'Blair',221
+22101,0,'Cumberland',221
+22200,0,'Blair',222
+22201,0,'Vars',222
+22601,0,'Blair',226
+22600,0,'Chapel Hill',226
+22800,0,'Blair',228
+22801,0,'Navan',228
+23400,0,'Blair',234
+23401,0,'Tenth Line',234
+23700,0,'Blair',237
+23701,0,'Place D''Orléans',237
+25601,0,'Templeford',256
+25600,0,'Tunney''s Pasture',256
+26101,0,'Kimpton',261
+26100,0,'Tunney''s Pasture',261
+26200,0,'Tunney''s Pasture',262
+26201,0,'W Ridge',262
+26301,0,'Richmond',263
+26300,0,'Tunney''s Pasture',263
+26501,0,'Terry Fox',265
+26500,0,'Tunney''s Pasture',265
+26601,0,'Springbrook',266
+26600,0,'Tunney''s Pasture',266
+27501,0,'Half Moon Bay',275
+27500,0,'Tunney''s Pasture',275
+27701,0,'Nepean Woods',277
+27700,0,'Tunney''s Pasture',277
+27901,0,'Manotick',279
+27900,0,'Tunney''s Pasture',279
+28300,0,'Limebank',283
+28301,0,'Munster Hamlet',283
+29400,0,'Greenboro',294
+29401,0,'Lester',294
+29900,0,'Limebank / St Francis Xavier',299
+29901,0,'Manotick',299
+30100,0,'Carlingwood',301
+30101,0,'Richmond',301
+30201,0,'Cumberland / Sarsfield / Navan',302
+30200,0,'St-Laurent',302
+30300,0,'Carlingwood',303
+30301,0,'Dunrobin / Carp',303
+30400,0,'Billings Bridge',304
+30401,0,'Osgoode / Metcalfe / Greely',304
+30500,0,'Carlingwood',305
+30501,0,'N Gower / Kars / Manotick',305
+56100,0,'Lincoln Fields',561
+60200,0,'De La Salle',602
+60201,0,'Rideau',602
+60600,0,'Immaculata',606
+60900,0,'De La Salle',609
+60901,0,'Elmvale',609
+61001,0,'Baseline',610
+61000,0,'St Pius',610
+61100,0,'Gisèle Lalonde',611
+61101,0,'Orléans',611
+61200,0,'Gisèle Lalonde',612
+61201,0,'Renaud',612
+61300,0,'Hurdman',613
+61501,0,'Parliament',615
+61600,0,'Gloucester',616
+61601,0,'Parliament',616
+61701,0,'Hurdman',617
+61700,0,'Omer-Deslauriers',617
+61800,0,'Louis Riel',618
+61801,0,'Millennium',618
+61901,0,'Blair',619
+61900,0,'Louis Riel',619
+62000,0,'St-Laurent',620
+62101,0,'Blackburn Hamlet',621
+62100,0,'Colonel By',621
+62200,0,'Colonel By',622
+62201,0,'Renaud',622
+62400,0,'Gloucester',624
+62401,0,'Rideau',624
+62701,0,'Blackburn Hamlet',627
+62700,0,'St Matthew',627
+62801,0,'Blair',628
+62800,0,'Louis Riel',628
+63000,0,'Colonel By',630
+63001,0,'Millennium',630
+63100,0,'Colonel By',631
+63101,0,'Innes',631
+63200,0,'Gisèle Lalonde',632
+63201,0,'Orléans',632
+63300,0,'Lester B Pearson',633
+63301,0,'St-Laurent',633
+63400,0,'Mer Bleue',634
+63401,0,'Place D''Orléans',634
+63701,0,'Chapel Hill',637
+63700,0,'St Matthew',637
+63801,0,'Place D''Orléans',638
+63900,0,'Gisèle Lalonde',639
+63901,0,'Place D''Orléans',639
+64000,0,'Brookfield',640
+64001,0,'Greenboro',640
+64100,0,'Louis Riel',641
+64101,0,'Renaud',641
+64400,0,'Canterbury',644
+64401,0,'Greenboro',644
+64500,0,'Hurdman',645
+64600,0,'Canterbury',646
+64601,0,'Terry Fox',646
+64700,0,'Canterbury',647
+64701,0,'Hurdman',647
+64800,0,'Louis Riel',648
+64801,0,'Orléans',648
+64901,0,'Greenboro',649
+64900,0,'Hillcrest',649
+65601,0,'AY Jackson',656
+65600,0,'Hope Side',656
+65701,0,'AY Jackson',657
+65700,0,'Hope Side',657
+65801,0,'Bell',658
+65800,0,'Grandview',658
+65901,0,'Leikin',659
+65900,0,'Longfields-Davidson Heights HS',659
+66000,0,'Bell',660
+66001,0,'Innovation',660
+66100,0,'Bell',661
+66101,0,'Terry Fox',661
+66200,0,'Glen Cairn',662
+66300,0,'Earl Of March',663
+66301,0,'Terry Fox',663
+66400,0,'Earl Of March',664
+66401,0,'Kanata Lakes',664
+66500,0,'Bell',665
+66501,0,'Bridlewood',665
+66700,0,'Holy Trinity',667
+66701,0,'Hope Side',667
+66801,0,'Bridlewood',668
+66800,0,'Holy Trinity',668
+66901,0,'Bayshore',669
+66900,0,'Bell',669
+67001,0,'Nepean S',670
+67000,0,'St Pius',670
+67101,0,'Half Moon Bay',671
+67100,0,'John McCrae',671
+67200,0,'John McCrae',672
+67201,0,'Riverstone / Fencerow',672
+67300,0,'Fallowfield',673
+67301,0,'Pierre-De-Blois',673
+67400,0,'All Saints',674
+67401,0,'Innovation',674
+67501,0,'Cambrian',675
+67500,0,'Franco-Ouest',675
+67600,0,'Mother Teresa',676
+67601,0,'Riverview',676
+67701,0,'Larkin',677
+67700,0,'St Joseph',677
+67800,0,'Louis Riel',678
+67801,0,'Orléans',678
+67901,0,'Cobble Hill',679
+67900,0,'St Joseph',679
+68000,0,'Merivale HS',680
+68001,0,'Riverside S',680
+68100,0,'Bell',681
+68101,0,'Bridlewood',681
+68200,0,'Cedarview',682
+68201,0,'Fallowfield',682
+68300,0,'Cedarview',683
+68301,0,'Half Moon Bay',683
+68400,0,'Golflinks',684
+68401,0,'Longfields-Davidson Heights HS',684
+68501,0,'Fallowfield',685
+68500,0,'Pierre-De-Blois',685
+68601,0,'Baseline',686
+68700,0,'Merivale',687
+68701,0,'Nepean S',687
+68800,0,'Merivale',688
+68801,0,'Terry Fox',688
+68900,0,'Conroy',689
+68901,0,'Omer-Deslauriers',689
+69000,0,'Mother Teresa',690
+69001,0,'Pierre-De-Blois',690
+69101,0,'Bayshore',691
+69100,0,'Omer-Deslauriers',691
+69601,0,'Larkin',696
+69600,0,'Mother Teresa',696
+69700,0,'Leitrim',697
+69701,0,'Ridgemont',697
+69801,0,'Blohm',698
+69800,0,'St Pat''s',698
+69900,0,'Pierre-De-Blois',699
+69901,0,'Rotary',699
+500000101,0,'Blair',5000001
+500000100,0,'Lyon',5000001
+1800000101,0,'Blair E | Blair Est',18000001
+1800000100,0,'Tunney''s Pasture W | Tunney''s Pasture Ouest',18000001
