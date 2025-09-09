@@ -68,7 +68,7 @@ public class OttawaOCTranspoBusAgencyTools extends DefaultAgencyTools {
 
 	@Nullable
 	public String getRouteIdCleanupRegex() {
-		return "\\-\\d+$";
+		return "\\-\\d+(\\-\\d+)?$";
 	}
 
 	@Override
