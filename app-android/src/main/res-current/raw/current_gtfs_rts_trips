@@ -145,19 +145,15 @@
 11600,0,'Greenboro',116
 11700,0,'Baseline',117
 11701,0,'Greenboro',117
-12500,0,'Aviation',125
-12501,0,'Blair',125
 13801,0,'Hiawatha',138
 13800,0,'Place D''Orléans',138
-13900,0,'Petrie Island',139
-13901,0,'Place D''Orléans',139
 15300,0,'Carlingwood',153
 15301,0,'Lincoln Fields',153
 15800,0,'Bayshore',158
 15801,0,'Haanel',158
 16101,0,'Earl Of March',161
 16100,0,'Hazeldean',161
-16200,0,'Kanata W / Ouest',162
+16200,0,'Kanata W',162
 16201,0,'Terry Fox',162
 16301,0,'Kimpton',163
 16300,0,'Terry Fox',163
@@ -220,13 +216,9 @@
 30401,0,'Osgoode / Metcalfe / Greely',304
 30500,0,'Carlingwood',305
 30501,0,'N Gower / Kars / Manotick',305
-45000,0,'Lansdowne',450
-45100,0,'Lansdowne',451
-45200,0,'Lansdowne',452
-45400,0,'Lansdowne',454
-45500,0,'Lansdowne',455
-45600,0,'Lansdowne',456
-56100,0,'Lincoln Fields',561
+40401,0,'Tunney''s Pasture',404
+40501,0,'Trim',405
+40601,0,'Limebank',406
 60200,0,'De La Salle',602
 60201,0,'Rideau',602
 60600,0,'Immaculata',606
@@ -293,27 +285,27 @@
 65600,0,'Hope Side',656
 65701,0,'AY Jackson',657
 65700,0,'Hope Side',657
-65801,0,'Bell',658
+65801,0,'Bell HS',658
 65800,0,'Grandview',658
 65901,0,'Leikin',659
 65900,0,'Longfields-Davidson Heights HS',659
-66000,0,'Bell',660
+66000,0,'Bell HS',660
 66001,0,'Innovation',660
-66100,0,'Bell',661
+66100,0,'Bell HS',661
 66101,0,'Terry Fox',661
 66200,0,'Glen Cairn',662
 66300,0,'Earl Of March',663
 66301,0,'Terry Fox',663
 66400,0,'Earl Of March',664
 66401,0,'Kanata Lakes',664
-66500,0,'Bell',665
+66500,0,'Bell HS',665
 66501,0,'Bridlewood',665
 66700,0,'Holy Trinity',667
 66701,0,'Hope Side',667
 66801,0,'Bridlewood',668
 66800,0,'Holy Trinity',668
 66901,0,'Bayshore',669
-66900,0,'Bell',669
+66900,0,'Bell HS',669
 67001,0,'Nepean S',670
 67000,0,'St Pius',670
 67101,0,'Half Moon Bay',671
@@ -336,7 +328,7 @@
 67900,0,'St Joseph',679
 68000,0,'Merivale HS',680
 68001,0,'Riverside S',680
-68100,0,'Bell',681
+68100,0,'Bell HS',681
 68101,0,'Bridlewood',681
 68200,0,'Cedarview',682
 68201,0,'Fallowfield',682
@@ -367,5 +359,5 @@
 69901,0,'Rotary',699
 500000101,0,'Blair',5000001
 500000100,0,'Lyon',5000001
-1800000101,0,'Blair E | Blair Est',18000001
-1800000100,0,'Tunney''s Pasture W | Tunney''s Pasture Ouest',18000001
+1800000101,0,'Blair / Cyrville',18000001
+1800000100,0,'St-Laurent / Tunney''s Pasture',18000001

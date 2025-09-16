@@ -51,8 +51,8 @@
 70,'70','Fallowfield <> Limebank & CFIA ~ ACIA','6D6E70',1753,3
 73,'73','Limebank <> Fallowfield / Tunney''s Pasture','6D6E70',1756,3
 74,'74','Limebank <> Tunney''s Pasture','0057B8',1757,3
-75,'75','Tunney''s Pasture & N Rideau <> Barrhaven Centre / Cambrian ~ Center Barrhaven / Cambrian','0057B8',1758,3
-80,'80','Barrhaven Centre ~ Centre Barrhaven <> Tunney''s Pasture','0057B8',1784,3
+75,'75','Tunney''s Pasture & N Rideau <> Barrhaven Centre / Cambrian','0057B8',1758,3
+80,'80','Barrhaven Centre <> Tunney''s Pasture','0057B8',1784,3
 81,'81','Tunney''s Pasture <> Bayshore','6D6E70',1785,3
 82,'82','Baseline <> Lincoln Fields & Tunney''s Pasture','6D6E70',1786,3
 84,'84','Centrepointe <> Baseline','B3B3B3',1788,3
@@ -65,20 +65,18 @@
 93,'93','Rotary <> Leitrim','6D6E70',1818,3
 94,'94','Leitrim <> Dun Skipper','B3B3B3',1819,3
 98,'98','Hawthorne <> Hurdman','0057B8',1823,3
-99,'99','Barrhaven Centre ~ Centre Barrhaven <> LimebanK','6D6E70',1824,3
+99,'99','Barrhaven Centre Via Weybridge <> LimebanK','6D6E70',1824,3
 105,'105','Airport ~ Aéroport <> Hurdman / St-Laurent & N Rideau','0057B8',48630,3
 110,'110','Innovation / Briarbrook <> Limebank & Greenboro','6D6E70',48656,3
 111,'111','Billings Bridge / Carleton <> Baseline','0057B8',48657,3
 112,'112','Billings Bridge <> Baseline','6D6E70',48658,3
 116,'116','Greenboro <> Baseline','6D6E70',48662,3
 117,'117','Baseline <> Greenboro','B3B3B3',48663,3
-125,'125','Aviation <> Blair','B3B3B3',48692,3
 138,'138','Place D''Orléans <> Hiawatha','6D6E70',48726,3
-139,'139','Petrie Island ~ Île Petrie <> Place D''Orléans','B3B3B3',48727,3
 153,'153','Carlingwood <> Lincoln Fields','B3B3B3',48783,3
 158,'158','Bayshore <> Haanel','B3B3B3',48788,3
 161,'161','Hazeldean <> Terry Fox','6D6E70',48812,3
-162,'162','Kanata West~Kanata Ouest <> Terry Fox','6D6E70',48813,3
+162,'162','Kanata West ~ Kanata Ouest <> Terry Fox','6D6E70',48813,3
 163,'163','Terry Fox <> Kittiwake','6D6E70',48814,3
 165,'165','Innovation <> Terry Fox','6D6E70',48816,3
 168,'168','Hope Side <> Terry Fox','6D6E70',48819,3
@@ -110,13 +108,9 @@
 303,'303','Bayshore / Carlingwood <> Dunrobin / Carp / Stittsville','B3B3B3',50550,3
 304,'304','Billings Bridge / South Keys <> Osgoode / Greely / Metcalfe','B3B3B3',50551,3
 305,'305','Carlingwood <> North Gower / Manotick','B3B3B3',50552,3
-450,'450','Lansdowne','B3B3B3',51663,3
-451,'451','Lansdowne','B3B3B3',51664,3
-452,'452','Lansdowne','B3B3B3',51665,3
-454,'454','Lansdowne','B3B3B3',51667,3
-455,'455','Lansdowne','B3B3B3',51668,3
-456,'456','Lansdowne','B3B3B3',51669,3
-561,'561','Shuttle ~ Navette','',52656,3
+404,'404','Canadian Tire Centre ~ Centre Canadian Tire','B3B3B3',51512,3
+405,'405','Canadian Tire Centre ~ Centre Canadian Tire','B3B3B3',51513,3
+406,'406','Canadian Tire Centre ~ Centre Canadian Tire','B3B3B3',51514,3
 602,'602','De La Salle <> Rideau','B3B3B3',53432,3
 606,'606','Immaculata HS','B3B3B3',53436,3
 609,'609','De La Salle <> Elmvale','B3B3B3',53439,3
@@ -191,4 +185,4 @@
 698,'698','St.Patrick HS <> Blohm','B3B3B3',53717,3
 699,'699','Pierre-Des-Blois <> Findlay Creek','B3B3B3',53718,3
 5000001,'E1','Shuttle-Express Downtown ~ Navette-Express Centre-Ville <> Shuttle-Express Blair ~ Navette-Express Blair','D30F1D',2188,3
-18000001,'R1','Tunney''s Pasture <> Blair','D30F1D',2591,3
+18000001,'R1','Tunney''s Pasture <> Hurdman','DA291C',2591,3
