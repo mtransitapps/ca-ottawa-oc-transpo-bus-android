@@ -135,7 +135,7 @@
 9901,0,'Limebank',99
 10500,0,'Airport',105
 10501,0,'St-Laurent',105
-11001,0,'Greenboro',110
+11001,0,'Hurdman',110
 11000,0,'Innovation',110
 11101,0,'Baseline',111
 11100,0,'Carleton',111
@@ -219,12 +219,6 @@
 40400,0,'Canadian Tire Centre',404
 40500,0,'Canadian Tire Centre',405
 40600,0,'Canadian Tire Centre',406
-45000,0,'Lansdowne',450
-45100,0,'Lansdowne',451
-45200,0,'Lansdowne',452
-45400,0,'Lansdowne',454
-45500,0,'Lansdowne',455
-45600,0,'Lansdowne',456
 60200,0,'De La Salle',602
 60201,0,'Rideau',602
 60600,0,'Immaculata',606
@@ -365,5 +359,3 @@
 69901,0,'Rotary',699
 500000101,0,'Blair',5000001
 500000100,0,'Lyon',5000001
-1800000101,0,'Blair / Cyrville',18000001
-1800000100,0,'St-Laurent / Tunney''s Pasture',18000001
