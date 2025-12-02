@@ -1,20 +1,26 @@
-'1',3900,34240,0,'N Rideau',0,6500,0,'N Rideau',0,2700,0,'N Rideau',0,7100,0,'N Rideau',0,201760,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0,3100,0,'N Rideau',0
-'1',3901,35420,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,2500,0,'Place D''Orléans',0,210330,0,'Trim',0,7300,0,'Trim',0,3000,0,'Trim',0,7000,0,'Trim',0
-'10',3900,34240,0,'N Rideau',0,6500,0,'N Rideau',0,2700,0,'N Rideau',0,7100,0,'N Rideau',0,201760,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0,3100,0,'N Rideau',0
-'10',3901,35420,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,2500,0,'Place D''Orléans',0,210330,0,'Trim',0,7300,0,'Trim',0,3000,0,'Trim',0,7000,0,'Trim',0
-'2',3900,34240,0,'N Rideau',0,6500,0,'N Rideau',0,2700,0,'N Rideau',0,7100,0,'N Rideau',0,201760,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0,3100,0,'N Rideau',0
-'2',3901,35420,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,2500,0,'Place D''Orléans',0,210330,0,'Trim',0,7300,0,'Trim',0,3000,0,'Trim',0,7000,0,'Trim',0
-'3',3900,33600,0,'N Rideau',0,2000,0,'N Rideau',0,7040,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0,3000,0,'N Rideau',0,205960,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0
-'3',3901,40120,0,'Place D''Orléans',0,3000,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,3000,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,204530,0,'Place D''Orléans',0,7100,0,'Place D''Orléans',0
-'4',3900,34240,0,'N Rideau',0,6500,0,'N Rideau',0,2700,0,'N Rideau',0,7100,0,'N Rideau',0,201760,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0,3100,0,'N Rideau',0
-'4',3901,35420,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,2500,0,'Place D''Orléans',0,210330,0,'Trim',0,7300,0,'Trim',0,3000,0,'Trim',0,7000,0,'Trim',0
-'5',3900,33600,0,'N Rideau',0,2000,0,'N Rideau',0,7040,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0,3000,0,'N Rideau',0,205960,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0
-'5',3901,40120,0,'Place D''Orléans',0,3000,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,3000,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,204530,0,'Place D''Orléans',0,7100,0,'Place D''Orléans',0
-'6',3900,34500,0,'N Rideau',0,7000,0,'N Rideau',0,3040,0,'N Rideau',0,7000,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0,3000,0,'N Rideau',0,6960,0,'N Rideau',0,3000,0,'N Rideau',0,157630,0,'N Rideau',0,2870,0,'N Rideau',0,7000,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0
-'6',3901,35920,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,3000,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,3000,0,'Place D''Orléans',0,7100,0,'Place D''Orléans',0,7120,0,'Place D''Orléans',0,3000,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,1560,0,'Place D''Orléans',0,158750,0,'Place D''Orléans',0,3000,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,3000,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,3000,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0
-'7',3900,34240,0,'N Rideau',0,6500,0,'N Rideau',0,2700,0,'N Rideau',0,7100,0,'N Rideau',0,201760,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0,3100,0,'N Rideau',0
-'7',3901,35420,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,2500,0,'Place D''Orléans',0,210330,0,'Trim',0,7300,0,'Trim',0,3000,0,'Trim',0,7000,0,'Trim',0
-'8',3900,34240,0,'N Rideau',0,6500,0,'N Rideau',0,2700,0,'N Rideau',0,7100,0,'N Rideau',0,201760,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0,3100,0,'N Rideau',0
-'8',3901,35420,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,2500,0,'Place D''Orléans',0,210330,0,'Trim',0,7300,0,'Trim',0,3000,0,'Trim',0,7000,0,'Trim',0
-'9',3900,33600,0,'N Rideau',0,2000,0,'N Rideau',0,7040,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0,3000,0,'N Rideau',0,205960,0,'N Rideau',0,3000,0,'N Rideau',0,7000,0,'N Rideau',0
-'9',3901,40120,0,'Place D''Orléans',0,3000,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,3000,0,'Place D''Orléans',0,7000,0,'Place D''Orléans',0,204530,0,'Place D''Orléans',0,7100,0,'Place D''Orléans',0
+'1',3900,34240,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201760,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3100,0,'N Rideau',1
+'1',3901,35410,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,2500,0,'Place D''Orléans',1,210340,0,'Trim',1,7300,0,'Trim',1,3000,0,'Trim',1,7000,0,'Trim',1
+'10',3900,34240,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201760,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3100,0,'N Rideau',1
+'10',3901,35410,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,2500,0,'Place D''Orléans',1,210340,0,'Trim',1,7300,0,'Trim',1,3000,0,'Trim',1,7000,0,'Trim',1
+'11',3900,34240,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201760,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3100,0,'N Rideau',1
+'11',3901,35410,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,2500,0,'Place D''Orléans',1,210340,0,'Trim',1,7300,0,'Trim',1,3000,0,'Trim',1,7000,0,'Trim',1
+'12',3900,34240,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201760,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3100,0,'N Rideau',1
+'12',3901,35410,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,2500,0,'Place D''Orléans',1,210340,0,'Trim',1,7300,0,'Trim',1,3000,0,'Trim',1,7000,0,'Trim',1
+'13',3900,34240,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201760,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3100,0,'N Rideau',1
+'13',3901,35410,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,2500,0,'Place D''Orléans',1,210340,0,'Trim',1,7300,0,'Trim',1,3000,0,'Trim',1,7000,0,'Trim',1
+'2',3900,34240,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201760,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3100,0,'N Rideau',1
+'2',3901,35410,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,2500,0,'Place D''Orléans',1,210340,0,'Trim',1,7300,0,'Trim',1,3000,0,'Trim',1,7000,0,'Trim',1
+'3',3900,33600,0,'N Rideau',1,2000,0,'N Rideau',1,7040,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,205960,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1
+'3',3901,40110,0,'Place D''Orléans',1,3000,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,3000,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,204540,0,'Place D''Orléans',1,7100,0,'Place D''Orléans',1
+'4',3900,33600,0,'N Rideau',1,2000,0,'N Rideau',1,7040,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,205960,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1
+'4',3901,40110,0,'Place D''Orléans',1,3000,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,3000,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,204540,0,'Place D''Orléans',1,7100,0,'Place D''Orléans',1
+'5',3900,33600,0,'N Rideau',1,2000,0,'N Rideau',1,7040,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,205960,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1
+'5',3901,40110,0,'Place D''Orléans',1,3000,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,3000,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,204540,0,'Place D''Orléans',1,7100,0,'Place D''Orléans',1
+'6',3900,34240,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201760,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3100,0,'N Rideau',1
+'6',3901,35410,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,2500,0,'Place D''Orléans',1,210340,0,'Trim',1,7300,0,'Trim',1,3000,0,'Trim',1,7000,0,'Trim',1
+'7',3900,34500,0,'N Rideau',1,7000,0,'N Rideau',1,3040,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,6960,0,'N Rideau',1,3000,0,'N Rideau',1,157630,0,'N Rideau',1,2870,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1
+'7',3901,35910,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,3000,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,3000,0,'Place D''Orléans',1,7100,0,'Place D''Orléans',1,7120,0,'Place D''Orléans',1,3000,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,1570,0,'Place D''Orléans',1,158750,0,'Place D''Orléans',1,3000,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,3000,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,3000,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1
+'8',3900,34240,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201760,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3100,0,'N Rideau',1
+'8',3901,35410,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,2500,0,'Place D''Orléans',1,210340,0,'Trim',1,7300,0,'Trim',1,3000,0,'Trim',1,7000,0,'Trim',1
+'9',3900,34240,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201760,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3100,0,'N Rideau',1
+'9',3901,35410,0,'Place D''Orléans',1,7000,0,'Place D''Orléans',1,2500,0,'Place D''Orléans',1,210340,0,'Trim',1,7300,0,'Trim',1,3000,0,'Trim',1,7000,0,'Trim',1
