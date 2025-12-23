@@ -72,6 +72,11 @@ public class OttawaOCTranspoBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public boolean verifyRouteIdsUniqueness() {
+		return false; // merge routes
+	}
+
+	@Override
 	public boolean defaultRouteLongNameEnabled() {
 		return true;
 	}
@@ -116,7 +121,7 @@ public class OttawaOCTranspoBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.cleanBounds(gStopName);
 		gStopName = CleanUtils.cleanNumbers(gStopName);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	@Override
