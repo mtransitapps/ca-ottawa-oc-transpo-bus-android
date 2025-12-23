@@ -1,13 +1,5 @@
-'1',3900,35320,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201700,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7100,0,'N Rideau',1
-'10',3900,35320,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201700,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7100,0,'N Rideau',1
-'11',3900,35320,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201700,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7100,0,'N Rideau',1
-'12',3900,35320,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201700,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7100,0,'N Rideau',1
-'13',3900,35320,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201700,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7100,0,'N Rideau',1
-'2',3900,35320,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201700,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7100,0,'N Rideau',1
-'3',3900,40620,0,'N Rideau',1,3100,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1
-'4',3900,40620,0,'N Rideau',1,3100,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1
-'5',3900,40620,0,'N Rideau',1,3100,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1
-'6',3900,35320,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201700,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7100,0,'N Rideau',1
-'7',3900,35520,0,'N Rideau',1,7000,0,'N Rideau',1,3100,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1
-'8',3900,35320,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201700,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7100,0,'N Rideau',1
-'9',3900,35320,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201700,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7100,0,'N Rideau',1
+'JAN26-JAN26DA-Weekday-47-1',3900,35300,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201700,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7100,0,'N Rideau',1
+'JAN26-JAN26RW-Weekday-76-1',3900,35300,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201700,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7100,0,'N Rideau',1
+'JAN26-JANSAT26-Saturday-56-1',3900,40600,0,'N Rideau',1,3100,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1
+'JAN26-JANSUN26-Sunday-56-1',3900,35500,0,'N Rideau',1,7000,0,'N Rideau',1,3100,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1
+'JAN26-SNOW26-Weekday-87-1',3900,35300,0,'N Rideau',1,6500,0,'N Rideau',1,2700,0,'N Rideau',1,7100,0,'N Rideau',1,201700,0,'N Rideau',1,7000,0,'N Rideau',1,3000,0,'N Rideau',1,7100,0,'N Rideau',1
