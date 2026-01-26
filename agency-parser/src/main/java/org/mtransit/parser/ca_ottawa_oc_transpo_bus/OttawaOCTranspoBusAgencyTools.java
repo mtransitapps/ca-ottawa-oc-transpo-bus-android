@@ -52,6 +52,11 @@ public class OttawaOCTranspoBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "^[A-Z]+\\d{2}\\-"; // starts with "MMMYY" (JAN26 or SEPT25)
+	}
+
+	@Override
 	public boolean defaultRouteIdEnabled() {
 		return true;
 	}
@@ -104,6 +109,11 @@ public class OttawaOCTranspoBusAgencyTools extends DefaultAgencyTools {
 	public String cleanTripHeadsign(@NotNull String tripHeadsign) {
 		tripHeadsign = CleanUtils.removeVia(tripHeadsign);
 		return OttawaOCTranspoProviderCommons.cleanTripHeadsign(tripHeadsign);
+	}
+
+	@Override
+	public @Nullable String getTripIdCleanupRegex() {
+		return "^[A-Z]+\\d{2}\\-"; // starts with "MMMYY" (JAN26 or SEPT25)
 	}
 
 	@NotNull
