@@ -40,7 +40,7 @@
 53,'53','Tunney''s Pasture <> Baseline','6D6E70',1694,3
 56,'56','King Edward & Civic <> Tunney''s Pasture','6D6E70',1697,3
 57,'57','Tunney''s Pasture & N Rideau <> Carling Campus ~ Complexe Carling','0057B8',1698,3
-58,'58','Carling Campus / Abbott POCC ~ Complexe Carling/ Abbott POCC <> Bayshore / Tunney''s Pasture','6D6E70',1699,3
+58,'58','Carling Campus/Abbott POCC ~ Complexe Carling/Abbott POCC <> Bayshore / Tunney''s Pasture','6D6E70',1699,3
 60,'60','Cope <> Terry Fox / Tunney''s Pasture','6D6E70',1722,3
 61,'61','Tunney''s Pasture & N Rideau <> Stittsville','0057B8',1723,3
 62,'62','Tunney''s Pasture <> Stittsville','0057B8',1724,3
@@ -92,7 +92,7 @@
 234,'234','Blair <> Tenth Line','B66B94',49683,3
 237,'237','Blair <> Place D''Orléans','B66B94',49686,3
 256,'256','Tunney''s Pasture <> Bridlewood','B66B94',49747,3
-261,'261','Tunney''s Pasture <> Kimpton','B66B94',49773,3
+261,'261','Tunney''s Pasture <> Kittiwake','B66B94',49773,3
 262,'262','Tunney''s Pasture <> Fernbank','B66B94',49774,3
 263,'263','Tunney''s Pasture <> Richmond','B66B94',49775,3
 265,'265','Tunney''s Pasture <> Terry Fox','B66B94',49777,3
@@ -112,7 +112,7 @@
 405,'405','Canadian Tire Centre ~ Centre Canadian Tire','B3B3B3',51513,3
 406,'406','Canadian Tire Centre ~ Centre Canadian Tire','B3B3B3',51514,3
 602,'602','De La Salle <> Rideau','B3B3B3',53432,3
-606,'606','Immaculata HS','B3B3B3',53436,3
+606,'606','Immaculata HS <> Rockcliffe','B3B3B3',53436,3
 609,'609','De La Salle <> Elmvale','B3B3B3',53439,3
 610,'610','St Pius <> Baseline','B3B3B3',53461,3
 611,'611','Gisele Lalonde <> Orléans','B3B3B3',53462,3
