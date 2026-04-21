@@ -108,9 +108,6 @@
 303,'303','Bayshore / Carlingwood <> Dunrobin / Carp / Stittsville','B3B3B3',50550,3
 304,'304','Billings Bridge / South Keys <> Osgoode / Greely / Metcalfe','B3B3B3',50551,3
 305,'305','Carlingwood <> North Gower / Manotick','B3B3B3',50552,3
-404,'404','Canadian Tire Centre ~ Centre Canadian Tire','B3B3B3',51512,3
-405,'405','Canadian Tire Centre ~ Centre Canadian Tire','B3B3B3',51513,3
-406,'406','Canadian Tire Centre ~ Centre Canadian Tire','B3B3B3',51514,3
 602,'602','De La Salle <> Rideau','B3B3B3',53432,3
 606,'606','Immaculata HS <> Rockcliffe','B3B3B3',53436,3
 609,'609','De La Salle <> Elmvale','B3B3B3',53439,3
@@ -181,6 +178,6 @@
 691,'691','Omer-Deslauriers <> Bayshore','B3B3B3',53710,3
 696,'696','St Mother Theresa HS <> Larkin','B3B3B3',53715,3
 697,'697','Leitrim <> Ridgemont HS','B3B3B3',53716,3
-698,'698','St.Patrick HS <> Blohm','B3B3B3',53717,3
+698,'698','St.Patrick HS <> Blohm / Lorry Greenberg','B3B3B3',53717,3
 699,'699','Pierre-Des-Blois <> Findlay Creek','B3B3B3',53718,3
 5000001,'E1','Shuttle-Express Downtown ~ Navette-Express Centre-Ville <> Shuttle-Express Blair ~ Navette-Express Blair','D30F1D',2188,3
