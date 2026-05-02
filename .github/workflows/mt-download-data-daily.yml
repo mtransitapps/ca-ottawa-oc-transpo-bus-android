@@ -16,3 +16,9 @@ jobs:
         run: gh workflow run mt-download-data.yml
         env:
           GH_TOKEN: ${{ secrets.MT_PAT }}
+
+      - name: MT trigger download data workflow (ca-ottawa-oc-transpo-train-android)
+        run: gh workflow run mt-download-data.yml
+        env:
+          GH_TOKEN: ${{ secrets.MT_PAT }}
+          GH_REPO: mtransitapps/ca-ottawa-oc-transpo-train-android
