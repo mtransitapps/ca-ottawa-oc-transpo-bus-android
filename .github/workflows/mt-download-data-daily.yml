@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: MT trigger download data workflow
-        run: gh workflow run mt-download-data.yml
+        run: gh workflow run mt-download-data.yml --repo mtransitapps/ca-ottawa-oc-transpo-bus-android
         env:
           GH_TOKEN: ${{ secrets.MT_PAT }}
 
