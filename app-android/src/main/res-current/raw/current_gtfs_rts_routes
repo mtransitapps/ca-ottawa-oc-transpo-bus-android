@@ -27,7 +27,7 @@
 36,'36','Place D''Orléans <> Innes','6D6E70',1635,3
 38,'38','Blair <> Trim','6D6E70',1637,3
 39,'39','Blair & N Rideau <> Millennium','0057B8',1638,3
-40,'40','St-Laurent <> Greenboro','0057B8',1660,3
+40,'40','ST-Laurent <> Greenboro','0057B8',1660,3
 41,'41','St-Laurent <> Billings Bridge','0057B8',1661,3
 42,'42','Blair <> Hurdman','6D6E70',1662,3
 43,'43','Karsh <> Greenboro','B3B3B3',1663,3
@@ -40,7 +40,7 @@
 53,'53','Tunney''s Pasture <> Baseline','6D6E70',1694,3
 56,'56','King Edward & Civic <> Tunney''s Pasture','6D6E70',1697,3
 57,'57','Tunney''s Pasture & N Rideau <> Carling Campus ~ Complexe Carling','0057B8',1698,3
-58,'58','Carling Campus/Abbott POCC ~ Complexe Carling/Abbott POCC <> Bayshore / Tunney''s Pasture','6D6E70',1699,3
+58,'58','Carling Campus/Abbott POC ~ Complexe Carling/Abbott POC <> Bayshore / Tunney''s Pasture','6D6E70',1699,3
 60,'60','Cope <> Terry Fox / Tunney''s Pasture','6D6E70',1722,3
 61,'61','Tunney''s Pasture & N Rideau <> Stittsville','0057B8',1723,3
 62,'62','Tunney''s Pasture <> Stittsville','0057B8',1724,3
@@ -108,6 +108,12 @@
 303,'303','Bayshore / Carlingwood <> Dunrobin / Carp / Stittsville','B3B3B3',50550,3
 304,'304','Billings Bridge / South Keys <> Osgoode / Greely / Metcalfe','B3B3B3',50551,3
 305,'305','Carlingwood <> North Gower / Manotick','B3B3B3',50552,3
+450,'450','Lansdowne','B3B3B3',51663,3
+451,'451','Lansdowne','B3B3B3',51664,3
+452,'452','Lansdowne','B3B3B3',51665,3
+454,'454','Lansdowne','B3B3B3',51667,3
+455,'455','Lansdowne','B3B3B3',51668,3
+456,'456','Lansdowne','B3B3B3',51669,3
 602,'602','De La Salle <> Rideau','B3B3B3',53432,3
 606,'606','Immaculata HS <> Rockcliffe','B3B3B3',53436,3
 609,'609','De La Salle <> Elmvale','B3B3B3',53439,3
