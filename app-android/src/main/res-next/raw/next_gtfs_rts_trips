@@ -40,7 +40,7 @@
 3000,0,'Blair',30
 3001,0,'Millennium',30
 3100,0,'Innes',31
-3101,0,'Place D''Orléans',31
+3101,0,'Pl Orléans',31
 3200,0,'Blair',32
 3201,0,'Chapel Hill',32
 3300,0,'Blair',33
@@ -50,7 +50,7 @@
 3501,0,'Avalon',35
 3500,0,'Blair',35
 3601,0,'Innes',36
-3600,0,'Place D''Orléans',36
+3600,0,'Pl Orléans',36
 3800,0,'Blair',38
 3801,0,'Trim',38
 3901,0,'Millennium',39
@@ -81,7 +81,7 @@
 5601,0,'Tunney''s Pasture',56
 5701,0,'Carling Campus',57
 5700,0,'Rideau',57
-5800,0,'Abbott Point Of Care',58
+5800,0,'Abbott Pt Of Care',58
 5801,0,'Tunney''s Pasture',58
 6000,0,'Cope',60
 6001,0,'Tunney''s Pasture',60
@@ -105,7 +105,7 @@
 7401,0,'Tunney''s Pasture',74
 7501,0,'Cambrian',75
 7500,0,'Rideau',75
-8000,0,'Barrhaven Centre',80
+8000,0,'Barrhaven Ctr',80
 8001,0,'Tunney''s Pasture',80
 8101,0,'Bayshore',81
 8100,0,'Tunney''s Pasture',81
@@ -115,7 +115,7 @@
 8400,0,'Centrepointe',84
 8501,0,'Bayshore',85
 8500,0,'King Edward',85
-8601,0,'A - Antares / C - Colonnade',86
+8601,0,'Antares/Colonnade',86
 8600,0,'Tunney''s Pasture',86
 8701,0,'Baseline',87
 8700,0,'Tunney''s Pasture',87
@@ -131,7 +131,7 @@
 9400,0,'Leitrim',94
 9800,0,'Hawthorne',98
 9801,0,'Hurdman',98
-9900,0,'Barrhaven Centre',99
+9900,0,'Barrhaven Ctr',99
 9901,0,'Limebank',99
 10501,0,'St-Laurent',105
 10500,0,'Uplands',105
@@ -148,16 +148,16 @@
 12500,0,'Aviation',125
 12501,0,'Blair',125
 13801,0,'Hiawatha',138
-13800,0,'Place D''Orléans',138
+13800,0,'Pl Orléans',138
 13900,0,'Petrie Island',139
-13901,0,'Place D''Orléans',139
+13901,0,'Pl Orléans',139
 15300,0,'Carlingwood',153
 15301,0,'Lincoln Fields',153
 15800,0,'Bayshore',158
 15801,0,'Haanel',158
-16100,0,'Rohesay / Eagleson',161
+16100,0,'Rohesay/Eagleson',161
 16101,0,'Terry Fox',161
-16200,0,'Kanata W',162
+16200,0,'Kanata West',162
 16201,0,'Terry Fox',162
 16301,0,'Kittiwake',163
 16300,0,'Terry Fox',163
@@ -165,12 +165,12 @@
 16501,0,'Terry Fox',165
 16800,0,'Bridlewood',168
 16801,0,'Terry Fox',168
-17301,0,'Barrhaven Centre',173
+17301,0,'Barrhaven Ctr',173
 17300,0,'Citigate',173
 18701,0,'Amberwood',187
 18700,0,'Baseline',187
 18901,0,'Baseline',189
-18900,0,'C - Colonnade',189
+18900,0,'Colonnade',189
 19700,0,'Greenboro',197
 19801,0,'Greenboro',198
 19800,0,'Limebank',198
@@ -185,13 +185,13 @@
 23400,0,'Blair',234
 23401,0,'Tenth Line',234
 23700,0,'Blair',237
-23701,0,'Place D''Orléans',237
+23701,0,'Pl Orléans',237
 25601,0,'Templeford',256
 25600,0,'Tunney''s Pasture',256
 26101,0,'Kittiwake',261
 26100,0,'Tunney''s Pasture',261
 26200,0,'Tunney''s Pasture',262
-26201,0,'W Ridge',262
+26201,0,'West Ridge',262
 26301,0,'Richmond',263
 26300,0,'Tunney''s Pasture',263
 26501,0,'Terry Fox',265
@@ -212,13 +212,13 @@
 29901,0,'Manotick',299
 30100,0,'Carlingwood',301
 30101,0,'Richmond',301
-30201,0,'Cumberland / Sarsfield / Navan',302
+30201,0,'Cumberland/Sarsfield/Navan',302
 30200,0,'St-Laurent',302
 30300,0,'Carlingwood',303
-30301,0,'Dunrobin / Carp',303
+30301,0,'Dunrobin/Carp',303
 30400,0,'Billings Bridge',304
-30401,0,'Osgoode / Metcalfe / Greely',304
+30401,0,'Osgoode/Metcalfe/Greely',304
 30500,0,'Carlingwood',305
-30501,0,'N Gower / Kars / Manotick',305
+30501,0,'N Gower/Kars/Manotick',305
 500000101,0,'Blair',5000001
 500000100,0,'Lyon',5000001
