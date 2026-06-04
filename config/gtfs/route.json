@@ -1,0 +1,80 @@
+{
+    "exclude_routes": [
+        {
+            "route_short_name": "1",
+            "comment": "Confederation Line"
+        },
+        {
+            "route_short_name": "2",
+            "comment": "Bayview - Greenboro"
+        },
+        {
+            "route_short_name": "4",
+            "comment": "South Keys - Airport"
+        }
+    ],
+    "default_route_id_enabled": true,
+    "route_id_previous_char_configs": [
+        {
+            "char": "SNO",
+            "id_part": 506
+        }
+    ],
+    "route_id_cleanup_regex": "-\\d+(-\\d+)?$",
+    "route_id_not_unique_allowed": true,
+    "route_id_not_unique_allowed_comment": "merge routes",
+    "default_route_long_name_enabled": true,
+    "route_long_name_cleaners": [
+        {
+            "regex": "((^|(?<=<>)\\s+)([^~]+)\\s+~\\s+([^~<]+)(\\s+(?=<>)|$))",
+            "regex_comment": "remove 2nd language after ' ~ ' FIXME i18n",
+            "replacement": "$2$3$5"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "direction_headsign_cleaners": [
+        {
+            "regex": "^[A-Z] - "
+        }
+    ],
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "((^|(?<=<>)\\s+)([^~]+)\\s+~\\s+([^~<]+)(\\s+(?=<>)|$))",
+            "regex_comment": "remove 2nd language after ' ~ ' FIXME i18n",
+            "replacement": "$2$3$5"
+        },
+        {
+            "regex": "carine wilson",
+            "ignore_case": true,
+            "replacement": "Cairine Wilson"
+        }
+    ],
+    "trip_id_cleanup_regex": "^[A-Z]+\\d{2}-",
+    "trip_id_cleanup_regex_comment": "starts with 'MMMYY' (JAN26 or SEPT25)",
+    "use_stop_code_for_stop_id_digits_only": true,
+    "stop_id_not_supported_configs": [
+        {
+            "stop_name_comment": "LAVAL / LAURIER",
+            "original_stop_id": "DT032",
+            "stop_id_int": 10449
+        },
+        {
+            "stop_name_comment": "DU PORTAGE / DE L' HÔTEL-DE-VILLE",
+            "original_stop_id": "DT033",
+            "stop_id_int": 10712
+        },
+        {
+            "stop_name_comment": "LAURIER / EDDY",
+            "original_stop_id": "DT035",
+            "stop_id_int": 10766
+        }
+    ],
+    "stop_name_cleaners": [
+        {
+            "regex": "((^|(?<=<>)\\s+)([^~]+)\\s+~\\s+([^~<]+)(\\s+(?=<>)|$))",
+            "regex_comment": "remove 2nd language after ' ~ ' FIXME i18n",
+            "replacement": "$2$3$5"
+        }
+    ]
+}
