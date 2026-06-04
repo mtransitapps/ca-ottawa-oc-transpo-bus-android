@@ -52,6 +52,24 @@
     ],
     "trip_id_cleanup_regex": "^[A-Z]+\\d{2}-",
     "trip_id_cleanup_regex_comment": "starts with 'MMMYY' (JAN26 or SEPT25)",
+    "use_stop_code_for_stop_id_digits_only": true,
+    "stop_id_not_supported_configs": [
+        {
+            "stop_name_comment": "LAVAL / LAURIER",
+            "original_stop_id": "DT032",
+            "stop_id_int": 10449
+        },
+        {
+            "stop_name_comment": "DU PORTAGE / DE L' HÔTEL-DE-VILLE",
+            "original_stop_id": "DT033",
+            "stop_id_int": 10712
+        },
+        {
+            "stop_name_comment": "LAURIER / EDDY",
+            "original_stop_id": "DT035",
+            "stop_id_int": 10766
+        }
+    ],
     "stop_name_cleaners": [
         {
             "regex": "((^|(?<=<>)\\s+)([^~]+)\\s+~\\s+([^~<]+)(\\s+(?=<>)|$))",
