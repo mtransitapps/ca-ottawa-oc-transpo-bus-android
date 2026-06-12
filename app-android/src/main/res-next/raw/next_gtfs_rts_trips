@@ -145,12 +145,12 @@
 11600,0,'Greenboro',116
 11700,0,'Baseline',117
 11701,0,'Greenboro',117
-12500,0,'Aviation',125
-12501,0,'Blair',125
+12501,0,'Aviation',125
+12500,0,'Blair',125
 13801,0,'Hiawatha',138
 13800,0,'Pl Orléans',138
-13900,0,'Petrie Island',139
-13901,0,'Pl Orléans',139
+13901,0,'Petrie Island',139
+13900,0,'Pl Orléans',139
 15300,0,'Carlingwood',153
 15301,0,'Lincoln Fields',153
 15800,0,'Bayshore',158
@@ -210,8 +210,8 @@
 29401,0,'Lester',294
 29900,0,'Limebank',299
 29901,0,'Manotick',299
-30100,0,'Carlingwood',301
-30101,0,'Richmond',301
+30100,0,'Carlingwood/Bayshore',301
+30101,0,'Richmond/Stittsville',301
 30201,0,'Cumberland/Sarsfield/Navan',302
 30200,0,'St-Laurent',302
 30300,0,'Carlingwood',303
