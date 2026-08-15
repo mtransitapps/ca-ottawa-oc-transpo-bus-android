@@ -119,7 +119,7 @@
 8600,0,'Tunney''s Pasture',86
 8701,0,'Baseline',87
 8700,0,'Tunney''s Pasture',87
-8801,0,'Bayshore',88
+8801,0,'Franco-Ouest',88
 8800,0,'Hurdman',88
 9000,0,'Greenboro',90
 9001,0,'Hurdman',90
@@ -210,8 +210,8 @@
 29401,0,'Lester',294
 29900,0,'Limebank',299
 29901,0,'Manotick',299
-30100,0,'Carlingwood/Bayshore',301
-30101,0,'Richmond/Stittsville',301
+30100,0,'Carlingwood',301
+30101,0,'Richmond',301
 30201,0,'Cumberland/Sarsfield/Navan',302
 30200,0,'St-Laurent',302
 30300,0,'Carlingwood',303
@@ -223,5 +223,31 @@
 40400,0,'Canadian Tire Ctr',404
 40500,0,'Canadian Tire Ctr',405
 40600,0,'Canadian Tire Ctr',406
+60200,0,'De La Salle',602
+60201,0,'Rideau',602
+60900,0,'De La Salle',609
+60901,0,'Elmvale',609
+61200,0,'Béatrice Desloges',612
+61201,0,'Renaud',612
+61701,0,'Hurdman',617
+61700,0,'Omer-Deslauriers',617
+61800,0,'Louis Riel',618
+61801,0,'Millennium',618
+61901,0,'Blair',619
+61900,0,'Louis Riel',619
+62801,0,'Blair',628
+62800,0,'Louis Riel',628
+63400,0,'Mer Bleue',634
+64100,0,'Louis Riel',641
+64101,0,'Renaud',641
+64500,0,'Hurdman',645
+64800,0,'Louis Riel',648
+64801,0,'Orléans',648
+67800,0,'Louis Riel',678
+67801,0,'Orléans',678
+68900,0,'Conroy',689
+68901,0,'Omer-Deslauriers',689
+69101,0,'Bayshore',691
+69100,0,'Omer-Deslauriers',691
 500000101,0,'Blair',5000001
 500000100,0,'Lyon',5000001
