@@ -4,7 +4,7 @@
 601,0,'Rockcliffe',6
 700,0,'Carleton',7
 701,0,'St-Laurent',7
-801,0,'Agriculture Museum',8
+801,0,'Dow''s Lake',8
 800,0,'Gatineau',8
 901,0,'Hurdman',9
 900,0,'Rideau',9
@@ -145,12 +145,8 @@
 11600,0,'Greenboro',116
 11700,0,'Baseline',117
 11701,0,'Greenboro',117
-12501,0,'Aviation',125
-12500,0,'Blair',125
 13801,0,'Hiawatha',138
 13800,0,'Pl Orléans',138
-13901,0,'Petrie Island',139
-13900,0,'Pl Orléans',139
 15300,0,'Carlingwood',153
 15301,0,'Lincoln Fields',153
 15800,0,'Bayshore',158
@@ -220,6 +216,9 @@
 30401,0,'Osgoode/Metcalfe/Greely',304
 30500,0,'Carlingwood',305
 30501,0,'N Gower/Kars/Manotick',305
+40400,0,'Ctr Canadian Tire Ctr',404
+40500,0,'Ctr Canadian Tire Ctr',405
+40600,0,'Ctr Canadian Tire Ctr',406
 52600,0,'Blair',526
 52601,0,'Chapel Hill',526
 53901,0,'Blair',539

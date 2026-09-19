@@ -72,9 +72,7 @@
 112,'112','Billings Bridge <> Baseline','6D6E70',48658,3
 116,'116','Greenboro <> Baseline','6D6E70',48662,3
 117,'117','Baseline <> Greenboro','B3B3B3',48663,3
-125,'125','Aviation <> Blair','B3B3B3',48692,3
 138,'138','Place D''Orléans <> Hiawatha','6D6E70',48726,3
-139,'139','Petrie Island <> Place D''Orléans','B3B3B3',48727,3
 153,'153','Carlingwood <> Lincoln Fields','B3B3B3',48783,3
 158,'158','Bayshore <> Haanel','B3B3B3',48788,3
 161,'161','Hazeldean <> Terry Fox','6D6E70',48812,3
@@ -110,6 +108,9 @@
 303,'303','Bayshore / Carlingwood <> Dunrobin / Carp / Stittsville','B3B3B3',50550,3
 304,'304','Billings Bridge / S Keys <> Osgoode / Greely / Metcalfe','B3B3B3',50551,3
 305,'305','Carlingwood <> N Gower / Manotick','B3B3B3',50552,3
+404,'404','Canadian Tire Ctr','B3B3B3',51512,3
+405,'405','Canadian Tire Ctr','B3B3B3',51513,3
+406,'406','Limebank','B3B3B3',51514,3
 526,'526','Chapel Hill <> Blair','B3B3B3',52537,3
 539,'539','Blair <> Millennium','B3B3B3',52571,3
 561,'561','Tunney''s Pasture <> Terry Fox','B3B3B3',52656,3
