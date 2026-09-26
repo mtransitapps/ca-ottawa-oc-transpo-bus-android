@@ -152,7 +152,7 @@
 15800,0,'Bayshore',158
 15801,0,'Haanel',158
 16101,0,'Earl Of March',161
-16100,0,'Rohesay/Eagleson',161
+16100,0,'Rothesay/Eagleson',161
 16200,0,'Kanata West',162
 16201,0,'Terry Fox',162
 16301,0,'Kittiwake',163
@@ -216,9 +216,15 @@
 30401,0,'Osgoode/Metcalfe/Greely',304
 30500,0,'Carlingwood',305
 30501,0,'N Gower/Kars/Manotick',305
-40400,0,'Ctr Canadian Tire Ctr',404
-40500,0,'Ctr Canadian Tire Ctr',405
-40600,0,'Ctr Canadian Tire Ctr',406
+40400,0,'Canadian Tire Ctr',404
+40500,0,'Canadian Tire Ctr',405
+40600,0,'Canadian Tire Ctr',406
+45000,0,'Lansdowne',450
+45100,0,'Lansdowne',451
+45200,0,'Lansdowne',452
+45400,0,'Lansdowne',454
+45500,0,'Lansdowne',455
+45600,0,'Lansdowne',456
 52600,0,'Blair',526
 52601,0,'Chapel Hill',526
 53901,0,'Blair',539
