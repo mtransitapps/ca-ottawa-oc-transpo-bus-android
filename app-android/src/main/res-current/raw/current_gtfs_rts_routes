@@ -109,8 +109,6 @@
 304,'304','Billings Bridge / S Keys <> Osgoode / Greely / Metcalfe','B3B3B3',50551,3
 305,'305','Carlingwood <> N Gower / Manotick','B3B3B3',50552,3
 404,'404','Canadian Tire Centre','B3B3B3',51512,3
-405,'405','Canadian Tire Centre','B3B3B3',51513,3
-406,'406','Canadian Tire Centre','B3B3B3',51514,3
 526,'526','Chapel Hill <> Blair','B3B3B3',52537,3
 539,'539','Blair <> Millennium','B3B3B3',52571,3
 561,'561','Tunney''s Pasture <> Terry Fox','B3B3B3',52656,3
@@ -118,6 +116,7 @@
 563,'563','Innovation <> Tunney''s Pasture','B3B3B3',52658,3
 565,'565','Innovation <> Carling Campus','B3B3B3',52660,3
 566,'566','Tunney''s Pasture <> Innovation / Carling Campus','B3B3B3',52661,3
+582,'582','Craig Henry <> Tunney''s Pasture','B3B3B3',52719,3
 602,'602','De La Salle <> Rideau','B3B3B3',53432,3
 606,'606','Immaculata HS <> Rockcliffe','B3B3B3',53436,3
 609,'609','De La Salle <> Elmvale','B3B3B3',53439,3

@@ -217,8 +217,6 @@
 30500,0,'Carlingwood',305
 30501,0,'N Gower/Kars/Manotick',305
 40400,0,'Canadian Tire Ctr',404
-40500,0,'Canadian Tire Ctr',405
-40600,0,'Canadian Tire Ctr',406
 52600,0,'Blair',526
 52601,0,'Chapel Hill',526
 53901,0,'Blair',539
@@ -233,6 +231,8 @@
 56501,0,'Innovation',565
 56600,0,'Innovation',566
 56601,0,'Tunney''s Pasture',566
+58201,0,'Craig Henry',582
+58200,0,'Tunney''s Pasture',582
 60200,0,'De La Salle',602
 60201,0,'Rideau',602
 60601,0,'Immaculata',606
